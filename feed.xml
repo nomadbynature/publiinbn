@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2020-12-09T09:24:08-05:00</updated>
+    <updated>2020-12-09T11:11:34-05:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -16,9 +16,9 @@
         </author>
         <link href="https://nomadbynature.xyz/psychologia-pieniedzy-morgan-housel-naszymi-finansami-rzadza-emocje/"/>
         <id>https://nomadbynature.xyz/psychologia-pieniedzy-morgan-housel-naszymi-finansami-rzadza-emocje/</id>
-            <category term="biblioteczka nomady"/>
+            <category term="Biblioteczka Nomady"/>
 
-        <updated>2020-12-09T08:58:52-05:00</updated>
+        <updated>2020-12-09T11:08:27-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/36/thought-catalog-gbQ3EsFSdG8-unsplash_opt-1.jpg" alt="" />
@@ -33,7 +33,7 @@
 <p>Mówi o finansach od innej, uważam, że ponadczasowej strony, bo od strony ludzkiej psychologii i zachowań. Psychologia nie zmienia się tak szybko jak zmieniają się ekonomia i historia, dziedziny z których często korzystamy podejmując decyzje finansowe.</p>
 <p> </p>
 <div class="post__toc">
-<h3>Table of Contents</h3>
+<h3>Spis treści</h3>
 <ul>
 <li><a href="#dla-kogo-jest-ta-książka">Dla kogo jest ta książka?</a></li>
 <li><a href="#bogactwo-vs-zamożność-being-rich-vs-being-wealthy">Bogactwo vs. Zamożność (Being Rich vs. Being Wealthy)</a></li>
@@ -74,8 +74,10 @@
         </author>
         <link href="https://nomadbynature.xyz/darmowa-strona-internetowa-w-aplikacji-notion/"/>
         <id>https://nomadbynature.xyz/darmowa-strona-internetowa-w-aplikacji-notion/</id>
+            <category term="Produktywność"/>
+            <category term="Narzędzia"/>
 
-        <updated>2020-12-09T09:12:58-05:00</updated>
+        <updated>2020-12-09T11:08:38-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/35/Copy-of-Copy-of-Untitled-Design-1.jpg" alt="" />
@@ -89,7 +91,7 @@
 <p>czegoś co możemy samodzielnie zbudować i zmieniać, bez żmudnego i czasochłonnego procesu wdrażania się w nową technologię. Taką możliwość daje nam aplikacja Notion.</p>
 <p> </p>
 <div class="post__toc">
-<h3>Table of Contents</h3>
+<h3>Spis treści</h3>
 <ul>
 <li><a href="#do-czego-można-wykorzystać-stronę-zbudowaną-w-notion">Do czego można wykorzystać stronę zbudowaną w Notion?</a></li>
 <li><a href="#plusy-i-minusy">Plusy i Minusy</a></li>
@@ -109,7 +111,6 @@
 <li>przedstawienia projektów (związanych z hobby, czy karierą), którymi się akurat zajmujesz</li>
 <li>pokazania swoich fotografii w formie estetycznej galerii</li>
 </ul>
-<p> </p>
 <h2 id="plusy-i-minusy">Plusy i Minusy</h2>
 <p>Oczywiście łatwość użycia i zbudowania takiej strony niesie za sobą również pewne kompromisy. Dlatego takie rozwiązanie nie nadaje się np. do tworzenia sklepów internetowych, dużych portali, blogów. Do takich celów możemy skorzystać np. z WordPress, Squarespace lub spersonalizowanych rozwiązań.<br>Przyjrzyjmy się jednak cechom strony internetowej stworzonej w Notion:</p>
 <table>
@@ -154,7 +155,6 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
 <h2 id="darmowa-strona-internetowa-w-notion">Darmowa strona internetowa w Notion</h2>
 <ol>
 <li>
@@ -173,7 +173,6 @@
 <p>Gratuluję, twoja strona jest live i każdy może ją zobaczyć! Problemem może się jednak okazać za długi i “brzydki” link. Spokojnie, możemy sobie z tym poradzić.</p>
 </li>
 </ol>
-<p> </p>
 <h2 id="strona-w-notion-pod-własnym-adresem-internetowym">Strona w Notion pod własnym adresem internetowym</h2>
 <p>Bez osobistej domeny, adres twojej nowej strony internetowej w Notion będzie wyglądał mniej więcej tak:<br>www.notion.so/moja-nowa-strona-there-a756207547f24cc411876sb447c039ea16559a</p>
 <p>A wolelibyśmy, aby wyglądał schludnie, np. tak:<br>www.jankowalski.com<br>www.nomadbynature.xyz</p>
@@ -207,9 +206,10 @@
         </author>
         <link href="https://nomadbynature.xyz/jardin-kolumbijskie-miasteczko-zwane-ogrodem/"/>
         <id>https://nomadbynature.xyz/jardin-kolumbijskie-miasteczko-zwane-ogrodem/</id>
+            <category term="Podróże"/>
             <category term="Kolumbia"/>
 
-        <updated>2020-12-09T09:13:11-05:00</updated>
+        <updated>2020-12-09T11:08:43-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/34/IMG_20201011_220649_384_opt-1.jpg" alt="" />
@@ -224,36 +224,62 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ponieważ Jardin leży tylko ok. 3-4 godziny drogi (135km) od Medellin, stało się ono popularnym punktem weekendowych wycieczek dla ludzi z metropolii, choć ja sama nie polecałabym wizyty w weekend (sprawdźcie sekcję 'wskazówki' po szczegóły).</p>
+<p> </p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep40tpccds">Co zobaczyć w Jardin?</a>
+<ul>
+<li><a href="#mcetoc_1ep40tpccdt">Architektura kolonialna</a></li>
+<li><a href="#mcetoc_1ep40tpccdu">Plaza El Libertador i Bazylika Niepokalanego Poczęcia</a></li>
+<li><a href="#mcetoc_1ep40tpccdv">‘Tinto, tinto, tintico….’</a></li>
+<li><a href="#mcetoc_1ep40tpcce0">Dulces del Jardin</a></li>
+<li><a href="#mcetoc_1ep40tpcce1">Rezerwat skalikurków andyjskich - Parque Natural Jardín de Rocas</a></li>
+<li><a href="#mcetoc_1ep40tpcce2">La Garrucha - kolejka linowa</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep40tpcce3">Okolice Jardin</a>
+<ul>
+<li><a href="#mcetoc_1ep40tpcce4">Mirador  - punkty widokowe</a></li>
+<li><a href="#mcetoc_1ep40tpcce5">Cascada del Amor - Wodospad Miłości</a></li>
+<li><a href="#mcetoc_1ep40tpcce6">La Escalera</a></li>
+<li><a href="#mcetoc_1ep40tpcce7">Cueva Del Esplendor</a></li>
+<li><a href="#mcetoc_1ep40tpcce8">Zjedz pstrąga w La Argelia</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep40tpcce9">Wskazówki</a>
+<ul>
+<li><a href="#mcetoc_1ep40tpccea">Jak dojechać do Jardin z Medellin?</a></li>
+<li><a href="#mcetoc_1ep40tpcceb">Dokąd dalej?</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Co zobaczyć w Jardin?</h2>
+<h2 id="mcetoc_1ep40tpccds">Co zobaczyć w Jardin?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jak już wspomniałam w Jardin jest wiele do zobaczenia, najlepiej rozpocząć od przechadzania się ulicami tego pięknego pueblo (miasteczka).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Architektura kolonialna</h3>
+<h3 id="mcetoc_1ep40tpccdt">Architektura kolonialna</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Gdzie nie spojrzymy zachowały się <strong>budynki w stylu kolonialnym</strong>, wiele z nich ma ponad 100 lat. Większość z nich charakteryzują drewniane detale, np. balustrady, okiennice, wszystkie oczywiście w bajecznych kolorach. Mieszkańcy dbają bardzo o wygląd miasta, chcąc przyciągnąć turystów, budynki są przeważnie dobrze utrzymane, a ulice czyste.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/IMG_20201012_091415.jpg" data-size="900x506"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/IMG_20201012_091415-thumbnail.jpg" alt="Jardin Kolumbia" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/2020-10-12-115654747.jpg" data-size="900x506"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/2020-10-12-115654747-thumbnail.jpg" alt="kolorowe ulice Jardin" width="720" height="405"></a></figure>
+</div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"ids":[3123,3125,3147],"columns":2} --></p>
 <figure class="wp-block-gallery columns-2 is-cropped">
-<ul class="blocks-gallery-grid">
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3123"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/2020-10-10-044240602.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044240602-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044240602-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044240602-md.jpg 768w"  alt="" data-id="3123" data-link="https://nomadbynature.xyz/?attachment_id=3123"></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3125"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/2020-10-12-115654747.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115654747-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115654747-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115654747-md.jpg 768w"  alt="" data-id="3125" data-link="https://nomadbynature.xyz/?attachment_id=3125"></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3147"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/IMG_20201012_091415.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201012_091415-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201012_091415-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201012_091415-md.jpg 768w"  alt="" data-id="3147" data-full-url="https://nomadbynature.xyz/media/posts/34/IMG_20201012_091415.jpg" data-link="https://nomadbynature.xyz/jardin-kolumbijskie-miasteczko-zwane-ogrodem/img_20201012_091415/"></figure></figure>
-</li>
-</ul>
+<figure><figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/2020-10-10-044240602-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044240602-2-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044240602-2-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044240602-2-md.jpg 768w"  alt="" width="900" height="549"></figure></figure>
 </figure>
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Plaza El Libertador i Bazylika Niepokalanego Poczęcia</h3>
+<h3 id="mcetoc_1ep40tpccdu">Plaza El Libertador i Bazylika Niepokalanego Poczęcia</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jardin ma niską zabudowę, a nad całością góruje Bazylika Niepokalanego Poczęcia (Basilica of the Immaculate Conception), zbudowana w XIX w. z lokalnych, ręcznie ciosanych kamieni. Kościół zlokalizowany jest przy Plaza El Libertador, głównym placu w miasteczku, wokół którego skupia się całe lokalne życie. </p>
@@ -262,50 +288,24 @@
 <p>To właśnie tutaj napijecie się najlepszej w mieście kawy. Znajdzie się kawiarnia, serwująca latte i cappuccino, ale zachęcam was do wypróbowania, w lokalnym duchu tzw. tinto. <strong>Tinto piją lokalni mieszkańcy</strong>, z resztą na pewno zobaczycie wielu (szczególnie) mężczyzn siedzących przy placu w charakterystycznych dla regionu białych kapeluszach, popijających kawę i rozprawiających o polityce, czy innych tego typu sprawach.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":20} --></p>
-<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
-<p><!-- /wp:spacer --></p>
-<p><!-- wp:kadence/infobox {"uniqueID":"_ea69f1-63","hAlign":"left","hAlignMobile":"center","containerBackground":"#ffffff","containerHoverBackground":"#ffffff","containerBorder":"#009efd","containerBorderWidth":[5,5,5,5],"containerBorderRadius":20,"containerPadding":[24,24,24,24],"mediaAlign":"left","mediaImage":[{"url":"","id":"","alt":"","width":"","height":"","maxWidth":100,"hoverAnimation":"none","flipUrl":"","flipId":"","flipAlt":"","flipWidth":"","flipHeight":"","subtype":"","flipSubtype":""}],"mediaIcon":[{"icon":"fas_coffee","size":50,"width":2,"title":"","color":"#444444","hoverColor":"#444444","hoverAnimation":"none","flipIcon":""}],"mediaStyle":[{"background":"#ffffff","hoverBackground":"#ffffff","border":"#eeeeee","hoverBorder":"#eeeeee","borderRadius":200,"borderWidth":[5,5,5,5],"padding":[20,20,20,20],"margin":[0,20,0,0]}],"titleFont":[{"level":3,"size":["","",""],"sizeType":"px","lineHeight":["","",""],"lineType":"px","letterSpacing":"","textTransform":"","family":"","google":false,"style":"","weight":"","variant":"","subset":"","loadGoogle":true,"padding":[0,0,0,0],"paddingControl":"linked","margin":[5,0,10,0],"marginControl":"individual"}],"mediaAlignMobile":"top","containerMargin":["","","",""]} --></p>
+<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.26562em + 0.1582 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">‘</span><em style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.26562em + 0.1582 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Tinto, tinto, tintico….</em><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.26562em + 0.1582 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">’</span></div>
 <div id="kt-info-box_ea69f1-63" class="wp-block-kadence-infobox">
-<div class="kt-blocks-info-box-media-container">
-<div class="kt-blocks-info-box-media kt-info-media-animate-none">
-<div class="kadence-info-box-icon-container kt-info-icon-animate-none">
-<div class="kadence-info-box-icon-inner-container"> </div>
-</div>
-</div>
-</div>
 <div class="kt-infobox-textcontent">
-<h3 class="kt-blocks-info-box-title">‘<em>Tinto, tinto, tintico….</em>’</h3>
-<p class="kt-blocks-info-box-text">Tinto to typowy dla Kolumbii sposób przygotowania kawy, <strong>poprzez gotowanie zmielonych ziaren kawy </strong>(nie tylko samo zalanie ich wrzątkiem). Do robienia tinto nie używa się najwyższej jakości kawy, a raczej takiej do codziennego użytku.<br>Popularne jest również tzw. <strong>tinto campesino</strong> - czyli tinto dodatkowo aromatyzowane cynamonem, goździkami i słodzone panelą. Pycha!</p>
+<p class="kt-blocks-info-box-text msg msg--highlight  msg--success">Tinto to typowy dla Kolumbii sposób przygotowania kawy, <strong>poprzez gotowanie zmielonych ziaren kawy </strong>(nie tylko samo zalanie ich wrzątkiem). Do robienia tinto nie używa się najwyższej jakości kawy, a raczej takiej do codziennego użytku.<br>Popularne jest również tzw. <strong>tinto campesino</strong> - czyli tinto dodatkowo aromatyzowane cynamonem, goździkami i słodzone panelą. Pycha!</p>
 </div>
-<p> </p>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Na placu znajdziecie też stragany z owocami, punkt informacji turystycznej, piekarnie i restauracje.</span></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/1604683107986.jpg" data-size="900x592"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/1604683107986-thumbnail.jpg" alt="bazylika jardin kolumbia" width="720" height="474"></a></figure>
+</div></div>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/1604683128848.jpg" data-size="675x730"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/1604683128848-thumbnail.jpg" alt="bazylika jardin kolumbia" width="675" height="730"></a></figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/1604683146985.jpg" data-size="900x730"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/1604683146985-thumbnail.jpg" alt="stragany jardin kolumbia" width="720" height="584"></a></figure>
+</div></div>
+<p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Zarezerwujcie sobie czas w dzień jak i wieczorem na wizytę na placu, najlepiej rozsiąść się w którejś z restauracji czy kawiarni i poobserwować toczące się wokół życie. W weekendy i wieczorami robi się tu szczególnie wesoło, można też podziwiać </span><strong style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit;">paradnie kroczące konie rasy Paso Fino</strong><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></p>
 </div>
-<p><!-- /wp:kadence/infobox --></p>
-<p><!-- wp:spacer {"height":20} --></p>
-<div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"> </div>
-<p><!-- /wp:spacer --></p>
-<p><!-- wp:paragraph --></p>
-<p>Na placu znajdziecie też stragany z owocami, punkt informacji turystycznej, piekarnie i restauracje. </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:gallery {"ids":[3127,3130,3129]} --></p>
-<figure class="wp-block-gallery columns-3 is-cropped">
-<ul class="blocks-gallery-grid">
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3127"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/2020-10-10-044549559.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044549559-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044549559-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-10-044549559-md.jpg 768w"  alt="" data-id="3127" data-link="https://nomadbynature.xyz/?attachment_id=3127"></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3130"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/2020-10-12-115237032-675x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115237032-675x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115237032-675x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115237032-675x730-md.jpg 768w"  alt="" data-id="3130" data-link="https://nomadbynature.xyz/?attachment_id=3130"></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3129"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/2020-10-12-115537894-900x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115537894-900x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115537894-900x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/2020-10-12-115537894-900x730-md.jpg 768w"  alt="" data-id="3129" data-link="https://nomadbynature.xyz/?attachment_id=3129"></figure></figure>
-</li>
-</ul>
-</figure>
-<p><!-- /wp:gallery --></p>
-<p><!-- wp:paragraph --></p>
-<p>Zarezerwujcie sobie czas w dzień jak i wieczorem na wizytę na placu, najlepiej rozsiąść się w którejś z restauracji czy kawiarni i poobserwować toczące się wokół życie. W weekendy i wieczorami robi się tu szczególnie wesoło, można też podziwiać <strong>paradnie kroczące konie rasy Paso Fino</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Dulces del Jardin</h3>
+<h3 id="mcetoc_1ep40tpcce0">Dulces del Jardin</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jak już napiliśmy się kawy, dobrze byłoby wrzucić coś na ząb, najlepiej coś słodkiego. Po słodkości najlepiej wybrać się do Dulces del Jardin - <strong>cukierni z tradycją</strong>. Dulces del Jardin to cukiernia i wytwórnia dżemów założona w 1995 roku przez lokalną businesswoman, panią Mariel Arango. </p>
@@ -314,7 +314,7 @@
 <p>Jej pomysł na dżemy i słodycze z lokalnych owoców (np. <a href="https://nomadbynature.xyz/owoce-kolumbijskie-egzotyka-na-talerzu/">pomidora drzewiastego</a>) okazał się strzałem w dziesiątkę, jej marka znana jest w całej okolicy, a sklep zawsze pełen łakomczuchów.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Rezerwat skalikurków andyjskich - Parque Natural Jardín de Rocas</h3>
+<h3 id="mcetoc_1ep40tpcce1">Rezerwat skalikurków andyjskich - Parque Natural Jardín de Rocas</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:image {"id":3135,"sizeSlug":"large"} --></p>
 <figure class="wp-block-image size-large"><figure class="wp-image-3135"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/mmexport1602554875631-900x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/mmexport1602554875631-900x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/mmexport1602554875631-900x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/mmexport1602554875631-900x730-md.jpg 768w"  alt=""></figure><br>
@@ -331,38 +331,38 @@
 <p>Aby dostać się do rezerwatu trzeba skierować się w stronę rzeki (Calle 9) i skręcić w prawo tuż przed mostem (idąc od strony miasta). Przy skręcie nie ma żadnego znaku, ale nietrudno wypatrzeć drogę. Wstęp jest płatny (~10 zł). Nie śpieszcie się z rannym wstawaniem, skalikurki pozwalają się oglądać w godzinach popołudniowych, od około 16 aż do zachodu słońca.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>La Garrucha - kolejka linowa</h3>
+<h3 id="mcetoc_1ep40tpcce2">La Garrucha - kolejka linowa</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Miasteczka i miasta położone w Andach mają to do siebie, że przemieszczanie się po nich jest momentami dość uciążliwe z uwagi na duże różnice w wysokości i strome ulice. Często więc napotkamy kolejki linowe. Nie inaczej jest i w Jardin, gdzie taka mała kolejka (z tylko jednym wagonikiem) powstała w 1995 roku. Oryginalnie zbudowana na użytek prywatny, obecnie cieszy się powodzeniem wśród turystów i miejscowych, jako element transportu publicznego.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Przejażdżka kolejką jest bardzo hałaśliwa i trwa tylko około 2-3 minuty, ale możemy tym sposobem zaoszczędzić sporo wspinania się. Przy górnej ‘stacji’ znajduje się restauracja z piękną panoramą miasteczka Jardin.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=Mf_bzxSkOAs\u0026ab_channel=NomadbyNature","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
+<p>Przejażdżka kolejką jest bardzo hałaśliwa i trwa tylko około 2-3 minuty, ale możemy tym sposobem zaoszczędzić sporo wspinania się. Przy górnej ‘stacji’ znajduje się restauracja z piękną panoramą miasteczka Jardin.</p>
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=Mf_bzxSkOAs&amp;ab_channel=NomadbyNature</div>
+<div class="wp-block-embed__wrapper">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Mf_bzxSkOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</div>
 <figcaption>La Garrucha i inne atrakcje Jardin już na moim kanale!</figcaption>
 </figure>
 <p><!-- /wp:core-embed/youtube --></p>
 <p><!-- wp:heading --></p>
-<h2>Okolice Jardin</h2>
+<h2 id="mcetoc_1ep40tpcce3">Okolice Jardin</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Wycieczka do Jardin to nie tylko spacery kolorowymi uliczkami i popijanie kawki, trzeba koniecznie wybrać się również na spacer po okolicy! </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Czekają na nas wodospady, strumienie, zielone krajobrazy, bogata flora, barwne ptaki, plantacje kawy, plantanów (tzw. bananów warzywnych) czy bananów. Znajdzie się lekki trek dla początkujących i trudniejszy dla zaawansowanych. Kolarze górscy się nie zawiodą, a dla leniwych ;P organizowane są przejażdżki konne.</p>
-<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/IMG_20201011_142156-506x410-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_142156-506x410-2-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_142156-506x410-2-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_142156-506x410-2-md.jpg 768w"  alt="wiśnie kawy kolumbia" width="506" height="410"></figure>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:gallery {"ids":[3138,3139,3136],"columns":2,"sizeSlug":"medium"} --></p>
-<p><!-- /wp:gallery --></p>
-<p><!-- wp:heading {"level":3} --></p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/IMG_20201011_091458-570x410.jpg" data-size="570x410"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/IMG_20201011_091458-570x410-thumbnail.jpg" alt="różowe banany" width="570" height="410"></a></figure>
 <figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/mmexport1602462853283-570x410.jpg" data-size="570x410"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/mmexport1602462853283-570x410-thumbnail.jpg" alt="paisa kolumbia" width="570" height="410"></a></figure>
 </div></div>
-<h3>Mirador  - punkty widokowe</h3>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/34/gallery/IMG_20201011_142156-506x410-2.jpg" data-size="506x410"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/34/gallery/IMG_20201011_142156-506x410-2-thumbnail.jpg" alt="wiśnie kawy kolumbia" width="506" height="410"></a></figure>
+</div></div>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:gallery {"ids":[3138,3139,3136],"columns":2,"sizeSlug":"medium"} --></p>
+<p><!-- /wp:gallery --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3 id="mcetoc_1ep40tpcce4">Mirador  - punkty widokowe</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Widoki w okolicach Jardin są piękne w zasadzie wszędzie, ale najlepszy widok na miasteczko możemy znaleźć z <strong>górnej stacji La Garrucha</strong> oraz od drugiej strony miasteczka z <strong>Cafe Jardin</strong> i <strong>Cristo Rey</strong>. Aplikacje <a href="https://maps.me/en/download/">Maps.me</a> oraz <a href="https://www.wikiloc.com/">Wikiloc</a> pomogą wam w wyborze ciekawej drogi i dotarciu do punktów widokowych, znajdziecie w nich gotowe trasy spacerowe.</p>
@@ -371,7 +371,7 @@
 <p>Zamiast pieszo Jardin można zwiedzać również na rowerze lub konno. <strong>O przejażdżki konne lub wypożyczenie roweru najlepiej zapytać swój hotel/hostel.</strong> Po rowery można również zajrzeć do <a href="https://www.facebook.com/Jard%C3%ADn-Rental-Bike-1769243119781871/?ref=page_internal">Jardín Rental Bike</a> tuż przy Plaza del Libertador.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Cascada del Amor - Wodospad Miłości</h3>
+<h3 id="mcetoc_1ep40tpcce5">Cascada del Amor - Wodospad Miłości</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Szeroki, wygodny szlak poprowadzi nas (i równocześnie wieeeelu innych turystów) przez łąki i lasy do Kaskady/Wodospadu Miłości. Skłamałabym gdybym powiedziała, że wodospad robi niesamowite wrażenie. Jest to niewielka kaskada, ale zdawać by się mogło przede wszystkim miejsce do zdjęć i selfies dla ludzi z całej okolicy…</p>
@@ -380,13 +380,13 @@
 <p>Droga do Cascada del Amor poprowadzi nas jednak dalej do kąpieliska (w lodowatej wodzie górskiego strumienia) oraz do dość nietypowej atrakcji turystycznej - ręcznie wykopanego tunelu o długości 160m, w którym obecnie mieszkają tysiące nietoperzy, w tym <strong>nietoperz wampir</strong>. Tunel znany jest jako <strong>Jardin’s Rock Garden</strong> (nie mylić z Jardin de Rocas - rezerwatem skalikurków).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>La Escalera</h3>
+<h3 id="mcetoc_1ep40tpcce6">La Escalera</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Kolejna ładna kaskada, pod którą można się wykąpać, jeśli nie boicie się zimnej wody. Tuż obok wodospadu znajduje się też mała kawiarnia serwująca kawę, świeże soki i przekąski. Jest to miły przystanek na szlaku wśród zieleni.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Cueva Del Esplendor</h3>
+<h3 id="mcetoc_1ep40tpcce7">Cueva Del Esplendor</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Aby dojść do tej jaskini z wodospadem (przelewającym się przez otwór w sklepieniu) trzeba mieć trochę lepszą kondycję, nie jest to najlżejszy trek, droga prowadzi dość ostro pod górę. Niestety nie udało mi się dotrzeć do jaskini, ponieważ podczas moich odwiedzin w Jardin szlak był zamknięty z powodu pandemii koronawirusa.</p>
@@ -399,15 +399,10 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"ids":[3133]} --></p>
 <figure class="wp-block-gallery columns-1 is-cropped">
-<ul class="blocks-gallery-grid">
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3133"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/IMG_20201011_154203.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-md.jpg 768w"  alt="" data-id="3133" data-full-url="https://nomadbynature.xyz/media/posts/34/IMG_20201011_154203.jpg" data-link="https://nomadbynature.xyz/?attachment_id=3133"></figure></figure>
-</li>
-</ul>
+<figure><figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/IMG_20201011_154203-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-2-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-2-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-2-md.jpg 768w"  alt="" width="900" height="506"></figure></figure>
 </figure>
-<p><!-- /wp:gallery --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3>Zjedz pstrąga w La Argelia</h3>
+<h3> </h3>
+<h3 id="mcetoc_1ep40tpcce8">Zjedz pstrąga w La Argelia</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Restauracja znajduje się poza miastem i będzie świetnym dopełnieniem spaceru po okolicy, kiedy już zgłodniejecie. Można tu zamówić pstrąga przyrządzonego na różne sposoby, najważniejsze jednak, że ryba jest bardzo świeża, bo restauracja prowadzi własną hodowlę. Pstrąga można nawet złowić samodzielnie.</p>
@@ -426,7 +421,7 @@
 </ul>
 <p><!-- /wp:list --></p>
 <p><!-- wp:heading --></p>
-<h2>Wskazówki</h2>
+<h2 id="mcetoc_1ep40tpcce9">Wskazówki</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:list {"ordered":true} --></p>
 <ol>
@@ -441,7 +436,7 @@
 <figure class="wp-block-image size-large"><figure class="wp-image-3140"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/mmexport1602554784495-1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/mmexport1602554784495-1-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/mmexport1602554784495-1-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/mmexport1602554784495-1-md.jpg 768w"  alt=""></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Jak dojechać do Jardin z Medellin?</h3>
+<h3 id="mcetoc_1ep40tpccea">Jak dojechać do Jardin z Medellin?</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jardin położone jest ok 3-4 godziny jazdy od Medellin. Aby dostać się do Jardin z Medellin należy wyruszyć z Terminal del Sur (terminal południowy). Bilety przewoźnika (Rapido Ochoa) kupić można online lub na stacji.</p>
@@ -450,7 +445,7 @@
 <p>Bilet zakupiony przez internet należy wymienić w kasie/okienku przewoźnika na fizyczny bilet. Wystarczy zrobić to na kilkanaście minut przed odjazdem.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Dokąd dalej?</h3>
+<h3 id="mcetoc_1ep40tpcceb">Dokąd dalej?</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ja pojechałam do Salento! Opis pojawi się już niedługo na blogu.</p>
@@ -465,10 +460,10 @@
         </author>
         <link href="https://nomadbynature.xyz/cyfrowy-nomadyzm-to-nie-tylko-praca-zdalna-kim-sa-cyfrowi-nomadzi/"/>
         <id>https://nomadbynature.xyz/cyfrowy-nomadyzm-to-nie-tylko-praca-zdalna-kim-sa-cyfrowi-nomadzi/</id>
-            <category term="lifestyle"/>
-            <category term="cyfrowy nomada"/>
+            <category term="Lifestyle"/>
+            <category term="Cyfrowy Nomada"/>
 
-        <updated>2020-12-09T09:24:08-05:00</updated>
+        <updated>2020-12-09T11:08:51-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/33/Copy-of-Copy-of-Copy-of-Untitled-Design-2-1.png" alt="" />
@@ -492,9 +487,38 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Mam nadzieję, że artykuł pomoże wam rozjaśnić pewne wątpliwości, które macie w związku ze stylem życia cyfrowego nomady. Może pomoże wam obrać kierunek jeśli jesteście w drodze do cyfrowego nomadyzmu. Tak czy siak, <strong>sztywne definicje nie pasują do świata nomadów, także najlepiej jest się zainspirować i stworzyć własną.</strong></p>
+<p> </p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep42670lin">Dlaczego ciężko zdefiniować cyfrowy nomadyzm?</a></li>
+<li><a href="#mcetoc_1ep42670lio">Próby zdefiniowania cyfrowego nomadyzmu</a>
+<ul>
+<li><a href="#mcetoc_1ep42670lip">Czym dla mnie jest cyfrowy nomadyzm?</a></li>
+<li><a href="#mcetoc_1ep42670liq">Różnica między pracą zdalną a cyfrowym nomadyzmem</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep42670lir">Możliwości zarabiania jako cyfrowy nomada</a></li>
+<li><a href="#mcetoc_1ep42670lis">Co - i spółka</a>
+<ul>
+<li><a href="#mcetoc_1ep42670lit">Community (społeczność)</a></li>
+<li><a href="#mcetoc_1ep42670liu">Coworking</a></li>
+<li><a href="#mcetoc_1ep42670liv">Coliving</a></li>
+<li><a href="#mcetoc_1ep42670lj0">Coworkation</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep42670lj1">Co ma lifestyle design do cyfrowego nomadyzmu?</a>
+<ul>
+<li><a href="#mcetoc_1ep42670lj2">Work-life balance</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep42670lj3">Czy cyfrowy nomadyzm jest dla każdego?</a></li>
+</ul>
+</div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Dlaczego ciężko zdefiniować cyfrowy nomadyzm?</h2>
+<h2 id="mcetoc_1ep42670lin">Dlaczego ciężko zdefiniować cyfrowy nomadyzm?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Przede wszystkim cyfrowy nomadyzm <strong>jest zjawiskiem stosunkowo nowym</strong> (przynajmniej na większą, zauważalną skalę), ponieważ powszechny dostęp do taniej technologii jest również stosunkowo nowy. Wiele zjawisk, które nie przetrwały jeszcze próby czasu, nie ma jasnego określenia, bo są wciąż w fazie kształtowania i dopiero kiełkują w szerszej świadomości. </p>
@@ -509,7 +533,7 @@
 <p>Dodatkowo, uważam, że cyfrowy nomadyzm to <strong>sprawa bardzo indywidualna</strong>, definicja może różnić się od osoby do osoby, a nawet ta sama osoba w różnych okresach swojego życia może określać siebie z innej perspektywy. Ponieważ wolność i wybór są centralnymi wartościami wyznawanymi przez cyfrowych nomadów uważam, że <strong>jedna definicja nigdy nie będzie istnieć, ale w kolejnych będą pojawiać się pewne stałe elementy</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Próby zdefiniowania cyfrowego nomadyzmu</h2>
+<h2 id="mcetoc_1ep42670lio">Próby zdefiniowania cyfrowego nomadyzmu</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Prób zdefiniowania zjawiska cyfrowego nomadyzmu nie brakuje. Pierwszy raz termin ten pojawił się ponad 20 lat temu, w 1997 roku w książce autorstwa T. Makimoto i D. Manners'a pod tytułem (wait for it ;)), “Digital Nomad”. Publikacja ta przewidziała jakoby powstanie nowej grupy społecznej w oparciu o rozwój technologii i telekomunikacji.</p>
@@ -532,7 +556,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":3030,"width":294,"height":450,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-3030"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/cyfrowy-nomada-digital-nomad.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/cyfrowy-nomada-digital-nomad-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/cyfrowy-nomada-digital-nomad-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/cyfrowy-nomada-digital-nomad-md.jpg 768w"  alt="" width="294" height="450"></figure></figure>
+<figure class="aligncenter size-full is-resized"><figure class="wp-image-3030 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/cyfrowy-nomada-digital-nomad.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/cyfrowy-nomada-digital-nomad-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/cyfrowy-nomada-digital-nomad-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/cyfrowy-nomada-digital-nomad-md.jpg 768w"  alt="" width="294" height="450"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -540,11 +564,9 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Spójrzmy więc na kilka krążących w internecie definicji:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:quote --></p>
-<blockquote class="wp-block-quote">
+<blockquote>
 <p>“Digital nomads are a growing demographic of location-independent professionals who can work remotely from anywhere on Earth and customize their travel to where they feel the most inspired."</p>
-<p><cite>BBC</cite></p>
+<p><em>BBC</em></p>
 </blockquote>
 <p><!-- /wp:quote --></p>
 <p><!-- wp:paragraph --></p>
@@ -558,8 +580,8 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:quote --></p>
 <blockquote class="wp-block-quote">
-<p><strong>"Digital nomads are individuals who use telecommunications technologies to earn a living and, more generally, conduct their life in a nomadic manner.</strong>"</p>
-<p><cite>Wikipedia</cite></p>
+<p>"Digital nomads are individuals who use telecommunications technologies to earn a living and, more generally, conduct their life in a nomadic manner."</p>
+<p><em><cite>Wikipedia</cite></em></p>
 </blockquote>
 <p><!-- /wp:quote --></p>
 <p><!-- wp:paragraph --></p>
@@ -569,7 +591,7 @@
 <p>Ta podoba mi się dużo bardziej, jest mowa o technologii (bez której, określenie ‘cyfrowy’ nie miałoby racji bytu) i o przemieszczaniu się - jak to nomada. I przede wszystkim <strong>mówi o 'zarabianiu' a nie o pracy,</strong> co rezonuje z moim zdaniem na temat cyfrowego nomadyzmu. Praca, kojarzy mi się raczej z pracą na etacie, czy też ogólniej z zamianą czasu na pieniądze; natomiast zarobkowanie (zarabianie) jest pojęciem szerszym i można pod nie podciągnąć takie pojęcia jak inwestowanie, czy dochód pasywny.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Czym dla mnie jest cyfrowy nomadyzm?</h3>
+<h3 id="mcetoc_1ep42670lip">Czym dla mnie jest cyfrowy nomadyzm?</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jak napisałam na początku, najlepiej jest stworzyć własną definicję. Więc czym dla mnie jest cyfrowy nomadyzm?</p>
@@ -587,7 +609,7 @@
 <p>Także pomimo, że dla mnie samej podróże są bardzo ważne i stanowią sporą część mojego życia, nie uważam, że są one wyznacznikiem, czy ktoś jest, bądź nie jest cyfrowym nomadą. Według mnie determinować to będzie raczej <strong>posiadanie możliwości</strong> dowolnego podróżowania (bądź jej brak).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Różnica między pracą zdalną a cyfrowym nomadyzmem</h3>
+<h3 id="mcetoc_1ep42670liq">Różnica między pracą zdalną a cyfrowym nomadyzmem</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>W tym miejscu może warto wspomnieć o różnicy między cyfrowym nomadą a pracownikiem zdalnym.</p>
@@ -608,7 +630,7 @@
 <p>Myślę również, że właśnie pracowników zdalnych + cyfrowych nomadów miał na myśli Peter Levels mówiąc, że będzie nas ponad miliard do 2035 roku.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Możliwości zarabiania jako cyfrowy nomada</h2>
+<h2 id="mcetoc_1ep42670lir">Możliwości zarabiania jako cyfrowy nomada</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Skoro cyfrowy nomadyzm to nie zawód, a styl życia, to jak na taki styl życia zarobić? Ciągłe podróże to przecież nie mały wydatek. Na szczęście możliwości zarabiania w przypadku cyfrowych nomadów jest bardzo wiele. W związku z tym chciałabym napisać o tych możliwościach w osobnym poście, aby nie spłycać za bardzo tematu. </p>
@@ -621,7 +643,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:malina/subscribe /--></p>
 <p><!-- wp:heading --></p>
-<h2>Co - i spółka</h2>
+<h2 id="mcetoc_1ep42670lis">Co - i spółka</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Osobno ale razem, razem ale osobno? Nomadzi to raczej indywidualiści, ale nie znaczy że są mało towarzyscy, czy, że nie potrzebują kontaktów z innymi ludźmi. Wręcz przeciwnie! Kiedy jest się na drugim końcu świata, daleko od domu rodzinnego, kontakty i przyjaźnie są szczególnie cenne.</p>
@@ -633,7 +655,7 @@
 <p>Stąd wśród cyfrowych nomadów 3 x "co-": community, coworking i coliving.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Community (społeczność)</h3>
+<h3 id="mcetoc_1ep42670lit">Community (społeczność)</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Już w 1997 roku, kiedy pojęcie digital nomad pojawiło się po raz pierwszy, jego autorzy podkreślali znaczenie społeczności. Pisali o nowej grupie, utworzonej ponad podziałami krajowymi/narodowościowymi, a <strong>bazującej na wspólnych zainteresowaniach</strong>.</p>
@@ -661,7 +683,7 @@
 <p>Wiele społeczności zaczyna się online i czasem przenosi się do offline, ale może być również na odwrót, kiedy np. tworzone są społeczności, które pierwotnie skupiają się wokół konkretnych kawiarni, pubów, albo przestrzeni do coworkingu i colivingu, jak np. miłośnicy i goście <a href="https://nomadbynature.xyz/z-zycia-cyfrowego-nomady-miesiac-na-trajskiej-wyspie-lanta-w-kohub-coworking/">KoHub - coworkingu w Tajlandii</a>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Coworking</h3>
+<h3 id="mcetoc_1ep42670liu">Coworking</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Co to jest coworking i czym różni się od tradycyjnego biura czy openspace? Coworking to miejsce do wspólnej (co-) pracy (working), ale różni się tym od tradycyjnych biur, że ludzie pracujący w takiej przestrzeni zazwyczaj nie pracują dla jednej i tej samej firmy. </p>
@@ -715,7 +737,7 @@
 <p>Nie każdy lubi pracować w przestrzeniach coworkingowych, wielu nomadów na miejsce pracy wybiera zacisze własnego pokoju/mieszkania, tam gdzie się akurat zatrzymali. Wiele osób lubi również pracować w kawiarniach, które funkcjonują jako impromptu coworking (ponieważ miejsce do pracy i wifi najczęściej są darmowe, wystarczy zamówić kawę).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Coliving</h3>
+<h3 id="mcetoc_1ep42670liv">Coliving</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Co to jest coliving? To wspólna przestrzeń do zamieszkania, w pełni wyposażona i zaprojektowana z myślą o wygodzie, i jednoczesnym tworzeniu społeczności podobnie myślących ludzi. <strong>Myślę, że w colivingu jak i coworkingu chodzi o pewną synergię, wartość całości jest większa niż tylko suma poszczególnych elementów.</strong> </p>
@@ -725,28 +747,23 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Podczas pisania tego postu przebywam w Medellin i mieszkam właśnie w przestrzeni typu coliving. Jak dla mnie jest to bardzo wygodne, choć wcześniej miałam różne doświadczenia z tego typu zakwaterowaniem.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/33/gallery/WechatIMG506-675x730.jpeg" data-size="675x730"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/33/gallery/WechatIMG506-675x730-thumbnail.jpeg" alt="medellin cyfrowy nomada" width="675" height="730"></a>
+<figcaption>Casa Estudio w Medellin</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/33/gallery/WechatIMG502.jpeg" data-size="900x506"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/33/gallery/WechatIMG502-thumbnail.jpeg" alt="medellin cyfrowy nomada" width="720" height="405"></a>
+<figcaption>Praca wre :)</figcaption>
+</figure>
+</div></div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"ids":[3042,3032]} --></p>
-<figure class="wp-block-gallery columns-2 is-cropped">
-<ul class="blocks-gallery-grid">
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3042"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/WechatIMG506-675x730.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG506-675x730-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG506-675x730-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG506-675x730-md.jpeg 768w"  alt="" data-id="3042" data-full-url="https://nomadbynature.xyz/wp-content/uploads/2020/07/WechatIMG506.jpeg" data-link="https://nomadbynature.xyz/?attachment_id=3042"></figure><br>
-<figcaption class="blocks-gallery-item__caption">Casa Estudio w Medellin</figcaption>
-</figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-3032"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/WechatIMG502.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG502-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG502-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG502-md.jpeg 768w"  alt="" data-id="3032"></figure><br>
-<figcaption class="blocks-gallery-item__caption">Praca wre :)</figcaption>
-</figure>
-</li>
-</ul>
-</figure>
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>Tu w Medellin w <a href="http://www.casaestudiomedellin.com/">Casa Estudio</a>, w cenie wynajmu, mamy własny pokój z miejscem do pracy i łazienką, oprócz tego dostęp do kuchni, dużą przestrzeń wspólną, do pracy i wspólnych obiadów (organizowanych przez gospodarza raz w tygodniu, raz nawet ugotował pierogi!), wszystkie opłaty w tym szybki internet, sprzątanie oraz pranie. Oprócz tego nasi współlokatorzy są bardzo fajni i wszyscy pracują online na różnymi projektami.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Coworkation</h3>
+<h3 id="mcetoc_1ep42670lj0">Coworkation</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Miało być 3 x “co-”, ale muszę jeszcze dodać parę słów o coworkation. Cóż to za neologizm?</p>
@@ -764,14 +781,14 @@
 <p>Z mojego punktu widzenia, takie ‘wakacje’ się nie opłacają, wolę samodzielnie zorganizować sobie zakwaterowanie czy atrakcje. Jednak dla osób z mniejszym doświadczeniem w podróżowaniu, bądź dla tych, które nie lubią aspektu organizacyjnego wyjazdów, takie rozwiązanie może okazać się najlepsze. Z resztą, już na start ma się grupę znajomych i na pewno jest raźniej.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Co ma lifestyle design do cyfrowego nomadyzmu?</h2>
+<h2 id="mcetoc_1ep42670lj1">Co ma lifestyle design do cyfrowego nomadyzmu?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Najlepiej byłoby spytać Tim'a Ferriss'a, autora najważniejszej<strong>*</strong> książki w biblioteczce cyfrowego nomady. To właśnie on, od momentu publikacji "4-hour workweek", stał się guru od lifestyle design czyli projektowania stylu życia, który Tim określa jako odrzucenie życia na potem.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":1527,"width":344,"height":503,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><a href="https://webep1.com/go/c92f763592"><figure class="wp-image-1527"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/4-godzinny-tydzień-pracy-Tim-Ferriss.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/4-godzinny-tydzień-pracy-Tim-Ferriss-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/4-godzinny-tydzień-pracy-Tim-Ferriss-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/4-godzinny-tydzień-pracy-Tim-Ferriss-md.jpeg 768w"  alt="" width="344" height="503"></figure></a></figure>
+<figure class="aligncenter size-large is-resized"><a href="https://webep1.com/go/c92f763592"><figure class="wp-image-1527 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/4-godzinny-tydzień-pracy-Tim-Ferriss.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/4-godzinny-tydzień-pracy-Tim-Ferriss-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/4-godzinny-tydzień-pracy-Tim-Ferriss-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/4-godzinny-tydzień-pracy-Tim-Ferriss-md.jpeg 768w"  alt="" width="344" height="503"></figure></a></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -781,7 +798,7 @@
 <p>Mimo, że Ferriss nie wymyślił koncepcji lifestyle design, to nagłośnił ją na tyle, że wiele osób zainspirowało się jego słowami.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Work-life balance</h3>
+<h3 id="mcetoc_1ep42670lj2">Work-life balance</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>W tytule napisałam, cyfrowy nomadyzm to nie tylko praca zdalna. Bo</p>
@@ -814,7 +831,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":3027,"width":360,"height":450,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-3027"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/WechatIMG498.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG498-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG498-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG498-md.jpeg 768w"  alt="" width="360" height="450"></figure><br>
+<figure class="aligncenter size-full is-resized"><figure class="wp-image-3027 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/33/WechatIMG498.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG498-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG498-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/33/responsive/WechatIMG498-md.jpeg 768w"  alt="" width="360" height="450"></figure><br>
 <figcaption>Rafflesia arnoldii</figcaption>
 </figure>
 </div>
@@ -826,7 +843,7 @@
 <p><strong>Zainteresowania nomadów zdecydowanie nie ograniczają się do tych związanych z cyfrowym wymiarem ich funkcjonowania.</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2><strong>Czy cyfrowy nomadyzm jest dla każdego?</strong></h2>
+<h2 id="mcetoc_1ep42670lj3"><strong>Czy cyfrowy nomadyzm jest dla każdego?</strong></h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Oczywiście, że nie. Tak jak każdy styl życia, cyfrowy nomadyzm ma swoich zwolenników i przeciwników. Krytyka, sprowadza się często do niezrozumienia, niektórzy mylą cyfrowy nomadyzm z gap year.</p>
@@ -853,8 +870,10 @@
         </author>
         <link href="https://nomadbynature.xyz/jak-tworzyc-relacyjne-bazy-danych-w-notion-darmowy-szablon/"/>
         <id>https://nomadbynature.xyz/jak-tworzyc-relacyjne-bazy-danych-w-notion-darmowy-szablon/</id>
+            <category term="Produktywność"/>
+            <category term="Narzędzia"/>
 
-        <updated>2020-12-08T20:32:04-05:00</updated>
+        <updated>2020-12-09T11:08:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/32/Copy-of-Copy-of-Untitled-Design-1.png" alt="" />
@@ -865,22 +884,32 @@
             <![CDATA[
                     <img src="https://nomadbynature.xyz/media/posts/32/Copy-of-Copy-of-Untitled-Design-1.png" alt="" />
                 <p><!-- wp:paragraph --></p>
-<p>Relacyjne bazy danych to kolejna z wielu funkcji (i zalet) <a href="https://www.notion.so/?r=59fa9791e9a24baba2e1d5b9a88bd778">aplikacji Notion</a>. Przydadzą się gdy chcemy połączyć dane z dwóch, lub większej ilości baz danych w jedną całość. Na przykład przy podsumowaniach, porównaniach, szybkim uzupełnieniu/kopiowaniu brakujących danych z jednej bazy danych do drugiej, itp. </p>
+<p>Relacyjne bazy danych to kolejna z wielu funkcji (i zalet) <a href="https://www.notion.so/?r=59fa9791e9a24baba2e1d5b9a88bd778">aplikacji Notion</a>. Przydadzą się gdy chcemy połączyć dane z dwóch, lub większej ilości baz danych w jedną całość. Na przykład przy podsumowaniach, porównaniach, szybkim uzupełnieniu/kopiowaniu brakujących danych z jednej bazy danych do drugiej, itp.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Będą również przydatne jeśli tylko tymczasowo chcemy wprowadzić czy porównać pewne dane, bez tworzenia odrębnej bazy danych. Można również łączyć ze sobą kolumny w obrębie jednej bazy danych... Możliwości jest wiele, ale jak się&nbsp;zabrać do tworzenia relacyjnych baz danych?</p>
+<p>Będą również przydatne jeśli tylko tymczasowo chcemy wprowadzić czy porównać pewne dane, bez tworzenia odrębnej bazy danych. Można również łączyć ze sobą kolumny w obrębie jednej bazy danych... Możliwości jest wiele, ale jak się zabrać do tworzenia relacyjnych baz danych?</p>
+<p> </p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep42rt3ejr">Jak stworzyć relacyjną bazę danych? - na przykładzie planera posiłków</a></li>
+<li><a href="#mcetoc_1ep42rt3ejs">Tworzenie relacyjnej bazy danych krok po kroku</a></li>
+<li><a href="#mcetoc_1ep42rt3ejt">Darmowy planer posiłków</a></li>
+</ul>
+</div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Jak stworzyć relacyjną bazę danych? - na przykładzie planera posiłków</h2>
+<h2 id="mcetoc_1ep42rt3ejr">Jak stworzyć relacyjną bazę danych? - na przykładzie planera posiłków</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>W poście chciałam wam podpowiedzieć jak tworzyć relacyjne bazy danych na podstawie planera posiłków <mark class="kt-highlight">(jeśli interesuje was jedynie tworzenie relacji pomiędzy bazami danych od strony technicznej, skoczcie od razu do punktów 8-10 i 14-15 poniżej)</mark>. Ale relacyjne bazy danych możecie tworzyć w najróżniejszych celach.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Co najbardziej podoba mi się w tym planerze to to, że automatycznie generowana jest lista zakupów. Co niezwykle ułatwia nam wizytę w sklepie!&nbsp;</p>
+<p>Co najbardziej podoba mi się w tym planerze to to, że automatycznie generowana jest lista zakupów. Co niezwykle ułatwia nam wizytę w sklepie! </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Dzięki takiej odpowiednio zorganizowanej bazie danych możemy&nbsp;(chociaż częściowo) pozbyć&nbsp;się irytującego pytania ‘co dzisiaj jemy’. Uważam też, że planowanie posiłków może nam pomóc w zdrowym odżywianiu (jesteśmy bardziej świadomi tego co jemy), pomóc w oszczędzaniu (usprawnione zakupy) oraz zmniejszeniu ilości marnowanego jedzenia.</p>
+<p>Dzięki takiej odpowiednio zorganizowanej bazie danych możemy (chociaż częściowo) pozbyć się irytującego pytania ‘co dzisiaj jemy’. Uważam też, że planowanie posiłków może nam pomóc w zdrowym odżywianiu (jesteśmy bardziej świadomi tego co jemy), pomóc w oszczędzaniu (usprawnione zakupy) oraz zmniejszeniu ilości marnowanego jedzenia.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Planer możecie udostępnić członkom swojej rodziny i wspólnie planować posiłki na najbliższy tydzień.</p>
@@ -892,14 +921,14 @@
 <p>Dodam jeszcze, że przygotowałam dla was darmowy i gotowy do ściągnięcia planer posiłków - szablon do użycia wewnątrz aplikacji Notion (znajdziecie go u dołu artykułu). Bazę przepisów musicie uzupełnić sami swoimi ulubionymi daniami, ale na początek dodałam parę smacznych przepisów kuchni chińskiej, może wypróbujecie.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Tworzenie relacyjnej bazy danych krok po kroku</h2>
+<h2 id="mcetoc_1ep42rt3ejs">Tworzenie relacyjnej bazy danych krok po kroku</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>1.</strong> Klikając na “+ New page” w lewym dolnym rogu aplikacji utwórz nową stronę, wybierz opcję ‘Empty with icon’ - pustą stronę z ikoną. Wybierz odpowiadającą ci ikonę oraz nadaj tej stronie tytuł, np. ‘Tygodniowy plan posiłków’.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2843,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2843"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/nowa-strona.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/nowa-strona-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/nowa-strona-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/nowa-strona-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2843"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/nowa-strona.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/nowa-strona-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/nowa-strona-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/nowa-strona-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -907,7 +936,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2845,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2845"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/baza-danych-notion.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-notion-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-notion-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-notion-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2845"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/baza-danych-notion.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-notion-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-notion-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-notion-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -915,37 +944,37 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2847,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2847"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/tygodniowe-menu.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2847"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/tygodniowe-menu.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>4.</strong> Poniżej tej bazy danych (lub osobno, w ramach odrębnej strony), dodaj kolejną bazę danych w formie tabeli i nazwij ją ‘Przepisy’. </p>
+<p><strong>4.</strong> Poniżej tej bazy danych (lub osobno, w ramach odrębnej strony), dodaj kolejną bazę danych w formie tabeli i nazwij ją ‘Przepisy’.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>To będzie twoja książka kucharska. W tej bazie danych możesz dodawać swoje ulubione dania z przepisami. Możesz także linkować do stron na których przepis został znaleziony, lub wysyłać rodzinie i znajomym linki do ciekawych dań.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2849,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2849"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/przepisy-baza-danych.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/przepisy-baza-danych-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/przepisy-baza-danych-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/przepisy-baza-danych-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2849"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/przepisy-baza-danych.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/przepisy-baza-danych-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/przepisy-baza-danych-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/przepisy-baza-danych-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>5.</strong> Następnie, stwórz jeszcze jedną&nbsp;bazę danych, tym razem w formie listy (na tej samej lub odrębnej stronie). Nazwij ją&nbsp;’Lista składników’.</p>
+<p><strong>5.</strong> Następnie, stwórz jeszcze jedną bazę danych, tym razem w formie listy (na tej samej lub odrębnej stronie). Nazwij ją ’Lista składników’.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2852,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><figure class="wp-image-2852"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/lista-baza-danych-1-1170x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/lista-baza-danych-1-1170x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/lista-baza-danych-1-1170x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/lista-baza-danych-1-1170x730-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-large"><figure class="wp-image-2852"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/lista-baza-danych-1-1170x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/lista-baza-danych-1-1170x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/lista-baza-danych-1-1170x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/lista-baza-danych-1-1170x730-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>6.</strong> Kiedy mamy już&nbsp;3 bazy danych, w naszym przykładzie: ‘Tygodniowe menu’, ‘Przepisy’ i ‘Lista składników’, <strong>możemy przystąpić do wprowadzania danych i tworzenia relacji między poszczególnymi bazami</strong>.</p>
+<p><strong>6.</strong> Kiedy mamy już 3 bazy danych, w naszym przykładzie: ‘Tygodniowe menu’, ‘Przepisy’ i ‘Lista składników’, <strong>możemy przystąpić do wprowadzania danych i tworzenia relacji między poszczególnymi bazami</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>7.</strong> Przejdźmy więc do bazy danych ‘Przepisy’ i dodajmy parę ulubionych przepisów, w rubryce ‘Dania’ wpiszmy nazwy dań, np. Colesław, jajecznica, tort czekoladowy…. Wewnątrz tych stron możemy dodać szczegółowy opis jak wykonać danie.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2854,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2854"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/dania.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/dania-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/dania-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/dania-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2854"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/dania.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/dania-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/dania-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/dania-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -953,7 +982,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2856,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2856"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/relacja-baz-danych-notion.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/relacja-baz-danych-notion-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/relacja-baz-danych-notion-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/relacja-baz-danych-notion-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2856"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/relacja-baz-danych-notion.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/relacja-baz-danych-notion-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/relacja-baz-danych-notion-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/relacja-baz-danych-notion-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -961,7 +990,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2858,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2858"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/relacyjna-baza-danych.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/relacyjna-baza-danych-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/relacyjna-baza-danych-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/relacyjna-baza-danych-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2858"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/relacyjna-baza-danych.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/relacyjna-baza-danych-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/relacyjna-baza-danych-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/relacyjna-baza-danych-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -969,31 +998,31 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2859,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2859"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/potwierdź.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/potwierdź-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/potwierdź-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/potwierdź-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2859"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/potwierdź.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/potwierdź-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/potwierdź-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/potwierdź-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>11.</strong> Po stworzeniu relacji możemy przypisać odpowiednie składniki do naszych dań, w tym celu wpisujemy nazwę składnika i tworzymy nową stronę w bazie danych 'Lista składników' (będąc w bazie danych 'Przepisy'), jak na zdjęciu poniżej:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2863,"sizeSlug":"full"} --></p>
-<figure class="wp-block-image size-full"><figure class="wp-image-2863"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/składniki-dodawanie.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/składniki-dodawanie-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/składniki-dodawanie-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/składniki-dodawanie-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-2863"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/składniki-dodawanie.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/składniki-dodawanie-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/składniki-dodawanie-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/składniki-dodawanie-md.jpg 768w"  alt=""></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Uwaga:</strong> Jeśli w naszej książce kucharskiej mamy już dużo przepisów, a tym samym mamy wiele składników w naszej bazie danych ‘Lista składników’, wtedy nie tworzymy nowej strony z nazwą składnika, a jedynie wybieramy składnik z istniejącej listy, jak na zdjęciu poniżej:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2870,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2870"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/skłądnik_istnieje.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/skłądnik_istnieje-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/skłądnik_istnieje-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/skłądnik_istnieje-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2870"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/skłądnik_istnieje.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/skłądnik_istnieje-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/skłądnik_istnieje-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/skłądnik_istnieje-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>Musimy być uważni przy nazywaniu składników, aby niepotrzebnie nie duplikować tych samych rzeczy, ponieważ ten sam składnik może być wykorzystywany w wielu daniach, np. pieprz a pieprz czarny - <strong>zdecydujmy się&nbsp;na jedną nazwę</strong>,.</p>
+<p>Musimy być uważni przy nazywaniu składników, aby niepotrzebnie nie duplikować tych samych rzeczy, ponieważ ten sam składnik może być wykorzystywany w wielu daniach, np. pieprz a pieprz czarny - <strong>zdecydujmy się na jedną nazwę</strong>,.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>12.</strong> Do listy przepisów - baza danych ‘Przepisy’&nbsp; możemy dodać (w osobnej kolumnie) również tagi, jak np. #śniadanie, #deser, #zdrowedanie itp. - ułatwi nam to wybór dań na przyszłość.</p>
+<p><strong>12.</strong> Do listy przepisów - baza danych ‘Przepisy’  możemy dodać (w osobnej kolumnie) również tagi, jak np. #śniadanie, #deser, #zdrowedanie itp. - ułatwi nam to wybór dań na przyszłość.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>13.</strong> Świetnie, mamy już&nbsp;nasze ulubione przepisy i przypisane im składniki, teraz <strong>czas na stworzenie planu dań na cały tydzień</strong>. W tym celu idziemy do wcześniej utworzonej bazy danych ‘Tygodniowe menu'.</p>
+<p><strong>13.</strong> Świetnie, mamy już nasze ulubione przepisy i przypisane im składniki, teraz <strong>czas na stworzenie planu dań na cały tydzień</strong>. W tym celu idziemy do wcześniej utworzonej bazy danych ‘Tygodniowe menu'.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>14.</strong> W kolumnie ‘Dania’ <strong>tworzymy relację z bazą danych</strong> ‘Przepisy’, po utworzeniu relacji możemy wybierać ulubione dania na każdy dzień tygodnia.</p>
@@ -1002,13 +1031,13 @@
 <figure class="wp-block-gallery columns-1 is-cropped">
 <ul class="blocks-gallery-grid">
 <li class="blocks-gallery-item">
-<figure><figure class="wp-image-2874"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/tygodniowe-menu_1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu_1-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu_1-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu_1-md.jpg 768w"  alt="" data-id="2874" /></figure></figure>
+<figure><figure class="wp-image-2874"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/tygodniowe-menu_1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu_1-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu_1-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowe-menu_1-md.jpg 768w"  alt="" data-id="2874"></figure></figure>
 </li>
 <li class="blocks-gallery-item">
-<figure><figure class="wp-image-2876"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/baza-danych-relacja.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-relacja-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-relacja-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-relacja-md.jpg 768w"  alt="" data-id="2876" data-link="https://nomadbynature.xyz/?attachment_id=2876" /></figure></figure>
+<figure><figure class="wp-image-2876"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/baza-danych-relacja.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-relacja-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-relacja-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/baza-danych-relacja-md.jpg 768w"  alt="" data-id="2876" data-link="https://nomadbynature.xyz/?attachment_id=2876"></figure></figure>
 </li>
 <li class="blocks-gallery-item">
-<figure><figure class="wp-image-2877"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/menu-tygodnia.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/menu-tygodnia-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/menu-tygodnia-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/menu-tygodnia-md.jpg 768w"  alt="" data-id="2877" data-full-url="https://nomadbynature.xyz/media/posts/32/menu-tygodnia.jpg" data-link="https://nomadbynature.xyz/?attachment_id=2877" /></figure></figure>
+<figure><figure class="wp-image-2877"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/menu-tygodnia.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/menu-tygodnia-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/menu-tygodnia-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/menu-tygodnia-md.jpg 768w"  alt="" data-id="2877" data-full-url="https://nomadbynature.xyz/media/posts/32/menu-tygodnia.jpg" data-link="https://nomadbynature.xyz/?attachment_id=2877"></figure></figure>
 </li>
 </ul>
 </figure>
@@ -1018,18 +1047,18 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2879,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2879"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/rollup.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/rollup-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2879"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/rollup.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/rollup-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Funkcja 'Rollup' pozwala nam na wykorzystanie i agregowanie dodatkowych danych z wześniej połączonej bazy danych.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>16.</strong> Kiedy kolumna ma już nadany typ ‘Rollup’, kliknij w pierwszą komórkę w kolumnie (pod tytułową) i wybierz odpowiednie ustawienia, w naszym przykładzie będą to:&nbsp;</p>
+<p><strong>16.</strong> Kiedy kolumna ma już nadany typ ‘Rollup’, kliknij w pierwszą komórkę w kolumnie (pod tytułową) i wybierz odpowiednie ustawienia, w naszym przykładzie będą to: </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2882,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2882"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/rollup_1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/rollup_1-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup_1-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup_1-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2882"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/rollup_1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/rollup_1-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup_1-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/rollup_1-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -1037,31 +1066,30 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2883,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2883"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/lista_zakupów.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/lista_zakupów-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/lista_zakupów-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/lista_zakupów-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2883"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/lista_zakupów.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/lista_zakupów-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/lista_zakupów-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/lista_zakupów-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Oczywiście, aby w pełni wykorzystać potencjał planera, <strong>należy uzupełnić bazę danych 'Przepisy' o jak najwięcej dań</strong>. Wtedy każdego dnia będziemy mogli zaplanować do jedzenia coś innego i ciekawego (o ile mamy czas na gotowanie).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Darmowy planer posiłków</h2>
+<h2 id="mcetoc_1ep42rt3ejt">Darmowy planer posiłków</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Aby korzystać z przygotowanego przeze mnie planera będzie wam potrzebne darmowe konto w aplikacji Notion. Jeśli już je macie, zalogujcie się i <a href="https://www.notion.so/Tygodniowy-plan-posi-k-w-dfc749f4135f4b4f836cf3b15b1c6c14">otwórzcie w przeglądarce zakładkę z szablonem</a> i przekopiujcie go na swoje konto, klikając przycisk 'Duplicate'. Tak jak na zdjęciu:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2895,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2895"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/32/tygodniowy-szablon_opt.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/tygodniowy-szablon_opt-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowy-szablon_opt-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowy-szablon_opt-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-2895"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/32/tygodniowy-szablon_opt.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/32/responsive/tygodniowy-szablon_opt-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowy-szablon_opt-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/32/responsive/tygodniowy-szablon_opt-md.jpg 768w"  alt=""></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>Po przekopiowaniu szablonu, wewnątrz swojego konta Notion możecie go dowolnie modyfikować (nazwy, ikonki). Ale przede wszystkim dodajcie nowe dania do bazy danych przepisy. </p>
+<p>Po przekopiowaniu szablonu, wewnątrz swojego konta Notion możecie go dowolnie modyfikować (nazwy, ikonki). Ale przede wszystkim dodajcie nowe dania do bazy danych przepisy.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Dajcie mi znać w komentarzu czy szablon okazał się przydatny do planowania posiłków. A jeśli chcecie stworzyć <a href="https://nomadbynature.xyz/jak-stworzyc-darmowy-traker-nawykow-w-aplikacji-notion/">darmowy tracker nawyków w Notion</a> zapraszam do lektury.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:malina/subscribe /--></p>
-<p><!-- wp:paragraph --></p></p>
+<p><!-- wp:paragraph --></p>
 <p><!-- /wp:paragraph --></p>
-
             ]]>
         </content>
     </entry>
@@ -1072,9 +1100,9 @@
         </author>
         <link href="https://nomadbynature.xyz/ksiazka-praca-bez-sensu-teoria-masz-prace-ktora-jest-bezsensowna-nie-jestes-sam/"/>
         <id>https://nomadbynature.xyz/ksiazka-praca-bez-sensu-teoria-masz-prace-ktora-jest-bezsensowna-nie-jestes-sam/</id>
-            <category term="biblioteczka nomady"/>
+            <category term="Biblioteczka Nomady"/>
 
-        <updated>2020-12-08T21:25:21-05:00</updated>
+        <updated>2020-12-09T11:09:06-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/31/matt-ridley-Lyl8RL7imrw-unsplash_opt-1.jpg" alt="" />
@@ -1089,9 +1117,26 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>O co chodzi? <strong>Chodzi o pracę bez sensu czyli ‘bullshit jobs’.</strong></p>
+<p> </p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep42uufpl1">Dla kogo jest ta książka?</a></li>
+<li><a href="#mcetoc_1ep42uufpl2">O książce i pracy bez sensu</a>
+<ul>
+<li><a href="#mcetoc_1ep42uufpl3">Co to jest praca bez sensu?</a></li>
+<li><a href="#mcetoc_1ep42uufpl4">Rodzaje pracy bez sensu</a></li>
+<li><a href="#mcetoc_1ep42uufpl5">Dalsze rozważania nad problemem bezsensownej pracy i możliwymi rozwiązaniami</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep42uufpl6">Cyfrowy nomada a praca bez sensu</a></li>
+<li><a href="#mcetoc_1ep42uufpl7">Podsumowanie</a></li>
+</ul>
+</div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Dla kogo jest ta książka?</h2>
+<h2 id="mcetoc_1ep42uufpl1">Dla kogo jest ta książka?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Dla osób, które wiedzą/czują, że ich praca jest bez sensu. Książka przyda się, aby lepiej zrozumieć fenomen ‘bullshit jobs’ (choć nie obiecuję, że poprawi wam humor, może nawet go popsuć). Ale chociaż pokaże, że nie jesteście sami, może ośmieli was również do głośniejszego mówienia o tym co was boli w kontekście pracy oraz zastanowienia się nad status quo.</p>
@@ -1100,7 +1145,7 @@
 <p>To także książka dla ciekawych, tych których interesują tematy z pogranicza socjologii i ekonomii. Pomysły i argumenty ujęte w tekście na pewno dostarczą wam materiał na ciekawą dyskusję i głębsze przemyślenia.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>O książce i pracy bez sensu</h2>
+<h2 id="mcetoc_1ep42uufpl2">O książce i pracy bez sensu</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Książka powstała spod pióra D. Graber’a profesora antropologii z London School of Economics. Jest jakoby rozwinięciem niezwykle popularnego i wzbudzającego kontrowersje artykułu tego samego autora, który ukazał się w 2013 roku na łamach magazynu <a href="https://www.strike.coop/bullshit-jobs/">Strike</a>.</p>
@@ -1109,7 +1154,7 @@
 <p>Na podstawie swoich badań i zebranych (głównie od internautów) oświadczeń, autor zarysowuje problem społeczny jakim jest praca bez sensu, a tym samym otwiera pole do dalszych dociekań w obrębie tego przedziwnego tematu.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Co to jest praca bez sensu?</h3>
+<h3 id="mcetoc_1ep42uufpl3">Co to jest praca bez sensu?</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Myślę, że wielu z was instynktownie czuje co to jest praca bez sensu, choć konkretna definicja jest już bardziej nieuchwytna, tak jak nieuchwytna jest definicja ‘wartości’. Wydaje mi się, że to między innymi z tego powodu, Graeber podkreślił rolę <strong>subiektywnego odczucia pracownika</strong> wykonującego daną pracę w swojej definicji bullshit jobs. </p>
@@ -1149,13 +1194,13 @@
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:image {"align":"center","id":2820,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><a href="https://webep1.com/go/883e74f992"><figure class="wp-image-2820"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/31/ksiazka-praca-bez-sensu-teoria-graeber.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/31/responsive/ksiazka-praca-bez-sensu-teoria-graeber-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/31/responsive/ksiazka-praca-bez-sensu-teoria-graeber-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/31/responsive/ksiazka-praca-bez-sensu-teoria-graeber-md.jpg 768w"  alt=""></figure></a><br>
+<figure class="aligncenter size-large"><a href="https://webep1.com/go/883e74f992"><figure class="wp-image-2820 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/31/ksiazka-praca-bez-sensu-teoria-graeber.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/31/responsive/ksiazka-praca-bez-sensu-teoria-graeber-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/31/responsive/ksiazka-praca-bez-sensu-teoria-graeber-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/31/responsive/ksiazka-praca-bez-sensu-teoria-graeber-md.jpg 768w"  alt=""></figure></a><br>
 <figcaption>Książka dostarczy wielu emocji i tematów do ciekawych dyskusji</figcaption>
 </figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Rodzaje pracy bez sensu</h3>
+<h3 id="mcetoc_1ep42uufpl4">Rodzaje pracy bez sensu</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Po raz kolejny chcę zaznaczyć i zaznacza to wielokrotnie sam autor, że jednym z najważniejszych kryteriów, według którego określa się pracę jako bez sensu (bullshit, praca-ściema) jest subiektywna ocena wykonującego takową pracę. Książka nie wytyka więc ludziom: 'to twoja praca jest bez sensu.' (Chociaż autor wskazuje sektor FIRE - finanse, ubezpieczenia i nieruchomości, jako ten najbardziej winny kreowaniu bezsensownych prac). Nie ocenia, a raczej bazując na głosach społecznych (pochodzących z różnych zawodów i branż) pokazuje, że problem widzą przede wszystkim sami pracownicy.</p>
@@ -1181,7 +1226,7 @@
 <p>Mogą również istnieć stanowiska łączące ze sobą powyższe kategorie (np. taskmaster - box ticker), lub sytuacje, w których pracownik na przydatnym stanowisku, jest zmuszony do wykonywania pewnych zupełnie bezsensownych zadań, które zajmują jego czas i obniżają produktywność (co autor nazywa bullshitization of jobs). Przykładem może być pracownik naukowy, który musi zajmować się niepotrzebnymi pracami administracyjnymi (wypełnianiem formularzy, które niczemu nie służą).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Dalsze rozważania nad problemem bezsensownej pracy i możliwymi rozwiązaniami</h3>
+<h3 id="mcetoc_1ep42uufpl5">Dalsze rozważania nad problemem bezsensownej pracy i możliwymi rozwiązaniami</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Praca-ściema może mieć nie tylko negatywne skutki ekonomiczne, ale może również znacząco wpłynąć na psychikę i samopoczucie pracowników. Jednak, pomimo, że oświadczenia zebrane przez autora (w oparciu o które powstała książka), wskazują na związek bezsensownej pracy i depresji czy pogorszonej samooceny, uważam, że skutki te muszą zostać prześledzone w ramach dodatkowych, obszerniejszych badań. </p>
@@ -1193,7 +1238,7 @@
 <p>Podsumowując swoje rozważania Graeber proponuje (acz niechętnie) przykładowe rozwiązanie problemu bullshit jobs - za które uważa UBI czyli <strong>Universal Basic Income</strong>. Choć podkreśla, że celem książki jest raczej naświetlenie, wstępne przeanalizowanie i pokazanie problemu bezsensownych prac, a nie proponowanie rozwiązań.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Cyfrowy nomada a praca bez sensu</h2>
+<h2 id="mcetoc_1ep42uufpl6">Cyfrowy nomada a praca bez sensu</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Czytając książkę "Praca bez sensu. Teoria" zadałam sobie pytanie: Czy zdalny tryb pracy i cyfrowy nomadyzm mają potencjał raczej do tworzenia czy likwidowania bezsensownych prac?</p>
@@ -1208,7 +1253,7 @@
 <p>Myślę również, że wśród cyfrowych nomadów, szczególnie tych utrzymujących się z freelance może pojawiać się dużo tzw. duck-tapers lub goons (wyjaśnienie terminów powyżej). Choć z drugiej strony wśród nomadów jest dużo przedsiębiorców zakładających własne firmy i pełno-etatowych pracowników, także trudno mi powiedzieć, czy ta grupa społeczna bardziej przyczynia się do tworzenia czy likwidacji bezsensownych prac (a może cyfrowi nomadzi są ofiarami takich stanowisk pracy?). Ankieta, czy badanie przeprowadzone na temat bezsensownej pracy wśród cyfrowych nomadów, mogłyby być interesujące.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Podsumowanie</h2>
+<h2 id="mcetoc_1ep42uufpl7">Podsumowanie</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Książka David'a Graeber'a to świetny, choć długi wstęp do dyskusji o problemach jakie niesie ze sobą bezsensowna praca. Nawet jeśli nie zgodzicie się ze wszystkimi argumentami proponowanymi przez autora, (albo nawet odrzucicie zupełnie możliwość istnienia bs jobs), to uważam, że kwestionowanie status quo zawsze jest dobrym pomysłem, tylko w ten sposób możemy iść na przód. Zachęcam do lektury.</p>
@@ -1231,9 +1276,9 @@
         </author>
         <link href="https://nomadbynature.xyz/odmien-swoje-zycie-z-regula-5-sekund/"/>
         <id>https://nomadbynature.xyz/odmien-swoje-zycie-z-regula-5-sekund/</id>
-            <category term="biblioteczka nomady"/>
+            <category term="Biblioteczka Nomady"/>
 
-        <updated>2020-12-08T21:25:34-05:00</updated>
+        <updated>2020-12-09T11:09:14-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/30/Copy-of-Copy-of-Untitled-Design-1.png" alt="" />
@@ -1257,9 +1302,24 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>W gruncie rzeczy jest to bardzo proste rozumowanie, zdaje się, że uderzyło mnie swoją oczywistością, więc od razu złapałam książkę i zaczęłam czytać. Byłam ciekawa, co jeszcze autorka ma do powiedzenia i co kryje się za tytułową regułą 5 sekund.</p>
+<p> </p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep430gkhm6">Dla kogo jest ta książka?</a></li>
+<li><a href="#mcetoc_1ep430gkhm7">Reguła 5 sekund jak i kiedy ją wykorzystać?</a>
+<ul>
+<li><a href="#mcetoc_1ep430gkhm8">Jak zastosować regułę 5 sekund?</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep430gkhm9">Dlaczego reguła 5 sekund działa?</a></li>
+<li><a href="#mcetoc_1ep430gkhma">Podsumowanie</a></li>
+</ul>
+</div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Dla kogo jest ta książka?</h2>
+<h2 id="mcetoc_1ep430gkhm6">Dla kogo jest ta książka?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Myślę, że dla ludzi, którzy mają tendencję do prokrastynacji, odkładania wszystkiego na później i do zamartwiania się. Metoda 5 sekund ma nam pomóc wyjść z własnej głowy i zamiast myśleć o tym co może się zdarzyć i co byśmy chcieli zrobić, <strong>przystąpić do faktycznego działania</strong>. </p>
@@ -1269,13 +1329,13 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2765,"width":450,"height":675,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><a href="https://webep1.com/go/4f11e29692"><figure class="wp-image-2765"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/30/reguła-5-sekund-ksiąąka.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/30/responsive/reguła-5-sekund-ksiąąka-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/30/responsive/reguła-5-sekund-ksiąąka-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/30/responsive/reguła-5-sekund-ksiąąka-md.jpg 768w"  alt="" width="450" height="675"></figure></a><br>
+<figure class="aligncenter size-full is-resized"><a href="https://webep1.com/go/4f11e29692"><figure class="wp-image-2765 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/30/reguła-5-sekund-ksiąąka.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/30/responsive/reguła-5-sekund-ksiąąka-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/30/responsive/reguła-5-sekund-ksiąąka-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/30/responsive/reguła-5-sekund-ksiąąka-md.jpg 768w"  alt="" width="450" height="675"></figure></a><br>
 <figcaption>Reguła 5 sekund - okładka książki</figcaption>
 </figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading --></p>
-<h2>Reguła 5 sekund jak i kiedy ją wykorzystać?</h2>
+<h2 id="mcetoc_1ep430gkhm7">Reguła 5 sekund jak i kiedy ją wykorzystać?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jak mówi sama autorka, <strong>reguła 5 sekund to narzędzie</strong>. Narzędzie, które jest bardzo uniwersalne i będzie działać w wielu aspektach naszego życia, bo tak naprawdę działa ono na nas samych, a jak zmienimy się my - nasze działanie, to odmieni się również nasze życie. Narzędzia można użyć, aby zbudować dobry nawyk, pozbyć się złego nawyku czy nałogu, wyleczyć się z zamartwiania się, albo nawet, jak w przypadku autorki, strachu przed lataniem.</p>
@@ -1296,7 +1356,7 @@
 <p>Ale właśnie z tym drugim aspektem - odwagą, ludzie mają największy problem i dlatego stoją w miejscu i nie posuwają swojego życia do przodu. Bo co jeśli się nie uda? Co jeśli poświęcę czas na naukę języka, a i tak nie będę nic umieć? Co jeśli będę pracować nad moim biznesem i nic z tego nie wyjdzie? Takie wątpliwości mogą pojawiać się świadomie, bądź tkwić w naszej podświadomości i w ten sposób sabotować nasze działania i plany.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Jak zastosować regułę 5 sekund?</h3>
+<h3 id="mcetoc_1ep430gkhm8">Jak zastosować regułę 5 sekund?</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jak wspomniałam, reguła ta jest bardzo prosta, za każdym razem jeśli pojawi się u ciebie impuls do działania, odliczasz <strong>5 4 3 2 1 i DZIAŁASZ!</strong></p>
@@ -1317,7 +1377,7 @@
 <p>Dodatkowo, co w książce często podkreśla autorka, <strong>reguła 5 sekund umożliwia nam działanie niezależnie od naszych uczuć</strong> (samopoczucia w danej chwili). Jest to istotne, ponieważ rzadko kiedy nasze obowiązki idą w jednej linii z naszymi emocjami. W większości nie mamy ochoty na robienie trudnych rzeczy, ale 5 4 3 2 1 i działamy! Niezależnie czy nam się w danym momencie chce czy nie.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Dlaczego reguła 5 sekund działa?</h2>
+<h2 id="mcetoc_1ep430gkhm9">Dlaczego reguła 5 sekund działa?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Pomimo, że książka jest dość długa, a autorka podaje wiele przykładów osób korzystających z sukcesem z metody 5 sekund, to zabrakło mi szczegółowych wyjaśnień dlaczego reguła 5 sekund jest taka skuteczna - od strony naukowej (psychologii).</p>
@@ -1350,7 +1410,7 @@
 <p>Oprócz tego <strong>autentyczna duma</strong> z samych siebie (jeśli zaczniemy wykonywać wcześniej zaniedbane lub odsuwane obowiązki) popchnie nas i dodatkowo zmotywuje do kontynuacji działań i pracy nad sobą i naszym życiem.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Podsumowanie</h2>
+<h2 id="mcetoc_1ep430gkhma">Podsumowanie</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ja sama zmotywowałam się do napisania tego wpisu dzięki regule 5 sekund. Ponieważ artykuł został napisany, można zakładać, że metoda działa.</p>
@@ -1376,47 +1436,75 @@
         </author>
         <link href="https://nomadbynature.xyz/jak-pisac-po-chinsku-na-komputerze-lub-telefonie/"/>
         <id>https://nomadbynature.xyz/jak-pisac-po-chinsku-na-komputerze-lub-telefonie/</id>
+            <category term="Chiny"/>
 
-        <updated>2020-12-08T20:32:04-05:00</updated>
+        <updated>2020-12-09T10:57:47-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/27/cherry-lin-ct58n7B6WbI-unsplash_opt-1.jpg" alt="" />
-                     Jak Chińczycy radzą sobie z pisaniem ~50 000 znaków na jednej małej klawiaturze z dwudziestoma siedmioma literami? Przecież&nbsp;nawet nasze&hellip;
+                     Jak Chińczycy radzą sobie z pisaniem ~50 000 znaków na jednej małej klawiaturze z dwudziestoma siedmioma literami? Przecież nawet nasze&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://nomadbynature.xyz/media/posts/27/cherry-lin-ct58n7B6WbI-unsplash_opt-1.jpg" alt="" />
                 <p><!-- wp:paragraph --></p>
-<p>Jak Chińczycy radzą sobie z pisaniem ~50 000 znaków na jednej małej klawiaturze z dwudziestoma siedmioma literami? Przecież&nbsp;nawet nasze polskie litery ą, ę czy ź&nbsp; wymagają zastosowania skrótów klawiszowych. Więc jak na tej samej klawiaturze poradzić sobie z pisaniem po chińsku (mandaryńsku)? Dobre pytanie. Odpowiedź jest łatwiejsza niż&nbsp;myślisz.</p>
+<p>Jak Chińczycy radzą sobie z pisaniem ~50 000 znaków na jednej małej klawiaturze z dwudziestoma siedmioma literami? Przecież nawet nasze polskie litery ą, ę czy ź  wymagają zastosowania skrótów klawiszowych. Więc jak na tej samej klawiaturze poradzić sobie z pisaniem po chińsku (mandaryńsku)? Dobre pytanie. Odpowiedź jest łatwiejsza niż myślisz.</p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep435vqjre">Co to jest pinyin 拼音(pīnyīn)?</a></li>
+<li><a href="#mcetoc_1ep435vqjrf">Jak pisać po chińsku na Mac OS?</a>
+<ul>
+<li><a href="#mcetoc_1ep435vqjrg">Krok 1</a></li>
+<li><a href="#mcetoc_1ep435vqjrh">Krok 2</a></li>
+<li><a href="#mcetoc_1ep435vqjri">Krok 3</a></li>
+<li><a href="#mcetoc_1ep435vqjrj">Krok 4</a></li>
+<li><a href="#mcetoc_1ep435vqjrk">Krok 5</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep435vqjrl">Jak wprowadzać chińskie znaki na PC?</a>
+<ul>
+<li><a href="#mcetoc_1ep435vqjrm">Krok 1</a></li>
+<li><a href="#mcetoc_1ep435vqjrn">Krok 2</a></li>
+<li><a href="#mcetoc_1ep435vqjro">Krok 3</a></li>
+<li><a href="#mcetoc_1ep435vqjrp">Krok 4</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ep435vqjrq">Jak pisać po chińsku na telefonie?</a></li>
+<li><a href="#mcetoc_1ep435vqjrr">Uwaga!</a></li>
+<li><a href="#mcetoc_1ep435vqjrs">Jak dodać tony do zapisów sylab w pinyin?</a></li>
+</ul>
+</div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Co to jest pinyin 拼音(pīnyīn)?</h2>
+<h2 id="mcetoc_1ep435vqjre">Co to jest pinyin 拼音(pīnyīn)?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>Aby móc pisać po chińsku na klawiaturze, musimy zacząć od tego, co to jest pinyin (pīnyīn). Otóż <strong>pinyin to zapis wymowy chińskich znaków w alfabecie łacińskim</strong>. Posłużmy się&nbsp;przykładem, widzisz takie znaki:</p>
+<p>Aby móc pisać po chińsku na klawiaturze, musimy zacząć od tego, co to jest pinyin (pīnyīn). Otóż <strong>pinyin to zapis wymowy chińskich znaków w alfabecie łacińskim</strong>. Posłużmy się przykładem, widzisz takie znaki:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2459,"width":300,"height":300,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2459"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/zaba_po_chinsku.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-md.png 768w"  alt=""  width="300" height="300"/></figure></figure>
+<figure class="aligncenter size-large is-resized"><figure class="wp-image-2459 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/zaba_po_chinsku.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-md.png 768w"  alt="" width="300" height="300"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jak je przeczytać? Jak one brzmią? W odpowiedzi na te pytania pomaga nam właśnie pinyin. Wymowa dla tych znaków to: <strong>qīngwā</strong> - po chińsku żaba.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":40} --></p>
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"> </div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:image {"align":"center","id":2460,"width":300,"height":300,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2460"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/przyklad_pinyin.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-md.png 768w"  alt=""  width="300" height="300"/></figure></figure>
+<figure class="aligncenter size-large is-resized"><figure class="wp-image-2460 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/przyklad_pinyin.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-md.png 768w"  alt="" width="300" height="300"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>A co oznaczają kreseczki nad niektórymi literami? Są to <strong>oznaczenia tonów</strong>, ponieważ język chiński jest językiem tonalnym (znaczenie sylaby zmienia się&nbsp;wraz ze zmianą&nbsp;tonu). W przypadku qīngwā widzimy dwie sylaby, każda wymawiana w pierwszym tonie, oznaczanym poziomą kreseczką.</p>
+<p>A co oznaczają kreseczki nad niektórymi literami? Są to <strong>oznaczenia tonów</strong>, ponieważ język chiński jest językiem tonalnym (znaczenie sylaby zmienia się wraz ze zmianą tonu). W przypadku qīngwā widzimy dwie sylaby, każda wymawiana w pierwszym tonie, oznaczanym poziomą kreseczką.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>W języku chińskim wyróżniamy cztery tony oraz brak tonu czasem nazywany tonem numer 5. Oznaczenia dla kolejnych tonów wyglądają tak, np:&nbsp;</p>
+<p>W języku chińskim wyróżniamy cztery tony oraz brak tonu czasem nazywany tonem numer 5. Oznaczenia dla kolejnych tonów wyglądają tak, np: </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
 <ul>
@@ -1428,151 +1516,147 @@
 <p>Jak zaznaczać tony z użyciem klawiatury? O tym poniżej.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>Możemy wnioskować, że aby pisać na komputerze w znakach chińskich musimy znać ich wymowę, czyli musimy znać pinyin.</strong> Przyjrzyjmy się&nbsp;jednak pisaniu na komputerze od strony technicznej.</p>
+<p><strong>Możemy wnioskować, że aby pisać na komputerze w znakach chińskich musimy znać ich wymowę, czyli musimy znać pinyin.</strong> Przyjrzyjmy się jednak pisaniu na komputerze od strony technicznej.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Jak pisać po chińsku na Mac OS?</h2>
+<h2 id="mcetoc_1ep435vqjrf">Jak pisać po chińsku na Mac OS?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 1</h3>
+<h3 id="mcetoc_1ep435vqjrg">Krok 1</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Idź do preferencji systemowych.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2470,"width":436,"height":470,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2470"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/dodawanie_klawiatury_macos.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-md.jpg 768w"  alt=""  width="436" height="470"/></figure></figure>
+<figure class="aligncenter size-full is-resized"><figure class="wp-image-2470"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/dodawanie_klawiatury_macos.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-md.jpg 768w"  alt="" width="436" height="470"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 2</h3>
+<h3 id="mcetoc_1ep435vqjrh">Krok 2</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Wybierz ustawienia klawiatury.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2471,"width":585,"height":365,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2471"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/dodawanie_klawiatury_macos2-1170x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-md.jpg 768w"  alt=""  width="585" height="365"/></figure></figure>
+<figure class="aligncenter size-large is-resized"><figure class="wp-image-2471"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/dodawanie_klawiatury_macos2-1170x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-md.jpg 768w"  alt="" width="585" height="365"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 3</h3>
+<h3 id="mcetoc_1ep435vqjri">Krok 3</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Wybierz zakładkę 'Input Sources', a następnie naciśnij znak '+' aby dodać nową klawiaturę. Z listy wybierz klawiaturę chińską - Pinyin - uproszczony (simplified), lub jeśli chcesz pisać w tradycyjnych znakach Pinyin - tradycyjny (traditional).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2472,"width":655,"height":528,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2472"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/dodawanie_chinskiej_klawiatury.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-md.jpg 768w"  alt=""  width="655" height="528"/></figure></figure>
+<figure class="aligncenter size-full is-resized"><figure class="wp-image-2472"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/dodawanie_chinskiej_klawiatury.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-md.jpg 768w"  alt="" width="655" height="528"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 4</h3>
+<h3 id="mcetoc_1ep435vqjrj">Krok 4</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>W prawym górnym rogu ekranu pojawi się ikonka z flagą, po jej naciśnięciu pojawia się&nbsp;lista dostępnych klawiatur, aby pisać po chińsku wybierz odpowiednią klawiaturę, np. Pinyin - Simplified.</p>
+<p>W prawym górnym rogu ekranu pojawi się ikonka z flagą, po jej naciśnięciu pojawia się lista dostępnych klawiatur, aby pisać po chińsku wybierz odpowiednią klawiaturę, np. Pinyin - Simplified.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2473,"width":365,"height":369,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2473"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/chinska_klawiatura.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-md.jpg 768w"  alt=""  width="365" height="369"/></figure></figure>
+<figure class="aligncenter size-full is-resized"><figure class="wp-image-2473"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/chinska_klawiatura.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-md.jpg 768w"  alt="" width="365" height="369"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 5</h3>
+<h3 id="mcetoc_1ep435vqjrk">Krok 5</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>Już możesz pisać. Napisz sylabę i wybierz odpowiedni znak z listy za pomocą&nbsp;cyfry, strzałek lub kursora myszki.</p>
+<p>Już możesz pisać. Napisz sylabę i wybierz odpowiedni znak z listy za pomocą cyfry, strzałek lub kursora myszki.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2705,"width":537,"height":444,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2705"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/pisanie-po-chińsku.gif" alt=""  width="537" height="444"/></figure></figure>
+<figure class="aligncenter size-large is-resized"><figure class="wp-image-2705"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/pisanie-po-chińsku.gif" alt="" width="537" height="444"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading --></p>
-<h2>Jak wprowadzać chińskie znaki na PC?</h2>
+<h2 id="mcetoc_1ep435vqjrl">Jak wprowadzać chińskie znaki na PC?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 1</h3>
+<h3 id="mcetoc_1ep435vqjrm">Krok 1</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Wejdź w ustawienia systemu Windows, a następnie wybierz opcję 'Czas i język'.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2714,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2714"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/aga1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga1-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga1-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga1-md.png 768w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-2714"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga1-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga1-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga1-md.png 768w"  alt=""></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 2</h3>
+<h3 id="mcetoc_1ep435vqjrn">Krok 2</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Kliknij w zakładkę 'Język', a następnie pole 'Dodaj preferowany język'.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2717,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2717"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/aga2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga2-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga2-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga2-md.png 768w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-2717"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga2-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga2-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga2-md.png 768w"  alt=""></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 3</h3>
+<h3 id="mcetoc_1ep435vqjro">Krok 3</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Z listy dostępnych języków, wybierz chiński, uproszczony, bądź tradycyjny - według preferencji i potrzeb.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2718,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2718"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/aga3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga3-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga3-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga3-md.png 768w"  alt="" /></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-2718"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga3-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga3-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga3-md.png 768w"  alt=""></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading {"level":3} --></p>
-<h3>Krok 4</h3>
+<h3 id="mcetoc_1ep435vqjrp">Krok 4</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>W pasku startu pokaże się opcja wyboru języka, wybierz preferowany język, aby zacząć pisać. Gotowe!</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":2719,"sizeSlug":"large"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><figure class="wp-image-2719"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/aga4.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga4-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga4-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga4-md.png 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-large"><figure class="wp-image-2719"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga4.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga4-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga4-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga4-md.png 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading --></p>
-<h2>Jak pisać po chińsku na telefonie?</h2>
+<h2 id="mcetoc_1ep435vqjrq">Jak pisać po chińsku na telefonie?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jeśli chodzi o wprowadzanie znaków chińskich na telefonie, to wygląda podobnie jak na komputerze. Trzeba dodać odpowiednią, chińską klawiaturę i wtedy będziemy mieli możliwość pisania za pomocą pinyin.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-spacer" style="height: 50px;" aria-hidden="true"> </div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:kadence/infobox {"uniqueID":"_f08f49-88","hAlign":"left","containerBackground":"#ffffff","containerHoverBackground":"#ffffff","containerBorderWidth":[5,5,5,5],"containerBorderRadius":20,"containerPadding":[24,24,24,24],"mediaAlign":"left","mediaImage":[{"url":"","id":"","alt":"","width":"","height":"","maxWidth":100,"hoverAnimation":"none","flipUrl":"","flipId":"","flipAlt":"","flipWidth":"","flipHeight":"","subtype":"","flipSubtype":""}],"mediaIcon":[{"icon":"fas_lightbulb","size":50,"width":2,"title":"","color":"#ffffff","hoverColor":"#ffffff","hoverAnimation":"none","flipIcon":""}],"mediaStyle":[{"background":"#009efd","hoverBackground":"#2af598","border":"#eeeeee","hoverBorder":"#eeeeee","borderRadius":200,"borderWidth":[5,5,5,5],"padding":[20,20,20,20],"margin":[0,20,0,0]}],"titleFont":[{"level":2,"size":["","",""],"sizeType":"px","lineHeight":["","",""],"lineType":"px","letterSpacing":"","textTransform":"","family":"","google":false,"style":"","weight":"","variant":"","subset":"","loadGoogle":true,"padding":[0,0,0,0],"paddingControl":"linked","margin":[5,0,10,0],"marginControl":"individual"}],"containerMargin":["","","",""]} --></p>
-<div id="kt-info-box_f08f49-88" class="wp-block-kadence-infobox"><a class="kt-blocks-info-box-link-wrap kt-blocks-info-box-media-align-left kt-info-halign-left">
+<div id="kt-info-box_f08f49-88" class="wp-block-kadence-infobox">
 <div class="kt-blocks-info-box-media-container">
 <div class="kt-blocks-info-box-media kt-info-media-animate-none">
 <div class="kadence-info-box-icon-container kt-info-icon-animate-none">
-<div class="kadence-info-box-icon-inner-container"><span style="display:block;justify-content:center;align-items:center" class="kt-info-svg-icon kt-info-svg-icon-fas_lightbulb"><svg style="display:inline-block;vertical-align:middle" viewbox="0 0 384 512" height="50" width="50" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-<path d="M272 428v28c0 10.449-6.68 19.334-16 22.629V488c0 13.255-10.745 24-24 24h-80c-13.255 0-24-10.745-24-24v-9.371c-9.32-3.295-16-12.18-16-22.629v-28c0-6.627 5.373-12 12-12h136c6.627 0 12 5.373 12 12zm-143.107-44c-9.907 0-18.826-6.078-22.376-15.327C67.697 267.541 16 277.731 16 176 16 78.803 94.805 0 192 0s176 78.803 176 176c0 101.731-51.697 91.541-90.516 192.673-3.55 9.249-12.47 15.327-22.376 15.327H128.893zM112 176c0-44.112 35.888-80 80-80 8.837 0 16-7.164 16-16s-7.163-16-16-16c-61.757 0-112 50.243-112 112 0 8.836 7.164 16 16 16s16-7.164 16-16z"></path></svg></span></div>
+<div class="kadence-info-box-icon-inner-container"> </div>
 </div>
 </div>
 </div>
 <div class="kt-infobox-textcontent">
-<h2 class="kt-blocks-info-box-title">Uwaga!</h2>
+<h2 id="mcetoc_1ep435vqjrr" class="kt-blocks-info-box-title">Uwaga!</h2>
 <p class="kt-blocks-info-box-text"><strong>A co jeśli nie znamy wymowy danego znaku</strong>, nie wiemy jak go przeczytać (nie znamy pinyin)? Jak wtedy napisać go na klawiaturze, żeby np. sprawdzić jego znaczenie. Obecnie większość (może nawet wszystkie) smartfony oferują ręczne wprowadzanie znaków. Czyli mamy możliwość napisania palcem znaku na ekranie telefonu, w ten sposób nie musimy znać jego wymowy, a mimo to możemy go napisać.</p>
 </div>
-<p></a></div>
-<p><!-- /wp:kadence/infobox --></p>
-<p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:image {"align":"center","id":2700,"width":311,"height":675,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2700"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/27/WechatIMG463.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-md.jpeg 768w"  alt=""  width="311" height="675"/></figure></figure>
+<figure class="aligncenter size-full is-resized"><figure class="wp-image-2700"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/WechatIMG463.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-md.jpeg 768w"  alt="" width="311" height="675"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>W tym celu należy wybrać odpowiednią metodę wprowadzania, w ramach chińskiej klawiatury. Na każdym urządzeniu może wyglądać to trochę inaczej.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Wiele starszych osób w Chinach nie zna pinyin, to oni najczęściej korzystają właśnie z takiego ręcznego sposobu pisania znaków na telefonie. </p>
+<p>Wiele starszych osób w Chinach nie zna pinyin, to oni najczęściej korzystają właśnie z takiego ręcznego sposobu pisania znaków na telefonie.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Słownik Pleco, o którym przeczytacie w moim wpisie <a href="https://nomadbynature.xyz/podroz-po-chinach-8-aplikacji-ktore-ulatwia-ci-zycie/">o przydatnych podczas podróży po Chinach aplikacjach</a>, oferuje odpłatny dodatek, który skanuje znaki i automatycznie zamienia je na tekst.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Jak dodać tony do zapisów sylab w pinyin?</h2>
+<h2 id="mcetoc_1ep435vqjrs">Jak dodać tony do zapisów sylab w pinyin?</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Czasem napotkacie się z sytuacją, kiedy nie chcecie napisać słowa bądź zwrotu etc. w znakach chińskich, a chcecie jedynie pokazać wymowę z zaznaczonymi prawidłowymi tonami. Można to zrobić na dwa sposoby:</p>
@@ -1588,7 +1672,7 @@
 <li>wybierz tą klawiaturę, aby pisać za jej pomocą</li>
 <li>dodaj oznaczenia tonów w następujący sposób
 <ul>
-<li>ton pierwszy: ⌥ (option) + a </li>
+<li>ton pierwszy: ⌥ (option) + a</li>
 <li>ton drugi: ⌥ (option) + e</li>
 <li>ton trzeci: ⌥ (option) + v</li>
 <li>ton czwarty: ⌥ (option) + ~</li>
@@ -1598,16 +1682,15 @@
 </li>
 <li><strong>na PC (Windows):</strong>
 <ul>
-<li>aby dodawać oznaczenia tonów w pinyin na Windows trzeba zainstalować klawiaturę do języka japońskiego (tak, japońskiego, nie ma tu pomyłki!), a następnie klawiaturę PinyinTones </li>
+<li>aby dodawać oznaczenia tonów w pinyin na Windows trzeba zainstalować klawiaturę do języka japońskiego (tak, japońskiego, nie ma tu pomyłki!), a następnie klawiaturę PinyinTones</li>
 <li>wybierz klawiaturę japońską i Pinyin Tones, aby zacząć pisać</li>
-<li>napisz sylabę i wciśnij cyfrę 1, 2, 3 lub 4 a potem spację, aby dodać odpowiedni ton, np. hao + 3  spacja ---&gt; hǎo</li>
+<li>napisz sylabę i wciśnij cyfrę 1, 2, 3 lub 4 a potem spację, aby dodać odpowiedni ton, np. hao + 3 spacja ---&gt; hǎo</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 <p><!-- /wp:list --></p>
-
             ]]>
         </content>
     </entry>
@@ -1618,8 +1701,10 @@
         </author>
         <link href="https://nomadbynature.xyz/moje-ulubione-dania-chinskie-z-przepisami/"/>
         <id>https://nomadbynature.xyz/moje-ulubione-dania-chinskie-z-przepisami/</id>
+            <category term="kulinaria"/>
+            <category term="Chiny"/>
 
-        <updated>2020-12-08T20:32:04-05:00</updated>
+        <updated>2020-12-09T11:11:34-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/26/clem-onojeghuo-r8lDTtSWGUc-unsplash_opt-1.jpg" alt="" />
@@ -1634,68 +1719,62 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ja sama mam to szczęście, że mieszkam w Chinach i ciekawe azjatyckie smaki i składniki mam na wyciągnięcie ręki. Jednak chodzi mi o to, abyście i wy mogli skorzystać z podanych tutaj przepisów i faktycznie spróbować nowych potraw, a nie tylko o nich przeczytać i obejść się smakiem.</p>
+<p> </p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep43kp6csm">Hot pot - gorący kociołek 火锅 (huǒguō)</a></li>
+<li><a href="#mcetoc_1ep43kp6csn">Mięso o aromacie ryby 鱼香肉丝 (yúxiāngròusī)</a></li>
+<li><a href="#mcetoc_1ep43kp6cso">Sałatka tygrysa 老虎菜 (lǎohǔcài)</a></li>
+<li><a href="#mcetoc_1ep43kp6csp">Kurczak Kung Pao 宫保鸡丁(Gōngbǎo jīdīng)</a></li>
+<li><a href="#mcetoc_1ep43kp6csq">Podsumowanie</a></li>
+</ul>
+</div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Hot pot - gorący kociołek 火锅 (huǒguō)</h2>
+<h2 id="mcetoc_1ep43kp6csm">Hot pot - gorący kociołek 火锅 (huǒguō)</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>Ah, mój ukochany hot pot, czyli gorący kociołek. Lubię ten rodzaj jedzenia nie tylko ze względu na różnorodność smaków, ale również na towarzyską&nbsp;naturę tego posiłku. Gdyż&nbsp;hot pota z reguły nie jada się samemu.&nbsp;</p>
+<p>Ah, mój ukochany hot pot, czyli gorący kociołek. Lubię ten rodzaj jedzenia nie tylko ze względu na różnorodność smaków, ale również na towarzyską naturę tego posiłku. Gdyż hot pota z reguły nie jada się samemu. </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Najlepiej umówić się z przyjaciółmi i wspólnie urządzić hot pot party. Ten rodzaj jedzenia mogę porównać trochę do fondue, gdzie maczamy różne, wcześniej przygotowane składniki, jak warzywa czy mięso, w gorącym rozpuszczonym serze.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Z hot potem jest podobnie. <strong>Różne składniki (surowe) wrzucane są do garnka z wrzącym bulionem/bazą</strong>. Bazą może być zwykła woda ze szczyptą soli, zupa pomidorowa, bulion grzybowy lub o smaku curry, albo bardzo ostra zupa z papryczkami chilli oraz pieprzem syczuańskim. Możliwości jest tutaj wiele i każdy znajdzie coś dla siebie.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG460-675x730.jpeg" data-size="675x730"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG460-675x730-thumbnail.jpeg" alt="" width="675" height="730"></a></figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG461-675x730.jpeg" data-size="675x730"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG461-675x730-thumbnail.jpeg" alt="" width="675" height="730"></a></figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG450.jpeg" data-size="900x675"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG450-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG457-506x730.jpeg" data-size="506x730"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/gallery/WechatIMG457-506x730-thumbnail.jpeg" alt="" width="506" height="730"></a></figure>
+</div></div>
+<p> </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:gallery {"ids":[2678,2679,2681,2682,2683,2684]} --></p>
-<figure class="wp-block-gallery columns-3 is-cropped">
-<ul class="blocks-gallery-grid">
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-2678"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/WechatIMG460-675x730.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG460-675x730-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG460-675x730-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG460-675x730-md.jpeg 768w"  alt="" data-id="2678" data-full-url="https://nomadbynature.xyz/wp-content/uploads/2020/05/WechatIMG460.jpeg" data-link="https://nomadbynature.xyz/?attachment_id=2678" /></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-2679"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/WechatIMG461-675x730.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG461-675x730-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG461-675x730-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG461-675x730-md.jpeg 768w"  alt="" data-id="2679" data-full-url="https://nomadbynature.xyz/wp-content/uploads/2020/05/WechatIMG461.jpeg" data-link="https://nomadbynature.xyz/?attachment_id=2679" /></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-2681"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/WechatIMG457-506x730.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG457-506x730-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG457-506x730-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG457-506x730-md.jpeg 768w"  alt="" data-id="2681" data-full-url="https://nomadbynature.xyz/wp-content/uploads/2020/05/WechatIMG457.jpeg" data-link="https://nomadbynature.xyz/?attachment_id=2681" /></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-2682"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/WechatIMG451.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG451-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG451-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG451-md.jpeg 768w"  alt="" data-id="2682" data-full-url="https://nomadbynature.xyz/media/posts/26/WechatIMG451.jpeg" data-link="https://nomadbynature.xyz/?attachment_id=2682" /></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-2683"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/WechatIMG450.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG450-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG450-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG450-md.jpeg 768w"  alt="" data-id="2683" data-full-url="https://nomadbynature.xyz/media/posts/26/WechatIMG450.jpeg" data-link="https://nomadbynature.xyz/?attachment_id=2683" /></figure></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><figure class="wp-image-2684"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/WechatIMG448.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG448-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG448-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/WechatIMG448-md.jpeg 768w"  alt="" data-id="2684" data-full-url="https://nomadbynature.xyz/media/posts/26/WechatIMG448.jpeg" data-link="https://nomadbynature.xyz/?attachment_id=2684" /></figure></figure>
-</li>
-</ul>
-<figcaption class="blocks-gallery-caption">Hot pot - różne składniki</figcaption>
-</figure>
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:paragraph --></p>
-<p>Jeśli chodzi o to co możemy wrzucić do wrzącego bulionu, to tutaj też mamy dużą dowolność. Najczęściej są to trzy grupy produktów: mięso, warzywa i coś bardziej sycącego, np. kluski (zazwyczaj dodawane na sam koniec, bo sprawiają, że bulion robi się&nbsp;trochę&nbsp;’mączysty’).&nbsp;</p>
+<p>Jeśli chodzi o to co możemy wrzucić do wrzącego bulionu, to tutaj też mamy dużą dowolność. Najczęściej są to trzy grupy produktów: mięso, warzywa i coś bardziej sycącego, np. kluski (zazwyczaj dodawane na sam koniec, bo sprawiają, że bulion robi się trochę ’mączysty’). </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Ale to nie wszystko, do hot pota dodawane są najróżniejsze typy tofu oraz przeróżne gatunki grzybów lub wodorostów. W kociołku mogą się&nbsp;znaleźć również owoce morza, np. krewetki. Istnieje też specjalny rybny hot pot, gdzie w bulionie gotowane są przez zaledwie kilka sekund cieniutkie plasterki ryby.</p>
+<p>Ale to nie wszystko, do hot pota dodawane są najróżniejsze typy tofu oraz przeróżne gatunki grzybów lub wodorostów. W kociołku mogą się znaleźć również owoce morza, np. krewetki. Istnieje też specjalny rybny hot pot, gdzie w bulionie gotowane są przez zaledwie kilka sekund cieniutkie plasterki ryby.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>W restauracjach serwujących hot pot na stołach zamontowane są kuchenki elektryczne, chyba że akurat trafiliśmy na bardziej tradycyjną&nbsp;wersję podgrzewaną&nbsp;rozżarzonymi węgielkami. Na kuchence ustawiany jest garnek z wybranym przez nas smakiem bulionu - bazy.</p>
+<p>W restauracjach serwujących hot pot na stołach zamontowane są kuchenki elektryczne, chyba że akurat trafiliśmy na bardziej tradycyjną wersję podgrzewaną rozżarzonymi węgielkami. Na kuchence ustawiany jest garnek z wybranym przez nas smakiem bulionu - bazy.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Ale hot pota możemy urządzić również w domu, jeśli mamy np. kuchenkę&nbsp;turystyczną, albo małą&nbsp;kuchenkę elektryczną, którą da się&nbsp;postawić na stole. Można też przygotować hot pota bezpośrednio na kuchence w kuchni.</p>
+<p>Ale hot pota możemy urządzić również w domu, jeśli mamy np. kuchenkę turystyczną, albo małą kuchenkę elektryczną, którą da się postawić na stole. Można też przygotować hot pota bezpośrednio na kuchence w kuchni.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Oto przykładowy przepis na domowy hot pot:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:columns --></p>
-<div class="wp-block-columns"><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Składniki na bulion:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1715,10 +1794,11 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>sól - według uznania</p>
-<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
 <p><!-- /wp:column --></p>
 <p><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
+<div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Pozostałe składniki:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1732,8 +1812,10 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>makaron jajeczny</p>
-<p><!-- /wp:paragraph --></div>
-<p><!-- /wp:column --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
+<p><!-- /wp:column --></p>
+</div>
 <p><!-- /wp:columns --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Wykonanie:</strong></p>
@@ -1751,24 +1833,23 @@
 <p>W zasadzie sosy te (z dodatkami) zwane po chińsku xiaoliao, są integralną częścią posiłku, i dodają kolejną warstwę smakową do całości. <strong>Sosem może być olej sezamowy z czosnkiem i octem ryżowym </strong>(polecany szczególnie do ostrych hot potów), lub <strong>niesłodzone! masło z orzeszków ziemnych ze szczypiorkiem i pietruszką</strong>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Mięso o aromacie ryby 鱼香肉丝 (yúxiāngròusī)</h2>
+<h2 id="mcetoc_1ep43kp6csn">Mięso o aromacie ryby 鱼香肉丝 (yúxiāngròusī)</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>Jeśli tak jak ja lubicie mięso na lekko słodko, yuxiangrousi jest dla was. Dobrze przyrządzonego yuxiang rousi nie da się&nbsp;pomylić z niczym innym, a do tego uważam, że jest to bardzo charakterystyczna potrawa kuchni chińskiej.&nbsp;</p>
+<p>Jeśli tak jak ja lubicie mięso na lekko słodko, yuxiangrousi jest dla was. Dobrze przyrządzonego yuxiang rousi nie da się pomylić z niczym innym, a do tego uważam, że jest to bardzo charakterystyczna potrawa kuchni chińskiej. </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Yuxiang w języku chińskim oznacza ‘o smaku ryby’, ‘o zapachu ryby’, a rousi znaczy ‘paseczki mięsa’ (mięso pokrojone w paseczki). Tak więc yuxianrousi oznacza w wolnym tłumaczeniu mięso o smaku ryby, mięsem jest tu najczęściej wieprzowina. Stosowany może być również kurczak (kurczaka stosuje się, gdy chce się obniżyć koszt przygotowania potrawy, bo jest tańszy niż wieprzowina).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:image {"align":"center","id":2686,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2686"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/mieso-o-smaku-ryby.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/mieso-o-smaku-ryby-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/mieso-o-smaku-ryby-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/mieso-o-smaku-ryby-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2686"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/26/mieso-o-smaku-ryby.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/mieso-o-smaku-ryby-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/mieso-o-smaku-ryby-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/mieso-o-smaku-ryby-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-spacer" style="height: 50px;" aria-hidden="true"> </div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:paragraph --></p>
 <p>W chińskich szkołach gastronomicznych przyrządzanie yuxiang rousi to ostateczny test umiejętności. Każdy przyszły kucharz musi umieć to danie przygotować. A tytułowy rybny smak nie jest łatwy do osiągnięcia bez ryby. Bo rzeczywiście <strong>danie to nie zawiera ani grama ryby ani nawet sosu rybnego. </strong></p>
@@ -1780,8 +1861,8 @@
 <p><strong>Składniki:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:columns --></p>
-<div class="wp-block-columns"><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Na marynatę:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1825,28 +1906,31 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>1 szalotka, drobno posiekana</p>
-<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
 <p><!-- /wp:column --></p>
 <p><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
-<p><strong>Na sos:</strong><br>1½ łyżki octu ryżowego </p>
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>Na sos:</strong><br>1½ łyżki octu ryżowego</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1½ łyżki cukru </p>
+<p>1½ łyżki cukru</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1 łyżka jasnego sosu sojowego </p>
+<p>1 łyżka jasnego sosu sojowego</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>½ łyżki wina ryżowego/alkoholu do gotowania </p>
+<p>½ łyżki wina ryżowego/alkoholu do gotowania</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1 szklanka wody </p>
+<p>1 szklanka wody</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>1½ łyżki skrobi kukurydzianej</p>
-<p><!-- /wp:paragraph --></div>
-<p><!-- /wp:column --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
+<p><!-- /wp:column --></p>
+</div>
 <p><!-- /wp:columns --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Wykonanie:</strong></p>
@@ -1864,21 +1948,20 @@
 <p>Danie to ma też <strong>wersję wegetariańską, zamiast mięsa można użyć bakłażana</strong>. Jest w Chinach bardzo popularne, najczęściej serwuje się je z ryżem.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Sałatka tygrysa 老虎菜 (lǎohǔcài)</h2>
+<h2 id="mcetoc_1ep43kp6cso">Sałatka tygrysa 老虎菜 (lǎohǔcài)</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>W sumie nie wiem czy mogę nazwać laohucai daniem, to po prostu surówka. Pyszna w swojej prostocie. Myślę, że kuchnia chińska nie kojarzy wam się&nbsp;z surówkami, ale jest&nbsp; w niej więcej niż parę&nbsp;warzywnych przekąsek na zimno.</p>
+<p>W sumie nie wiem czy mogę nazwać laohucai daniem, to po prostu surówka. Pyszna w swojej prostocie. Myślę, że kuchnia chińska nie kojarzy wam się z surówkami, ale jest  w niej więcej niż parę warzywnych przekąsek na zimno.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:image {"align":"center","id":2687,"sizeSlug":"medium"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-medium"><figure class="wp-image-2687"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/laohucai_salatka-570x410.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/laohucai_salatka-570x410-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/laohucai_salatka-570x410-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/laohucai_salatka-570x410-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-medium"><figure class="wp-image-2687"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/26/laohucai_salatka-570x410.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/laohucai_salatka-570x410-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/laohucai_salatka-570x410-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/laohucai_salatka-570x410-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-spacer" style="height: 50px;" aria-hidden="true"> </div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:paragraph --></p>
 <p>Tygrysią sałatkę lubię, bo ma bardzo orzeźwiający i wyrazisty smak, uważam że świetnie nadaje się jako dodatek do cięższych, mięsnych dań.</p>
@@ -1887,8 +1970,8 @@
 <p><strong>Składniki:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:columns --></p>
-<div class="wp-block-columns"><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Warzywa:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1902,10 +1985,11 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>kolendra 50g</p>
-<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
 <p><!-- /wp:column --></p>
 <p><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
+<div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Na sos:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1919,38 +2003,39 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>15g oleju sezamowego</p>
-<p><!-- /wp:paragraph --></div>
-<p><!-- /wp:column --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
+<p><!-- /wp:column --></p>
+</div>
 <p><!-- /wp:columns --></p>
 <p><!-- wp:paragraph --></p>
 <p>Posiekaj ogórka, marchewkę i paprykę w słupki, posiekaj również kolędrę. Zmieszaj wszystkie składniki na sos i zalej nim warzywa. Wszystko dobrze wymieszaj. Gotowe!</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Kurczak Kung Pao 宫保鸡丁(Gōngbǎo jīdīng)</h2>
+<h2 id="mcetoc_1ep43kp6csp">Kurczak Kung Pao 宫保鸡丁(Gōngbǎo jīdīng)</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>To klasyczne danie kuchni syczuańskiej, która znana jest przede wszystkim z ostrych potraw. Ale gongbaojiding można dostać w różnych stopniach ostrości i ogólnie w różnych wersjach, w zależności od preferencji kucharza.&nbsp;&nbsp;</p>
+<p>To klasyczne danie kuchni syczuańskiej, która znana jest przede wszystkim z ostrych potraw. Ale gongbaojiding można dostać w różnych stopniach ostrości i ogólnie w różnych wersjach, w zależności od preferencji kucharza.  </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Za każdym razem kiedy próbowałam to danie poza granicami Chin byłam zawiedziona i/lub zadziwiona interpretacją. Proponuję wam więc wypróbować podstawowy, syczuański przepis i postarać się wyszukać oryginalne składniki (nie używać substytutów, jak np. papryki zamiast suszonych papryczek chilli).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:image {"align":"center","id":2688,"sizeSlug":"full"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><figure class="wp-image-2688"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/26/kongpao_kurczak.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/kongpao_kurczak-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/kongpao_kurczak-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/kongpao_kurczak-md.jpg 768w"  alt="" /></figure></figure>
+<figure class="aligncenter size-full"><figure class="wp-image-2688"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/26/kongpao_kurczak.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/26/responsive/kongpao_kurczak-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/26/responsive/kongpao_kurczak-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/26/responsive/kongpao_kurczak-md.jpg 768w"  alt=""></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-spacer" style="height: 50px;" aria-hidden="true"> </div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Składniki:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:columns --></p>
-<div class="wp-block-columns"><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Na marynatę:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -1964,52 +2049,55 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>1 łyżeczka mąki kukurydzianej</p>
-<p><!-- /wp:paragraph --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
 <p><!-- /wp:column --></p>
 <p><!-- wp:column --></p>
-<div class="wp-block-column"><!-- wp:paragraph --></p>
+<div class="wp-block-column"><!-- wp:paragraph -->
 <p><strong>Na sos:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1 łyżka cukru </p>
+<p>1 łyżka cukru</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1 łyżka czarnego octu Chinkiang </p>
+<p>1 łyżka czarnego octu Chinkiang</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1 łyżeczka oleju sezamowego </p>
+<p>1 łyżeczka oleju sezamowego</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1 łyżeczka ciemnego sosu sojowego </p>
+<p>1 łyżeczka ciemnego sosu sojowego</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>1 łyżeczka sosu sojowego</p>
-<p><!-- /wp:paragraph --></div>
-<p><!-- /wp:column --></div>
+<p><!-- /wp:paragraph --></p>
+</div>
+<p><!-- /wp:column --></p>
+</div>
 <p><!-- /wp:columns --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Pozostałe składniki:</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>3 łyżki oleju roślinnego </p>
+<p>3 łyżki oleju roślinnego</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>12-15 dużych suszonych papryczek chilli bez nasion, pociętych na 1cm odcinki</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>1 łyżeczka pieprzu syczuańskiego </p>
+<p>1 łyżeczka pieprzu syczuańskiego</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>2 ząbki czosnku, drobno posiekane </p>
+<p>2 ząbki czosnku, drobno posiekane</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>2 łyżeczki startego imbiru </p>
+<p>2 łyżeczki startego imbiru</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>6  dymek, pokrojonych na 1 cm kawałki </p>
+<p>6 dymek, pokrojonych na 1 cm kawałki</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>½ szklanki niesolonych prażonych orzeszków ziemnych </p>
+<p>½ szklanki niesolonych prażonych orzeszków ziemnych</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>trochę mąki kukurydzianej zmieszanej z zimną wodą do zagęszczania</p>
@@ -2021,10 +2109,10 @@
 <p>Pokrojonego kurczaka zmieszaj z marynatą i odstaw na bok. Szybko podgrzej olej na patelni wraz z papryczkami chilli i pieprzem syczuańskim. Dodaj kurczaka i podsmaż, aż będzie lekko zarumieniony. Wtedy dodaj czosnek, imbir, dymkę, podsmażaj ciągle mieszając. Dodaj sos i w razie potrzeby zagęść mieszankę wodą z mąką kukurydzianą. Na sam koniec dodaj orzeszki ziemne, dobrze wymieszaj. Podawaj natychmiast np. z ryżem.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Podsumowanie</h2>
+<h2 id="mcetoc_1ep43kp6csq">Podsumowanie</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>Mam nadzieję, że uda wam się wypróbować te potrawy. Pisząc artykuł i przeglądając swoje zdjęcia, aby wybrać niektóre do umieszczenia na blogu odkryłam, że mam chyba największą kolekcję zdjęć hot potów na świecie haha. Przeglądając zdjęcia przypomniałam sobie również o wielu innych daniach chińskich, które bardzo lubię. Szkoda, że nie sposób ich tu wszystkich wymienić i opisać. </p>
+<p>Mam nadzieję, że uda wam się wypróbować te potrawy. Pisząc artykuł i przeglądając swoje zdjęcia, aby wybrać niektóre do umieszczenia na blogu odkryłam, że mam chyba największą kolekcję zdjęć hot potów na świecie haha. Przeglądając zdjęcia przypomniałam sobie również o wielu innych daniach chińskich, które bardzo lubię. Szkoda, że nie sposób ich tu wszystkich wymienić i opisać.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Czy macie swoje ulubione danie kuchni chińskiej? Dajcie mi znać w komentarzach. A jeśli chcecie dowiedzieć się <a href="https://nomadbynature.xyz/co-chinczycy-jedza-na-sniadanie/">co jedzą Chińczycy na śniadanie</a>, polecam mój wpis właśnie na ten temat.</p>
@@ -2032,7 +2120,6 @@
 <p><!-- wp:paragraph --></p>
 <p><strong>Smacznego!</strong></p>
 <p><!-- /wp:paragraph --></p>
-
             ]]>
         </content>
     </entry>
@@ -2043,10 +2130,10 @@
         </author>
         <link href="https://nomadbynature.xyz/aplikacje-do-robienia-notatek-i-zarzadzania-wiedza-zrob-porzadek-w-swoich-notatkach/"/>
         <id>https://nomadbynature.xyz/aplikacje-do-robienia-notatek-i-zarzadzania-wiedza-zrob-porzadek-w-swoich-notatkach/</id>
-            <category term="produktywność"/>
-            <category term="narzędzia"/>
+            <category term="Produktywność"/>
+            <category term="Narzędzia"/>
 
-        <updated>2020-12-08T20:32:04-05:00</updated>
+        <updated>2020-12-09T11:10:53-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/29/yura-fresh-n31x0hhnzOs-unsplash_opt-1.jpg" alt="" />
@@ -2057,44 +2144,50 @@
             <![CDATA[
                     <img src="https://nomadbynature.xyz/media/posts/29/yura-fresh-n31x0hhnzOs-unsplash_opt-1.jpg" alt="" />
                 <p><!-- wp:paragraph --></p>
-<p>Przetestowałam dla was 3 narzędzia - aplikacje do robienia notatek i strukturyzowania myśli. Zrobiłam to mając na uwadze, to co będzie się&nbsp;działo z naszymi notatkami w przyszłości. Do czego i jak będziemy mogli je faktycznie wykorzystać. Nie chodzi tylko o samo zapisywanie notatek - do tego wystarczy nawet najzwyklejszy notatnik (elektroniczny lub papierowy).</p>
+<p>Przetestowałam dla was 3 narzędzia - aplikacje do robienia notatek i strukturyzowania myśli. Zrobiłam to mając na uwadze, to co będzie się działo z naszymi notatkami w przyszłości. Do czego i jak będziemy mogli je faktycznie wykorzystać. Nie chodzi tylko o samo zapisywanie notatek - do tego wystarczy nawet najzwyklejszy notatnik (elektroniczny lub papierowy).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Artykuł ten napisany jest więc z punktu widzenia <strong>długoterminowego zarządzania informacjami </strong>(między innymi w systemie Zettelkasten) i tego, jak możemy sprawić, że notatki będą dla nas wartościowe długo po tym jak je zrobiliśmy.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Bo często, kiedy mamy już dużo notatek, zmieniają się&nbsp;one w górę niezwiązanych ze sobą&nbsp;świstków papieru, żal nad zmarnowanym czasem i frustrację z powodu bałaganu. Wtedy pojawia się&nbsp;chęć do pozbycia się&nbsp;wszystkich materiałów i rozpoczęcia od nowa. Znacie to uczucie? Taka strategia, nie brzmi zbyt produktywnie...wiem coś o tym.</p>
+<p>Bo często, kiedy mamy już dużo notatek, zmieniają się one w górę niezwiązanych ze sobą świstków papieru, żal nad zmarnowanym czasem i frustrację z powodu bałaganu. Wtedy pojawia się chęć do pozbycia się wszystkich materiałów i rozpoczęcia od nowa. Znacie to uczucie? Taka strategia, nie brzmi zbyt produktywnie...wiem coś o tym.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Poniżej opisane aplikacje, każda na swój sposób, lepiej lub gorzej, jeśli dobrze je wykorzystamy, pomogą nam w zorganizowaniu wiedzy <strong>raz na zawsze</strong>.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:columns --></p>
-<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":33.33} --></p>
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:kadence/icon {"icons":[{"icon":"fa_connectdevelop","link":"","target":"_self","size":50,"width":2,"title":"","color":"#009efd","background":"transparent","border":"#444444","borderRadius":0,"borderWidth":2,"padding":20,"style":"default","marginTop":0,"marginRight":0,"marginBottom":0,"marginLeft":0,"hColor":"#000000","hBackground":"","hBorder":""}],"uniqueID":"_17e7c1-2f"} --></p>
-<div class="wp-block-kadence-icon kt-svg-icons kt-svg-icons_17e7c1-2f aligncenter" style="text-align:center">
-<div class="kt-svg-style-default kt-svg-icon-wrap kt-svg-item-0">
-<div style="display:inline-flex;justify-content:center;align-items:center;color:#009efd" class="kt-svg-icon kt-svg-icon-fa_connectdevelop"><svg style="display:inline-block;vertical-align:middle" viewbox="0 0 576 512" height="50" width="50" fill="currentColor" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="xMinYMin meet">
-<path d="M550.5 241l-50.089-86.786c1.071-2.142 1.875-4.553 1.875-7.232 0-8.036-6.696-14.733-14.732-15.001l-55.447-95.893c.536-1.607 1.071-3.214 1.071-4.821 0-8.571-6.964-15.268-15.268-15.268-4.821 0-8.839 2.143-11.786 5.625H299.518C296.839 18.143 292.821 16 288 16s-8.839 2.143-11.518 5.625H170.411C167.464 18.143 163.447 16 158.625 16c-8.303 0-15.268 6.696-15.268 15.268 0 1.607.536 3.482 1.072 4.821l-55.983 97.233c-5.356 2.41-9.107 7.5-9.107 13.661 0 .535.268 1.071.268 1.607l-53.304 92.143c-7.232 1.339-12.59 7.5-12.59 15 0 7.232 5.089 13.393 12.054 15l55.179 95.358c-.536 1.607-.804 2.946-.804 4.821 0 7.232 5.089 13.393 12.054 14.732l51.697 89.732c-.536 1.607-1.071 3.482-1.071 5.357 0 8.571 6.964 15.268 15.268 15.268 4.821 0 8.839-2.143 11.518-5.357h106.875C279.161 493.857 283.447 496 288 496s8.839-2.143 11.518-5.357h107.143c2.678 2.946 6.696 4.821 10.982 4.821 8.571 0 15.268-6.964 15.268-15.268 0-1.607-.267-2.946-.803-4.285l51.697-90.268c6.964-1.339 12.054-7.5 12.054-14.732 0-1.607-.268-3.214-.804-4.821l54.911-95.358c6.964-1.339 12.322-7.5 12.322-15-.002-7.232-5.092-13.393-11.788-14.732zM153.535 450.732l-43.66-75.803h43.66v75.803zm0-83.839h-43.66c-.268-1.071-.804-2.142-1.339-3.214l44.999-47.41v50.624zm0-62.411l-50.357 53.304c-1.339-.536-2.679-1.34-4.018-1.607L43.447 259.75c.535-1.339.535-2.679.535-4.018s0-2.41-.268-3.482l51.965-90c2.679-.268 5.357-1.072 7.768-2.679l50.089 51.965v92.946zm0-102.322l-45.803-47.41c1.339-2.143 2.143-4.821 2.143-7.767 0-.268-.268-.804-.268-1.072l43.928-15.804v72.053zm0-80.625l-43.66 15.804 43.66-75.536v59.732zm326.519 39.108l.804 1.339L445.5 329.125l-63.75-67.232 98.036-101.518.268.268zM291.75 355.107l11.518 11.786H280.5l11.25-11.786zm-.268-11.25l-83.303-85.446 79.553-84.375 83.036 87.589-79.286 82.232zm5.357 5.893l79.286-82.232 67.5 71.25-5.892 28.125H313.714l-16.875-17.143zM410.411 44.393c1.071.536 2.142 1.072 3.482 1.34l57.857 100.714v.536c0 2.946.803 5.624 2.143 7.767L376.393 256l-83.035-87.589L410.411 44.393zm-9.107-2.143L287.732 162.518l-57.054-60.268 166.339-60h4.287zm-123.483 0c2.678 2.678 6.16 4.285 10.179 4.285s7.5-1.607 10.179-4.285h75L224.786 95.821 173.893 42.25h103.928zm-116.249 5.625l1.071-2.142a33.834 33.834 0 0 0 2.679-.804l51.161 53.84-54.911 19.821V47.875zm0 79.286l60.803-21.964 59.732 63.214-79.553 84.107-40.982-42.053v-83.304zm0 92.678L198 257.607l-36.428 38.304v-76.072zm0 87.858l42.053-44.464 82.768 85.982-17.143 17.678H161.572v-59.196zm6.964 162.053c-1.607-1.607-3.482-2.678-5.893-3.482l-1.071-1.607v-89.732h99.91l-91.607 94.821h-1.339zm129.911 0c-2.679-2.41-6.428-4.285-10.447-4.285s-7.767 1.875-10.447 4.285h-96.429l91.607-94.821h38.304l91.607 94.821H298.447zm120-11.786l-4.286 7.5c-1.339.268-2.41.803-3.482 1.339l-89.196-91.875h114.376l-17.412 83.036zm12.856-22.232l12.858-60.803h21.964l-34.822 60.803zm34.822-68.839h-20.357l4.553-21.16 17.143 18.214c-.535.803-1.071 1.874-1.339 2.946zm66.161-107.411l-55.447 96.697c-1.339.535-2.679 1.071-4.018 1.874l-20.625-21.964 34.554-163.928 45.803 79.286c-.267 1.339-.803 2.678-.803 4.285 0 1.339.268 2.411.536 3.75z"></path></svg></div>
+<p> </p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1ep447ss7tl">RoamResearch</a></li>
+<li><a href="#mcetoc_1ep447ss7tm">Obsidian</a></li>
+<li><a href="#mcetoc_1ep447ss7tn">Notion</a></li>
+<li><a href="#mcetoc_1ep447ss7to">Podsumowanie</a></li>
+</ul>
 </div>
-</div>
+<p> </p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 33.33%;">
 <p><!-- /wp:kadence/icon --></p>
-<p><!-- wp:paragraph --></p></p>
-<p><!-- /wp:paragraph --></div>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+</div>
 <p><!-- /wp:column --></p>
 <p><!-- wp:column {"verticalAlignment":"center","width":66.66} --></p>
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><!-- wp:paragraph --></p>
-<p>Tutaj muszę was zachęcić do zapoznania się z podstawami <strong><a href="https://nomadbynature.xyz/jak-robic-notatki-jak-ekspert-o-ksiazce-how-to-take-smart-notes/">metody robienia notatek na całe życie - Zettelkasten</a></strong>. Znając zasady tej metody, staniecie się&nbsp;ekspertami od robienia efektywnych notatek. Pamiętajcie, że aplikacje są narzędziami pomocniczymi i bez odpowiedniej metody-systemu nie pomogą nam w organizacji na dłuższą metę.</p>
-<p><!-- /wp:paragraph --></div>
-<p><!-- /wp:column --></div>
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 66.66%;"><!-- wp:paragraph -->
+<p>Tutaj muszę was zachęcić do zapoznania się z podstawami <strong><a href="https://nomadbynature.xyz/jak-robic-notatki-jak-ekspert-o-ksiazce-how-to-take-smart-notes/">metody robienia notatek na całe życie - Zettelkasten</a></strong>. Znając zasady tej metody, staniecie się ekspertami od robienia efektywnych notatek. Pamiętajcie, że aplikacje są narzędziami pomocniczymi i bez odpowiedniej metody-systemu nie pomogą nam w organizacji na dłuższą metę.</p>
+<p><!-- /wp:paragraph --></p>
+</div>
+<p><!-- /wp:column --></p>
+</div>
 <p><!-- /wp:columns --></p>
 <p><!-- wp:paragraph --></p>
 <p>Przejdźmy zatem do listy aplikacji do długoterminowego zarządzania notatkami, a co za tym idzie zarządzania wiedzą.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2><a href="https://roamresearch.com/">1. RoamResearch</a></h2>
+<h2 id="mcetoc_1ep447ss7tl"><a href="https://roamresearch.com/">RoamResearch</a></h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>Zachwyt tą aplikacją minął tak szybko jak się zaczął. I nie mówię tylko o sobie, ale (jak wynika z moich obserwacji na social media i różnych forach) i o wielu innych użytkownikach, którzy zafascynowani możliwościami Roam, odwrócili się&nbsp;od aplikacji, przez:</p>
+<p>Zachwyt tą aplikacją minął tak szybko jak się zaczął. I nie mówię tylko o sobie, ale (jak wynika z moich obserwacji na social media i różnych forach) i o wielu innych użytkownikach, którzy zafascynowani możliwościami Roam, odwrócili się od aplikacji, przez:</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
 <ul>
@@ -2107,33 +2200,33 @@
 <p>Zaczęłam od negatywów, ale są powody dla których Roam zdobył wielu fanów w krótkim czasie.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Roam to hybryda, pozwala nie tylko na robienie notatek ale i dowolne łączenie ich w ciągi myślowe. Roam wprowadził <strong>dwukierunkowe linki</strong>, dzięki którym łączenie notatek, albo nawet fragmentów (paragrafów) notatek jest łatwe jak 1,2,3.&nbsp;</p>
+<p>Roam to hybryda, pozwala nie tylko na robienie notatek ale i dowolne łączenie ich w ciągi myślowe. Roam wprowadził <strong>dwukierunkowe linki</strong>, dzięki którym łączenie notatek, albo nawet fragmentów (paragrafów) notatek jest łatwe jak 1,2,3. </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Graf pokazujący połączenia między notatkami ułatwia ustrukturyzowanie myśli, wyszukiwanie nowych połączeń, a funkcja pozwalająca na jednoczesny podgląd wielu notatek umożliwia błyskawiczne <strong>tworzenie outline-u (zarysu) - co jest bardzo przydatne gdy piszemy</strong> artykuł, książkę, wypracowanie…</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2630,"sizeSlug":"full"} --></p>
-<figure class="wp-block-image size-full"><figure class="wp-image-2630"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/29/Xnip2020-05-17_16-02-11.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/29/responsive/Xnip2020-05-17_16-02-11-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/29/responsive/Xnip2020-05-17_16-02-11-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/29/responsive/Xnip2020-05-17_16-02-11-md.jpg 768w"  alt="" /></figure><br />
+<figure class="wp-block-image size-full"><figure class="wp-image-2630"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/29/Xnip2020-05-17_16-02-11.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/29/responsive/Xnip2020-05-17_16-02-11-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/29/responsive/Xnip2020-05-17_16-02-11-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/29/responsive/Xnip2020-05-17_16-02-11-md.jpg 768w"  alt=""></figure><br>
 <figcaption>Struktura notatek - myśli w RoamResearch</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
-<p>Roam ma również bardzo potężną funkcję wyszukiwania z filtrami, czego póki co nie ma w aplikacji Obsidian (info poniżej).&nbsp;Do tego możemy dowolnie otagowywać nasze notatki.</p>
+<p>Roam ma również bardzo potężną funkcję wyszukiwania z filtrami, czego póki co nie ma w aplikacji Obsidian (info poniżej). Do tego możemy dowolnie otagowywać nasze notatki.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Każda notatka i paragraf (bullet-point) w RoamResearch mają swoje unikalne ID, mamy również możliwość wyszukiwanie notatek na podstawie daty, kiedy zostały utworzone.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Narzędzie ma duży potencjał i daje potężne możliwości, ale mi niektóre funkcje wydają się nie tyle zbędne, co wprowadzające chaos. Na przykład, u dołu notatki automatycznie pojawiają się&nbsp;proponowane połączenia do innych notatek - generowane na podstawie słów kluczowych. Takie podejście potencjalnie tworzy dużo niepotrzebnych i bezmyślnych (bo wygenerowanych automatycznie) połączeń między notatkami. Możecie się&nbsp;oczywiście ze mną nie zgodzić, wiele osób uważa, że jest to świetna funkcja.</p>
+<p>Narzędzie ma duży potencjał i daje potężne możliwości, ale mi niektóre funkcje wydają się nie tyle zbędne, co wprowadzające chaos. Na przykład, u dołu notatki automatycznie pojawiają się proponowane połączenia do innych notatek - generowane na podstawie słów kluczowych. Takie podejście potencjalnie tworzy dużo niepotrzebnych i bezmyślnych (bo wygenerowanych automatycznie) połączeń między notatkami. Możecie się oczywiście ze mną nie zgodzić, wiele osób uważa, że jest to świetna funkcja.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Roam nadaje się do prowadzenia notatek w systemie Zettelkasten, ale momentami obserwuję przerost formy nad treścią. Ogrom opcji wymaga od nowego użytkownika czasu i dokładnego poznania narzędzia, aby móc je w pełni wykorzystać.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Obecnie korzystanie z RoamResearch zostało wstrzymane dla nowych użytkowników. Czas pokaże, czy aplikacja podniesie się&nbsp;po wpadkach i czy oprócz hardcorowych fanów (#roamcult) zdobędzie poklask wśród szerszej publiczności.</p>
+<p>Obecnie korzystanie z RoamResearch zostało wstrzymane dla nowych użytkowników. Czas pokaże, czy aplikacja podniesie się po wpadkach i czy oprócz hardcorowych fanów (#roamcult) zdobędzie poklask wśród szerszej publiczności.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2><a href="https://obsidian.md/">2. Obsidian</a></h2>
+<h2 id="mcetoc_1ep447ss7tm"><a href="https://obsidian.md/">Obsidian</a></h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jeśli zależy wam na pełnej kontroli nad notatkami i ich bezpieczeństwem, to Obsidian będzie świetnym wyborem. A to dlatego, że w aplikacji używamy markdown (języka do formatowania tekstu) i tworzymy pliki bezpośrednio na swoim dysku, a nie w chmurze (jak w przypadku wielu innych aplikacji, np. popularnego Evernote lub Roam).</p>
@@ -2142,10 +2235,10 @@
 <p>Zapewnia to naszym notatkom ochronę. Nawet jeśli za parę lat aplikacja przestałaby funkcjonować, została sprzedana czy zmieniona, swoje notatki mamy u siebie i są one niezależne od czyjegoś serwera. Fakt, że tworzymy notatki w formacie markdown umożliwia w razie potrzeby ich łatwy transfer do innych aplikacji, co też jest wielkim plusem. Obsidian pozwala nam więc na <strong>więcej elastyczności</strong>, nie ogranicza nas.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Moją ulubioną&nbsp;funkcją Obsidian jest widok graficzny, coś na kształt mapy myśli. Jak dla mnie widok w formie grafu jest niezastąpiony w procesie strukturyzowania myśli, wynajdywania nowych połączeń między notatkami i bardzo pomaga w budowaniu ‘zewnętrznego mózgu’.</p>
+<p>Moją ulubioną funkcją Obsidian jest widok graficzny, coś na kształt mapy myśli. Jak dla mnie widok w formie grafu jest niezastąpiony w procesie strukturyzowania myśli, wynajdywania nowych połączeń między notatkami i bardzo pomaga w budowaniu ‘zewnętrznego mózgu’.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2604,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2604"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/29/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/29/responsive/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730-xs.png 300w ,https://nomadbynature.xyz/media/posts/29/responsive/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730-sm.png 480w ,https://nomadbynature.xyz/media/posts/29/responsive/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730-md.png 768w"  alt="" /></figure><br />
+<figure class="wp-block-image size-large"><figure class="wp-image-2604"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/29/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/29/responsive/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730-xs.png 300w ,https://nomadbynature.xyz/media/posts/29/responsive/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730-sm.png 480w ,https://nomadbynature.xyz/media/posts/29/responsive/Screen-Shot-2020-05-17-at-1.36.24-PM-1170x730-md.png 768w"  alt=""></figure><br>
 <figcaption>Obsidian - widok na połączenia między moimi notatkami - graf</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
@@ -2153,51 +2246,51 @@
 <p>Obsidian, podobnie jak aplikacja Roam, wprowadził <strong>linki dwukierunkowe</strong> (dwuuszne). Jednak sposób wyświetlania tych linków jest trochę inny w obu aplikacjach. W Roam linki są automatycznie umieszczane i wyświetlane w notatce/bloku. W Obsidian wyświetlane są w panelu bocznym. Obsidian nie sugeruje nam również dodatkowych połączeń w oparciu o słowa kluczowe itp., co akurat uważam za plus.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Aplikacja Obsidian w podstawowej wersji (oraz dostępem do wtyczek) <strong>jest i będzie darmowa</strong>. Na razie jest dostępna w wersji beta, aby zacząć z niej korzystać należy poprosić o wczesny dostęp na <a href="https://obsidian.md/">stronie Obsidian</a>. Na Discord istnieje świetna społeczność skupiona wokół Obsidian, można pogadać bezpośrednio z twórcami aplikacji i podrzucić im własne pomysły na dodatkowe funkcje lub poprawki.&nbsp;</p>
+<p>Aplikacja Obsidian w podstawowej wersji (oraz dostępem do wtyczek) <strong>jest i będzie darmowa</strong>. Na razie jest dostępna w wersji beta, aby zacząć z niej korzystać należy poprosić o wczesny dostęp na <a href="https://obsidian.md/">stronie Obsidian</a>. Na Discord istnieje świetna społeczność skupiona wokół Obsidian, można pogadać bezpośrednio z twórcami aplikacji i podrzucić im własne pomysły na dodatkowe funkcje lub poprawki. </p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Dodatkowo, jeśli czujecie się&nbsp;na siłach możecie stworzyć własny motyw (w CSS) i dostosować wygląd aplikacji do własnego gustu. Na GitHub znajdziecie między innymi popularny <a href="https://github.com/jarodise/Dracula-for-Obsidian.md">Dracula Theme</a> zaadoptowany dla Obsidian.</p>
+<p>Dodatkowo, jeśli czujecie się na siłach możecie stworzyć własny motyw (w CSS) i dostosować wygląd aplikacji do własnego gustu. Na GitHub znajdziecie między innymi popularny <a href="https://github.com/jarodise/Dracula-for-Obsidian.md">Dracula Theme</a> zaadoptowany dla Obsidian.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Mimo, że markdown i motywy mogą dla niektórych z was brzmieć zbyt ‘technicznie’ to aplikacja Obsidian nadaje się do użytku dla osób bardziej i mniej obeznanych z technologią. Tworzenie i łączenie notatek w ciągi myślowe jest bardzo proste, interfejs jest przejrzysty a aplikacja jest bardzo szybka. Przyjemnie się z nią pracuje, i moim zdaniem doskonale nadaje się do wprowadzenia systemu notowania Zettelkasten na komputerze. </p>
+<p>Mimo, że markdown i motywy mogą dla niektórych z was brzmieć zbyt ‘technicznie’ to aplikacja Obsidian nadaje się do użytku dla osób bardziej i mniej obeznanych z technologią. Tworzenie i łączenie notatek w ciągi myślowe jest bardzo proste, interfejs jest przejrzysty a aplikacja jest bardzo szybka. Przyjemnie się z nią pracuje, i moim zdaniem doskonale nadaje się do wprowadzenia systemu notowania Zettelkasten na komputerze.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Aktualizacja!</strong> W najnowszej wersji Obsidian możliwe jest linkowanie do nagłówków. To doskonała opcja, szczególnie dla tych z was, którzy tej aplikacji zamierzają używać do dłuższych form pisemnych.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2><a href="https://www.notion.so/?r=59fa9791e9a24baba2e1d5b9a88bd778">3. Notion</a></h2>
+<h2 id="mcetoc_1ep447ss7tn"><a href="https://www.notion.so/?r=59fa9791e9a24baba2e1d5b9a88bd778">Notion</a></h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jeśli odwiedziliście wcześniej mój blog, to wiecie, że korzystam z Notion i wszystkim (zainteresowanym lub nie) polecam tą aplikację.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Jednak, jeśli chodzi o zarządzanie wiedzą (nie mówię tu o notatkach typu ‘do zrobienia’, czy zarządzaniu projektami), Notion nie wydaje mi się&nbsp;najbardziej optymalnym rozwiązaniem. To głównie przez brak linków dwukierunkowych, oraz to, że w Notion nie ma widoku graficznego pokazującego połączenia między notatkami, który jest bardzo ważny, jeśli chcemy mieć ‘widok z lotu ptaka’ na naszą wiedzę.</p>
+<p>Jednak, jeśli chodzi o zarządzanie wiedzą (nie mówię tu o notatkach typu ‘do zrobienia’, czy zarządzaniu projektami), Notion nie wydaje mi się najbardziej optymalnym rozwiązaniem. To głównie przez brak linków dwukierunkowych, oraz to, że w Notion nie ma widoku graficznego pokazującego połączenia między notatkami, który jest bardzo ważny, jeśli chcemy mieć ‘widok z lotu ptaka’ na naszą wiedzę.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>W Notion podobnie jak w wielu innych programach do notatek pracujemy z podejściem top-down (odgórnego) do budowania struktury. Podczas gdy budowanie ekspertyzy i personalnej wiedzy wymaga raczej podejścia bottom-up (oddolnego).</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Ale aplikacja Notion ma też swoje mocne strony, znakomicie sprawdzi się przy <strong>zarządzaniu notatkami literaturowymi</strong>. Jeśli chcemy stworzyć listę przeczytanych książek lub publikacji wraz z przydatnymi cytatami, krótkim podsumowaniem, danymi bibliograficznymi, odnośnikami do przydatnych materiałów źródłowych, Notion bardzo się przyda. </p>
+<p>Ale aplikacja Notion ma też swoje mocne strony, znakomicie sprawdzi się przy <strong>zarządzaniu notatkami literaturowymi</strong>. Jeśli chcemy stworzyć listę przeczytanych książek lub publikacji wraz z przydatnymi cytatami, krótkim podsumowaniem, danymi bibliograficznymi, odnośnikami do przydatnych materiałów źródłowych, Notion bardzo się przyda.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-spacer" style="height: 50px;" aria-hidden="true"> </div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:image {"id":2614,"sizeSlug":"full"} --></p>
-<figure class="wp-block-image size-full"><figure class="wp-image-2614"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/29/notatki_literaturowe-1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/29/responsive/notatki_literaturowe-1-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/29/responsive/notatki_literaturowe-1-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/29/responsive/notatki_literaturowe-1-md.jpg 768w"  alt="" /></figure><br />
+<figure class="wp-block-image size-full"><figure class="wp-image-2614"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/29/notatki_literaturowe-1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/29/responsive/notatki_literaturowe-1-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/29/responsive/notatki_literaturowe-1-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/29/responsive/notatki_literaturowe-1-md.jpg 768w"  alt=""></figure><br>
 <figcaption>Przykładowa baza danych z notatkami literaturowymi w Notion</figcaption>
 </figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:spacer {"height":50} --></p>
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<div class="wp-block-spacer" style="height: 50px;" aria-hidden="true"> </div>
 <p><!-- /wp:spacer --></p>
 <p><!-- wp:paragraph --></p>
-<p>Plusem jest też to, że w aplikacji Notion nasze notatki są&nbsp;przechowywane w chmurze, więc mamy do nich dostęp na wielu urządzeniach. </p>
+<p>Plusem jest też to, że w aplikacji Notion nasze notatki są przechowywane w chmurze, więc mamy do nich dostęp na wielu urządzeniach.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
-<h2>Podsumowanie</h2>
+<h2 id="mcetoc_1ep447ss7to">Podsumowanie</h2>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
-<p>Ja sama w zarządzaniu swoją wiedzą korzystam z tandemu Notion + Obsidian. Każda z tych aplikacji ma swoje mocne strony i nadaje się lepiej do innych typów notatek. </p>
+<p>Ja sama w zarządzaniu swoją wiedzą korzystam z tandemu Notion + Obsidian. Każda z tych aplikacji ma swoje mocne strony i nadaje się lepiej do innych typów notatek.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Jeśli chodzi o Obsidian i Roam, to mają więcej podobieństw aniżeli różnic, ale od Roam odstraszyła mnie cena i póki co wątpliwe bezpieczeństwo (utrata notatek).</p>
@@ -2206,9 +2299,8 @@
 <p>Jestem ciekawa, czy korzystaliście z któregoś z wymienionych przeze mnie narzędzi i jaka jest wasza opinia na ich temat? Dajcie mi znać w komentarzu lub na <a href="https://www.facebook.com/Nomad-by-nature-2001473886814218">mojej stronie na Facebook-u</a>.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>Dlaczego we wpisie nie znalazły się tak popularne aplikacje do robienia notatek jak Evernote czy Trello?</strong> Jak wspomniałam we wstępie, artykuł napisany jest pod kątem długofalowego zarządzania wiedzą i systemu Zettelkasten. Evernote&nbsp;czy Trello mogą posłużyć nam jak notatniki, ale brakuje im elastyczności niezbędnej przy budowaniu połączeń między notatkami - koniecznego z kolei do budowania ekspertyzy. Także w moim odczuciu nie są przydatne z punktu widzenia strukturyzowania myśli w sposób inny niż tylko odgórnie narzucony i zdefiniowany na samym początku (np. według daty, według kategorii).</p>
+<p><strong>Dlaczego we wpisie nie znalazły się tak popularne aplikacje do robienia notatek jak Evernote czy Trello?</strong> Jak wspomniałam we wstępie, artykuł napisany jest pod kątem długofalowego zarządzania wiedzą i systemu Zettelkasten. Evernote czy Trello mogą posłużyć nam jak notatniki, ale brakuje im elastyczności niezbędnej przy budowaniu połączeń między notatkami - koniecznego z kolei do budowania ekspertyzy. Także w moim odczuciu nie są przydatne z punktu widzenia strukturyzowania myśli w sposób inny niż tylko odgórnie narzucony i zdefiniowany na samym początku (np. według daty, według kategorii).</p>
 <p><!-- /wp:paragraph --></p>
-
             ]]>
         </content>
     </entry>
