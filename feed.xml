@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2020-12-09T11:11:34-05:00</updated>
+    <updated>2020-12-10T08:34:34-05:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -209,7 +209,7 @@
             <category term="Podróże"/>
             <category term="Kolumbia"/>
 
-        <updated>2020-12-09T11:08:43-05:00</updated>
+        <updated>2020-12-10T08:34:34-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/34/IMG_20201011_220649_384_opt-1.jpg" alt="" />
@@ -226,13 +226,12 @@
 <p>Ponieważ Jardin leży tylko ok. 3-4 godziny drogi (135km) od Medellin, stało się ono popularnym punktem weekendowych wycieczek dla ludzi z metropolii, choć ja sama nie polecałabym wizyty w weekend (sprawdźcie sekcję 'wskazówki' po szczegóły).</p>
 <p> </p>
 <div class="post__toc">
-<h3>Spis treści</h3>
+<h3>Table of Contents</h3>
 <ul>
 <li><a href="#mcetoc_1ep40tpccds">Co zobaczyć w Jardin?</a>
 <ul>
 <li><a href="#mcetoc_1ep40tpccdt">Architektura kolonialna</a></li>
 <li><a href="#mcetoc_1ep40tpccdu">Plaza El Libertador i Bazylika Niepokalanego Poczęcia</a></li>
-<li><a href="#mcetoc_1ep40tpccdv">‘Tinto, tinto, tintico….’</a></li>
 <li><a href="#mcetoc_1ep40tpcce0">Dulces del Jardin</a></li>
 <li><a href="#mcetoc_1ep40tpcce1">Rezerwat skalikurków andyjskich - Parque Natural Jardín de Rocas</a></li>
 <li><a href="#mcetoc_1ep40tpcce2">La Garrucha - kolejka linowa</a></li>
@@ -244,6 +243,7 @@
 <li><a href="#mcetoc_1ep40tpcce5">Cascada del Amor - Wodospad Miłości</a></li>
 <li><a href="#mcetoc_1ep40tpcce6">La Escalera</a></li>
 <li><a href="#mcetoc_1ep40tpcce7">Cueva Del Esplendor</a></li>
+<li> </li>
 <li><a href="#mcetoc_1ep40tpcce8">Zjedz pstrąga w La Argelia</a></li>
 </ul>
 </li>
@@ -289,6 +289,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:spacer {"height":20} --></p>
 <div class="wp-block-spacer" style="height: 20px;" aria-hidden="true"><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.26562em + 0.1582 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">‘</span><em style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.26562em + 0.1582 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Tinto, tinto, tintico….</em><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.26562em + 0.1582 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">’</span></div>
+<div aria-hidden="true"> </div>
 <div id="kt-info-box_ea69f1-63" class="wp-block-kadence-infobox">
 <div class="kt-infobox-textcontent">
 <p class="kt-blocks-info-box-text msg msg--highlight  msg--success">Tinto to typowy dla Kolumbii sposób przygotowania kawy, <strong>poprzez gotowanie zmielonych ziaren kawy </strong>(nie tylko samo zalanie ich wrzątkiem). Do robienia tinto nie używa się najwyższej jakości kawy, a raczej takiej do codziennego użytku.<br>Popularne jest również tzw. <strong>tinto campesino</strong> - czyli tinto dodatkowo aromatyzowane cynamonem, goździkami i słodzone panelą. Pycha!</p>
@@ -339,7 +340,9 @@
 <p><!-- wp:paragraph --></p>
 <p>Przejażdżka kolejką jest bardzo hałaśliwa i trwa tylko około 2-3 minuty, ale możemy tym sposobem zaoszczędzić sporo wspinania się. Przy górnej ‘stacji’ znajduje się restauracja z piękną panoramą miasteczka Jardin.</p>
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Mf_bzxSkOAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</div>
+<div class="wp-block-embed__wrapper align-center">
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Mf_bzxSkOAs" allowfullscreen="allowfullscreen"></iframe></figure>
+</div>
 <figcaption>La Garrucha i inne atrakcje Jardin już na moim kanale!</figcaption>
 </figure>
 <p><!-- /wp:core-embed/youtube --></p>
@@ -401,7 +404,6 @@
 <figure class="wp-block-gallery columns-1 is-cropped">
 <figure><figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/34/IMG_20201011_154203-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-2-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-2-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/34/responsive/IMG_20201011_154203-2-md.jpg 768w"  alt="" width="900" height="506"></figure></figure>
 </figure>
-<h3> </h3>
 <h3 id="mcetoc_1ep40tpcce8">Zjedz pstrąga w La Argelia</h3>
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
