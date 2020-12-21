@@ -3,12 +3,113 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2020-12-19T21:52:49-05:00</updated>
+    <updated>2020-12-21T18:34:40-05:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
     <id>https://nomadbynature.xyz</id>
 
+    <entry>
+        <title>Jak zacząć swój Zettelkasten?</title>
+        <author>
+            <name>Agnieszka</name>
+        </author>
+        <link href="https://nomadbynature.xyz/jak-zaczac-swoj-zettelkasten/"/>
+        <id>https://nomadbynature.xyz/jak-zaczac-swoj-zettelkasten/</id>
+            <category term="Produktywność"/>
+            <category term="Narzędzia"/>
+
+        <updated>2020-12-21T18:34:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nomadbynature.xyz/media/posts/39/image.jpg" alt="" />
+                    Zettekasten to bardzo elastyczny system, elastyczny do tego stopnia, że ci z nas, którzy lubią strukturę i porządek mogą początkowo mieć&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nomadbynature.xyz/media/posts/39/image.jpg" alt="" />
+                <p><span style="font-weight: 400;">Zettekasten to bardzo elastyczny system, elastyczny do tego stopnia, że ci z nas, którzy lubią strukturę i porządek mogą początkowo mieć z nim spore problemy. </span></p>
+<p><span style="font-weight: 400;">Kiedy zaczęłam wypróbowywać tą metodę gromadzenia wiedzy, chciałam aby wszystko zorganizowane było tak, jak robił to sam jej twórca - Niklas Luhmann, zgodnie ze sztuką, poprawnie! Pfff…. Po paru niezbyt udanych próbach, nasunęła mi się jednak myśl, że nie ma jednej jedynej i słusznej drogi w procesie organizacji wiedzy. Nie możemy być za bardzo przywiązani do czyiś odgórnie narzuconych reguł, bo albo zwariujemy, albo porzucimy daną metodę zanim zobaczymy jej potencjał, a najprawdopodobniej i jedno i drugie! O tym dlaczego doszłam do takich wniosków za chwilę.</span></p>
+<p><span style="font-weight: 400;"><strong>Jak zacząć z metodą Zettelkasten? Jak powinna wyglądać twoja pierwsza notatka?</strong> Mam nadzieję, że ten artykuł pomoże ci w odpowiedzi na te nurtujące pytania, ale zapamiętaj:</span></p>
+<blockquote>
+<p><span style="font-weight: 400;">Na początku był chaos.</span></p>
+<p>Jan Parandowski, Mitologia</p>
+</blockquote>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1eq32b6lv2e">Reguły - przestrzegać czy nie?</a></li>
+<li><a href="#mcetoc_1eq32b6lv2f">Monotematyczny Zettelkasten czy ‘zewnętrzny mózg’ - ile ‘pudełek’ potrzebujesz?</a></li>
+<li><a href="#mcetoc_1eq38qr2b48">Jak powinna wyglądać twoja pierwsza notatka?</a></li>
+<li><a href="#mcetoc_1eq3onq1k9j">Kategorie i Tagi</a></li>
+<li><a href="#mcetoc_1eq3onq1k9k">Połączenia</a></li>
+<li><a href="#mcetoc_1eq3p3u1qa4">Proces tworzenia Zettelkasten w telegraficznym skrócie</a></li>
+<li><a href="#mcetoc_1eq3onq1k9l">Podsumowanie</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1eq32b6lv2e">Reguły - przestrzegać czy nie?</h2>
+<p><span style="font-weight: 400;">Zakładam, że jeśli czytasz ten artykuł masz już pojęcie o Zettelkasten, jeśli jednak potrzebujesz przypomnienia, zajrzyj najpierw do mojego <a href="https://nomadbynature.xyz/jak-robic-notatki-jak-ekspert-o-ksiazce-how-to-take-smart-notes/">posta o książce “How to Take Smart Notes”</a>, w którym opisuję podstawy tej metody robienia notatek i gromadzenia wiedzy.</span></p>
+<p><span style="font-weight: 400;">Kiedy pisałam tego posta skrytykowałam trochę autora <a href="https://twitter.com/soenke_ahrens?lang=en" data-ved="2ahUKEwigws6tsN_tAhUCjq0KHX3cDWsQFjABegQIARAC" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://twitter.com/soenke_ahrens%3Flang%3Den&amp;ved=2ahUKEwigws6tsN_tAhUCjq0KHX3cDWsQFjABegQIARAC" rel="3b0c31ae x_url" class="seoquake-params-link"></a></span>Sönke Ahrens'a<span style="font-weight: 400;">, za to, że w książce nie podał nam jasnych wytycznych jak wprowadzić Zettelkasten w życie od strony technicznej, podał tylko ogólne zasady. Jednak po czasie przekonałam się, że to wszystko czego nam potrzeba!</span></p>
+<p><span style="font-weight: 400;">Jak napisałam we wstępie nie powinniśmy być za bardzo przywiązani do czyiś reguł, ale tak naprawdę chodziło mi bardziej o technikalia (rozwiązania techniczne) niż same reguły. Dlaczego doszłam do takiego wniosku? Ponieważ zauważyłam różnice w Zettelkasten Luhmann'a i moim:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Luhmann był ograniczony fizycznym wymiarem swojego systemu, <strong>korzystał z papierowych notatek</strong> - ja korzystam z elektronicznych narzędzi</span></li>
+<li>można powiedzieć, że Zettelkasten Luhmann’a był <strong>monotematyczny</strong> (o "grand theory of society") - mój to wszystkie informacje w jednym worku, od modeli myślowych przez cyfrowy nomadyzm, porady ogrodnicze do notatek o historii Chin</li>
+</ul>
+<p><span style="font-weight: 400;">O ile uważam, że możemy dowolnie zmieniać i dostosowywać rozwiązania techniczne to powinniśmy przestrzegać ogólnych założeń tej metody, po to aby przyniosła nam maksymalne, synergiczne korzyści.</span></p>
+<p><strong>Podsumowując: reguły Zettelkasten - tak, technikalia - niekoniecznie. <span style="font-weight: 400;">Choć mała pomoc przy technikaliach zawsze się przyda, także:</span></strong></p>
+<h2 id="mcetoc_1eq32b6lv2f"><span style="font-weight: 400;">Monotematyczny Zettelkasten czy ‘zewnętrzny mózg’ - ile ‘pudełek’ potrzebujesz?</span></h2>
+<p><span style="font-weight: 400;">Oczywiście odpowiedź na to pytanie będzie zależała od ciebie. Czy budujesz Zettelkasten na swoje własne długofalowe potrzeby, czy na potrzeby konkretnego projektu? Czy chcesz aby był kompendium wiedzy na wiele tematów, czy np. tylko na temat twojego hobby?</span></p>
+<p><span style="font-weight: 400;">We wszystkich wypadkach same właściwości systemu Zettelkasten będą jednakowe, ale poszczególne ‘pudełka’ <strong>różnić będą się przeznaczeniem</strong>. Także pod względem przeznaczenia możemy wydzielić:</span></p>
+<p><strong>1. Zettelkasten do projektu/monotematyczny</strong></p>
+<p>Jak sama nazwa wskazuje jest to Zettelkasten budowany w celach konkretnego, pojedynczego projektu. Co znaczy, że <strong>będzie ekskluzywny w swojej naturze</strong>. Jeśli dana notatka nie ma nic wspólnego z naszym projektem, nie przybliża nas do osiągnięcia naszego celu (zakończenia projektu), to jej nie wprowadzamy. </p>
+<p><span style="font-weight: 400;">Wydaje mi się, że tego rodzaju Zettelkasten może przydać nam się kiedy piszemy pracę magisterską czy książkę. Do projektów, które mają ograniczenia względem poruszanych kwestii oraz czasu który na nie poświęcamy (terminy).</span> </p>
+<p><span style="font-weight: 400;">Chciałabym również zaznaczyć, abyście nie traktowali takiego typu monotematycznego Zettelkasten jako swojego rodzaju kategorii. Choć może tak to wyglądać, podział nie jest tutaj tematyczny, a pod względem przeznaczenia. Zdecydowanie nie polecałabym posiadania 5 osobnych Zettelkasten-ów do 5 różnych tematów którymi się interesujecie.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://nomadbynature.xyz/media/posts/39/sherlock_holms.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/39/responsive/sherlock_holms-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/39/responsive/sherlock_holms-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/39/responsive/sherlock_holms-md.jpg 768w"  alt="" width="236" height="241">
+<figcaption >Partner do rozmowy - Sherlock Holmes &amp; John Watson</figcaption>
+</figure>
+<p><strong>2. Zettelkasten ‘partner do rozmowy’/’zewnętrzny mózg’ na całe życie</strong></p>
+<p><span style="font-weight: 400;">To system potencjalnie na całe życie, w którym znaleźć się mogą notatki z różnych dziedzin. To tak jakby wszystkie twoje projekty, te określone i te jeszcze nieokreślone, żyły w jednym miejscu. Taki Zettelkasten zmienia się wraz z nami i naszymi działaniami, a do tego pomaga w wyszukiwaniu nieoczywistych połączeń między odmiennymi dziedzinami i obszarami naszych zainteresowań.</span></p>
+<p><span style="font-weight: 400;">Ja sama buduję dla siebie właśnie tego typu Zettelkasten. Mój system nie ma jednego konkretnego celu. I choć nie jest doskonały sprawdza się jako moja osobista baza wiedzy, generator pomysłów i pomocnik przy pisaniu.</span></p>
+<p><span style="font-weight: 400;"><strong>Podsumowując:</strong> o ile ‘pudełek’ do projektów możemy mieć kilka, to myślę, że każdemu wystarczy jeden ‘zewnętrzny mózg’.</span></p>
+<h2 id="mcetoc_1eq38qr2b48"><span style="font-weight: 400;">Jak powinna wyglądać twoja pierwsza notatka?</span></h2>
+<p><span style="font-weight: 400;">Treść twojej pierwszej notatki nie jest istotna. Nie jest ważne jaki temat poruszysz i czy będzie to wstęp, przypadkowa myśl podsumowująca jakieś zagadnienie, czy też coś pomiędzy. <strong>Znaczenie natomiast będzie miała struktura twojej pierwszej notatki</strong> i wszystkich notatek, które przyjdą po niej.</span></p>
+<p><span style="font-weight: 400;">Chodzi o to, aby <strong>części składowe każdej notatki były jednakowe</strong>. Dzięki temu podczas pracy z naszym ‘pudełkiem’ Zettelkasten możemy łatwiej skupić się na treści notatek, a nie na ich wyglądzie. Im prostsze i bardziej przejrzyste formatowanie, tym lepiej.</span></p>
+<p><span style="font-weight: 400;">Struktura moich notatek wygląda tak:</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/39/zettelkasten_struktura_notatki.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/39/responsive/zettelkasten_struktura_notatki-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/39/responsive/zettelkasten_struktura_notatki-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/39/responsive/zettelkasten_struktura_notatki-md.jpg 768w"  alt="notatka w Zettelkasten" width="597" height="766"></figure>
+<p><span style="font-weight: 400;">Może zauważyliście, że moje notatki nie mają identyfikatora. Luhmann stosował alfanumeryczny system, gdzie każda notatka miała swoje indywidualne oznaczenie. Identyfikator pokazywał jak dana notatka wpasowuje się w sekwencję innych notatek i gdzie się fizycznie znajduje.</span></p>
+<p><span style="font-weight: 400;">W moim przypadku uważam tego typu identyfikator za zbędny. Możliwe, że Luhmann zdecydował się na takie rozwiązanie, bo pracował z papierowymi notatkami? Nie wiem, ale gdy przy tworzeniu swojego systemu korzystam z Obsidian nie widzę potrzeby na numery identyfikacyjne. <strong>Każdą notatkę znajdę łatwo dzięki opcji wyszukiwania</strong>. W moim przypadku to tytuł funkcjonuje jako identyfikator (który jednocześnie mówi o treści notatki).</span></p>
+<p><span style="font-weight: 400;">W teorii i według zasad Luhmanna treść poszczególnych notatek powinna być bardzo zwięzła, ma dotyczyć jednej myśli. I z tym mam trochę problem. Mam w swoim systemie notatki, które rzeczywiście są zwięzłe i jednozdaniowe, i rozwijam je w kolejnych notatkach. Ale czasem mam też takie, które są długie lub powinny w teorii trafić do notatek literaturowych, które normalnie trzymam w <a href="https://nomadbynature.xyz/jak-zaczac-z-aplikacja-notion-poradnik-dla-poczatkujacych/">aplikacji Notion</a> (np. cytaty, definicje). Ostatecznie postanowiłam się tym nie przejmować, system ma być przede wszystkim przydatny, a niekoniecznie zgodny ze sztuką.</span></p>
+<h2 id="mcetoc_1eq3onq1k9j"><span style="font-weight: 400;">Kategorie i Tagi</span></h2>
+<p><span style="font-weight: 400;">Piękno Zettelkasten polega między innymi na tym, że nie musisz zastanawiać się nad strukturą systemu, z czasem powstanie ona sama. Kiedy będziesz dodawać kolejne notatki i łączyć je z już istniejącymi, <strong>z chaosu zaczną wyłaniać się ‘zlepki’</strong> (clusters). Te ‘zlepki’ to tematy którymi zajmujesz się najczęściej, tematy na które gromadzisz najwięcej informacji/przemyśleń i z największą liczbą połączeń. </span></p>
+<p><span style="font-weight: 400;"><strong>Dzięki oddolnej organizacji Zettelkasten jest dynamiczny</strong>, rozwija się razem z nami. Gdy w jakimś okresie naszego życia zacznie nas interesować inne niż do tej pory zagadnienie, w Zettelkasten pojawią się nowe zlepki. </span></p>
+<p><span style="font-weight: 400;">Uważam, że odgórnie narzucone kategorie są niepotrzebne, a nawet szkodliwe. Nie planuj żadnych, usztywnisz w ten sposób z natury elastyczny system. Zaufaj, że twój Zettelkasten zorganizuje się sam.</span></p>
+<p><span style="font-weight: 400;"><strong>A co z tagowaniem?</strong> Ja sama używam tagów bardzo oszczędnie. Taguję tylko niektóre notatki i zadaję sobie przy tym pytanie (jak sugeruje Sönke Ahrens): <strong>w jakim kontekście chcę trafić na tą notatkę?</strong> Nie zadaję sobie pytania o czym jest notatka (to mogłoby sugerować kategorię), bardziej przydatne jest dla mnie pytanie o kontekst, w którym chciałbym ją wykorzystać.</span></p>
+<h2 id="mcetoc_1eq3onq1k9k">Połączenia</h2>
+<p><span style="font-weight: 400;">Podstawową zasadą w Zettelkasten, której na pewno musimy się trzymać, jest to, że z każda notatka może być połączona z każdą inną notatką. M.in. w tym celu twórca metody stosował wspomniane wcześniej identyfikatory. To dzięki nim łatwo oznaczał linki między notatkami. </span></p>
+<p><span style="font-weight: 400;">Dziś możliwość tworzenia takich dwukierunkowych linków daje nam wiele programów komputerowych. Tak jak i u Luhmann'a moje podejście określone jest częściowo przez medium, którego używam. A używam aplikacji Obsidian + Notion.</span></p>
+<p><span style="font-weight: 400;">Obsidian daje mi możliwość podglądu na moje notatki i połączenia między nimi w formie grafu. To tak jakby Luhmann wyciągnął i poukładał swoje papierowe notatki na podłodze i połączył je sznureczkami, tyle że dużo wygodniejsze i nie zajmuje tyle miejsca.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://nomadbynature.xyz/media/posts/39/obsidian_aplikacja_zettelkasten.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/39/responsive/obsidian_aplikacja_zettelkasten-xs.png 300w ,https://nomadbynature.xyz/media/posts/39/responsive/obsidian_aplikacja_zettelkasten-sm.png 480w ,https://nomadbynature.xyz/media/posts/39/responsive/obsidian_aplikacja_zettelkasten-md.png 768w"  alt="Obsidian zrzut ekranu" width="838" height="664">
+<figcaption >Fragment grafu z mojego Zettelkasten w aplikacji Obsidian</figcaption>
+</figure>
+<p><span style="font-weight: 400;">W takim podglądzie widoczne są tytuły notatek, gdybym zamiast nich stosowała (tak jak Luhmann) numery identyfikacyjne taki podgląd byłby dla mnie bezużyteczny. Dzięki decyzji o stosowaniu tytułów jako identyfikacji łatwiej wynajdywać mi połączenia między notatkami, przez co mój Zettelkasten jest bardziej wartościowy. </span><span style="font-weight: 400;">Oczywiście połączenia widoczne są również z poziomu notatki, dodatkowo wewnątrz notatki wyjaśniony jest powód takiego połączenia.</span></p>
+<p><span style="font-weight: 400;">Aby tworzyć połączenia między notatkami <strong>musimy myśleć i aktywnie pracować wewnątrz naszego ‘pudełka’.</strong> Zettelkasten bez połączeń to jak nieuporządkowane archiwum, żeby nie powiedzieć notatkowe cmentarzysko.</span></p>
+<h2 id="mcetoc_1eq3p3u1qa4">Proces tworzenia Zettelkasten w telegraficznym skrócie</h2>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Poznaj podstawy metody Zettelkasten</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Zadecyduj jaki Zettelkasten jest ci potrzebny (do projektu/na całe życie)?</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Stwórz nieskomplikowaną i jednolitą strukturę notatki.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wybierz medium do tworzenia Zettelkasten (np. <a href="https://obsidian.md/">Obsidian</a>, <a href="https://www.zettlr.com/">Zettlr</a>, papier)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Zacznij wprowadzać notatki do Zettelkasten.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dodawaj kolejne notatki, wyszukuj i notuj połączenia, myśl i pracuj z twoim nowym ‘partnerem do rozmowy’, generuj pomysły.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dziel się swoją wiedzą i przemyśleniami z innymi.</span></li>
+</ol>
+<h2 id="mcetoc_1eq3onq1k9l">Podsumowanie</h2>
+<p><span style="font-weight: 400;">Na koniec może się okazać, że to co stworzyliśmy to wcale nie Zettelkasten, przynajmniej nie w rozumieniu Luhmann’a. Ale to nic, dopóki nasza wersja będzie przynosiła nam korzyści, to nie musi, nie powinna być lustrzanym odbiciem systemów tworzonych przez inne osoby. </span></p>
+<p><span style="font-weight: 400;">Muszę również dodać, że to co opisałam w dzisiejszym poście ma sens dla mnie, możesz się nie zgodzić z pewnymi wyborami, których dokonałam. Twoje potrzeby są na pewno inne niż moje, więc z czasem korzystania z Zettelkasten na pewno wyrobisz sobie własne opinie na różne elementy techniczne tego systemu. </span><span style="font-weight: 400;">Proszę podziel się swoimi odkryciami, opiniami i doświadczeniami na temat Zettelkasten w komentarzu pod artykułem, lub na stronie <a href="https://www.facebook.com/nomadbynaturepl">Nomadów z Natury (Nomad by Nature)</a> na Facebooku.</span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Atrakcje Kolumbii - jak zagrać w wybuchowe tejo?</title>
         <author>
@@ -1694,246 +1795,6 @@
 </p>
 <div id="buybox-rhk1" class="bb-widget" data-bb-id="9069" data-bb-oid="48199885"> </div>
 <p><!-- /wp:html --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jak pisać po chińsku na komputerze lub telefonie?</title>
-        <author>
-            <name>Agnieszka</name>
-        </author>
-        <link href="https://nomadbynature.xyz/jak-pisac-po-chinsku-na-komputerze-lub-telefonie/"/>
-        <id>https://nomadbynature.xyz/jak-pisac-po-chinsku-na-komputerze-lub-telefonie/</id>
-            <category term="Chiny"/>
-
-        <updated>2020-12-19T21:52:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nomadbynature.xyz/media/posts/27/cherry-lin-ct58n7B6WbI-unsplash_opt-1.jpg" alt="" />
-                     Jak Chińczycy radzą sobie z pisaniem ~50 000 znaków na jednej małej klawiaturze z dwudziestoma siedmioma literami? Przecież nawet&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nomadbynature.xyz/media/posts/27/cherry-lin-ct58n7B6WbI-unsplash_opt-1.jpg" alt="" />
-                <p><!-- wp:paragraph --></p>
-<p>Jak Chińczycy radzą sobie z pisaniem ~50 000 znaków na jednej małej klawiaturze z dwudziestoma siedmioma literami? Przecież nawet nasze polskie litery ą, ę czy ź  wymagają zastosowania skrótów klawiszowych. Więc jak na tej samej klawiaturze poradzić sobie z pisaniem po chińsku? Dobre pytanie. Odpowiedź jest łatwiejsza niż myślisz.</p>
-<div class="post__toc">
-<h3>Spis treści</h3>
-<ul>
-<li><a href="#mcetoc_1ep435vqjre">Co to jest pinyin 拼音(pīnyīn)?</a></li>
-<li><a href="#mcetoc_1ep435vqjrf">Jak pisać po chińsku na Mac OS?</a></li>
-<li><a href="#mcetoc_1ep435vqjrl">Jak wprowadzać chińskie znaki na PC?</a></li>
-<li><a href="#mcetoc_1ep435vqjrq">Jak pisać po chińsku na telefonie?</a></li>
-<li><a href="#mcetoc_1ep435vqjrr">Uwaga!</a></li>
-<li><a href="#mcetoc_1ep435vqjrs">Jak dodać tony do zapisów sylab w pinyin?</a></li>
-</ul>
-</div>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2 id="mcetoc_1ep435vqjre">Co to jest pinyin 拼音(pīnyīn)?</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Aby móc pisać po chińsku na klawiaturze, musimy zacząć od tego, co to jest pinyin (pīnyīn). Otóż <strong>pinyin to zapis wymowy chińskich znaków w alfabecie łacińskim</strong>. Posłużmy się przykładem, widzisz takie znaki:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"align":"center","id":2459,"width":300,"height":300,"sizeSlug":"large"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2459 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/zaba_po_chinsku.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/zaba_po_chinsku-md.png 768w"  alt="" width="300" height="300"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
-<p>Jak je przeczytać? Jak one brzmią? W odpowiedzi na te pytania pomaga nam właśnie pinyin. Wymowa dla tych znaków to: <strong>qīngwā</strong> - po chińsku żaba.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:spacer {"height":40} --></p>
-<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"> </div>
-<p><!-- /wp:spacer --></p>
-<p><!-- wp:image {"align":"center","id":2460,"width":300,"height":300,"sizeSlug":"large"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2460 align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/przyklad_pinyin.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/przyklad_pinyin-md.png 768w"  alt="" width="300" height="300"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
-<p>A co oznaczają kreseczki nad niektórymi literami? Są to <strong>oznaczenia tonów</strong>, ponieważ język chiński jest językiem tonalnym (znaczenie sylaby zmienia się wraz ze zmianą tonu). W przypadku qīngwā widzimy dwie sylaby, każda wymawiana w pierwszym tonie, oznaczanym poziomą kreseczką.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>W języku chińskim (mandaryńskim) wyróżniamy cztery tony oraz brak tonu czasem nazywany tonem numer 5. Oznaczenia dla kolejnych tonów wyglądają tak, np: </p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:list --></p>
-<ul>
-<li>ā á ǎ à</li>
-<li>ē é ě è</li>
-</ul>
-<p><!-- /wp:list --></p>
-<p><!-- wp:paragraph --></p>
-<p>Jak zaznaczać tony z użyciem klawiatury? O tym poniżej.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Możemy wnioskować, że aby pisać na komputerze w znakach chińskich musimy znać ich wymowę, czyli musimy znać pinyin.</strong> Przyjrzyjmy się jednak pisaniu na komputerze od strony technicznej.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2 id="mcetoc_1ep435vqjrf">Jak pisać po chińsku na Mac OS?</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjrg">Krok 1</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Idź do preferencji systemowych.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"align":"center","id":2470,"width":436,"height":470,"sizeSlug":"full"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2470"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/dodawanie_klawiatury_macos.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos-md.jpg 768w"  alt="" width="436" height="470"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjrh">Krok 2</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Wybierz ustawienia klawiatury.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"align":"center","id":2471,"width":585,"height":365,"sizeSlug":"large"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2471"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/dodawanie_klawiatury_macos2-1170x730.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_klawiatury_macos2-1170x730-md.jpg 768w"  alt="" width="585" height="365"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjri">Krok 3</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Wybierz zakładkę 'Input Sources', a następnie naciśnij znak '+' aby dodać nową klawiaturę. Z listy wybierz klawiaturę chińską - Pinyin - uproszczony (simplified), lub jeśli chcesz pisać w tradycyjnych znakach Pinyin - tradycyjny (traditional).</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"align":"center","id":2472,"width":655,"height":528,"sizeSlug":"full"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2472"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/dodawanie_chinskiej_klawiatury.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/dodawanie_chinskiej_klawiatury-md.jpg 768w"  alt="" width="655" height="528"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjrj">Krok 4</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>W prawym górnym rogu ekranu pojawi się ikonka z flagą, po jej naciśnięciu pojawia się lista dostępnych klawiatur, aby pisać po chińsku wybierz odpowiednią klawiaturę, np. Pinyin - Simplified.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"align":"center","id":2473,"width":365,"height":369,"sizeSlug":"full"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2473"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/chinska_klawiatura.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/chinska_klawiatura-md.jpg 768w"  alt="" width="365" height="369"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjrk">Krok 5</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Już możesz pisać. Napisz sylabę i wybierz odpowiedni znak z listy za pomocą cyfry, strzałek lub kursora myszki.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"align":"center","id":2705,"width":537,"height":444,"sizeSlug":"large"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-large is-resized"><figure class="wp-image-2705"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/pisanie-po-chińsku.gif" alt="" width="537" height="444"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading --></p>
-<h2 id="mcetoc_1ep435vqjrl">Jak wprowadzać chińskie znaki na PC?</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjrm">Krok 1</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Wejdź w ustawienia systemu Windows, a następnie wybierz opcję 'Czas i język'.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":2714,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2714"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga1-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga1-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga1-md.png 768w"  alt=""></figure></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjrn">Krok 2</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Kliknij w zakładkę 'Język', a następnie pole 'Dodaj preferowany język'.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":2717,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2717"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga2-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga2-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga2-md.png 768w"  alt=""></figure></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjro">Krok 3</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Z listy dostępnych języków, wybierz chiński, uproszczony, bądź tradycyjny - według preferencji i potrzeb.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"id":2718,"sizeSlug":"large"} --></p>
-<figure class="wp-block-image size-large"><figure class="wp-image-2718"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga3-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga3-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga3-md.png 768w"  alt=""></figure></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3 id="mcetoc_1ep435vqjrp">Krok 4</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>W pasku startu pokaże się opcja wyboru języka, wybierz preferowany język, aby zacząć pisać. Gotowe!</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:image {"align":"center","id":2719,"sizeSlug":"large"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-large"><figure class="wp-image-2719"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/aga4.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/aga4-xs.png 300w ,https://nomadbynature.xyz/media/posts/27/responsive/aga4-sm.png 480w ,https://nomadbynature.xyz/media/posts/27/responsive/aga4-md.png 768w"  alt=""></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:heading --></p>
-<h2 id="mcetoc_1ep435vqjrq">Jak pisać po chińsku na telefonie?</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Jeśli chodzi o wprowadzanie znaków chińskich na telefonie, to wygląda podobnie jak na komputerze. Trzeba dodać odpowiednią, chińską klawiaturę i wtedy będziemy mieli możliwość pisania za pomocą pinyin.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:spacer {"height":50} --></p>
-<div id="kt-info-box_f08f49-88" class="wp-block-kadence-infobox">
-<div class="kt-infobox-textcontent">
-<h2 id="mcetoc_1ep435vqjrr" class="kt-blocks-info-box-title">Uwaga!</h2>
-<p class="kt-blocks-info-box-text"><strong>A co jeśli nie znamy wymowy danego znaku</strong>, nie wiemy jak go przeczytać (nie znamy pinyin)? Jak wtedy napisać go na klawiaturze, żeby np. sprawdzić jego znaczenie. Obecnie większość (może nawet wszystkie) smartfony oferują ręczne wprowadzanie znaków. Czyli mamy możliwość napisania palcem znaku na ekranie telefonu, w ten sposób nie musimy znać jego wymowy, a mimo to możemy go napisać.</p>
-</div>
-</div>
-<p><!-- /wp:spacer --></p>
-<p><!-- wp:image {"align":"center","id":2700,"width":311,"height":675,"sizeSlug":"full"} --></p>
-<div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><figure class="wp-image-2700"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/27/WechatIMG463.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-xs.jpeg 300w ,https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-sm.jpeg 480w ,https://nomadbynature.xyz/media/posts/27/responsive/WechatIMG463-md.jpeg 768w"  alt="" width="311" height="675"></figure></figure>
-</div>
-<p><!-- /wp:image --></p>
-<p><!-- wp:paragraph --></p>
-<p>W tym celu należy wybrać odpowiednią metodę wprowadzania, w ramach chińskiej klawiatury. Na każdym urządzeniu może wyglądać to trochę inaczej.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Wiele starszych osób w Chinach nie zna pinyin, to oni najczęściej korzystają właśnie z takiego ręcznego sposobu pisania znaków na telefonie.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Słownik Pleco, o którym przeczytacie w moim wpisie <a href="https://nomadbynature.xyz/podroz-po-chinach-8-aplikacji-ktore-ulatwia-ci-zycie/">o przydatnych podczas podróży po Chinach aplikacjach</a>, oferuje odpłatny dodatek, który skanuje znaki i automatycznie zamienia je na tekst.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading --></p>
-<h2 id="mcetoc_1ep435vqjrs">Jak dodać tony do zapisów sylab w pinyin?</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>Czasem napotkacie się z sytuacją, kiedy nie chcecie napisać słowa bądź zwrotu etc. w znakach chińskich, a chcecie jedynie pokazać wymowę z zaznaczonymi prawidłowymi tonami. Można to zrobić na dwa sposoby:</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:list --></p>
-<ul>
-<li>sposób ‘domowy’ jeśli nie macie możliwości użyć odpowiedniej klawiatury umożliwiającej wprowadzanie oznaczeń tonów, <strong>wystarczy dodać numer tonu na końcu sylaby</strong>, np. <mark class="kt-highlight">ni3hao3</mark> (cześć); <mark class="kt-highlight">qing1wa1</mark> (żaba);<mark class="kt-highlight"> tu3dou4</mark> (ziemniak)</li>
-<li>sposób drugi, przy użyciu klawiatury, daje nam ładne oznaczenia tonów nad samogłoskami
-<ul>
-<li><strong>na Mac OS:</strong>
-<ul>
-<li>dodaj klawiaturę o nazwie "ABC - Extended"</li>
-<li>wybierz tą klawiaturę, aby pisać za jej pomocą</li>
-<li>dodaj oznaczenia tonów w następujący sposób
-<ul>
-<li>ton pierwszy: ⌥ (option) + a</li>
-<li>ton drugi: ⌥ (option) + e</li>
-<li>ton trzeci: ⌥ (option) + v</li>
-<li>ton czwarty: ⌥ (option) + ~</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><strong>na PC (Windows):</strong>
-<ul>
-<li>aby dodawać oznaczenia tonów w pinyin na Windows trzeba zainstalować klawiaturę do języka japońskiego (tak, japońskiego, nie ma tu pomyłki!), a następnie klawiaturę PinyinTones</li>
-<li>wybierz klawiaturę japońską i Pinyin Tones, aby zacząć pisać</li>
-<li>napisz sylabę i wciśnij cyfrę 1, 2, 3 lub 4 a potem spację, aby dodać odpowiedni ton, np. hao + 3 spacja ---&gt; hǎo</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p>Powodzenia w pisaniu! Wkrótce na blogu podzielę się z wami narzędziami i poradami, z których sama korzystam przy nauce znaków oraz chińskiego.</p>
-<p><!-- /wp:list --></p>
             ]]>
         </content>
     </entry>
