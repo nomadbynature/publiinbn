@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2021-01-10T10:07:04-05:00</updated>
+    <updated>2021-01-10T10:43:20-05:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -701,7 +701,7 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2021-01-08T13:19:22-05:00</updated>
+        <updated>2021-01-10T10:43:20-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/35/Copy-of-Copy-of-Untitled-Design-1.jpg" alt="" />
@@ -778,23 +778,15 @@
 </tbody>
 </table>
 <h2 id="darmowa-strona-internetowa-w-notion">Darmowa strona internetowa w Notion</h2>
-<ol>
-<li>
-<p>Załóż <a href="https://www.notion.so/?r=59fa9791e9a24baba2e1d5b9a88bd778">darmowe konto w Notion</a>. Jeśli masz już konto, świetnie, jeśli nie, to podstawy aplikacji Notion poznasz w moim poście o tym <a href="https://nomadbynature.xyz/jak-zaczac-z-aplikacja-notion-poradnik-dla-poczatkujacych/">jak zacząć korzystać z tej aplikacji</a>.</p>
-</li>
-<li>
-<figure class="align-center">Stwórz nową stronę klikając na znak "+ New Page" w lewym dolnym rogu aplikacji.<br> <br><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461293882.jpg" data-is-external-image="true"  alt=""></figure><br> <br>Następnie nadaj swojej stronie tytuł i wybierz opcję 'Empty with Icon':<br> <br><figure class="align-center"><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461350648.jpg" data-is-external-image="true"  alt=""></figure><br> </p>
-</li>
-<li>
-<figure class="align-center">Wypełnij stronę treściami, które chcesz pokazać (tekst, fotografie, video).<br> <br><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461330635.jpg" data-is-external-image="true"  alt=""></figure><br> </p>
-</li>
-<li>
-<figure class="align-center">Kiedy strona jest gotowa i chcesz ją opublikować, tak aby była widoczna dla wszystkich w sieci, wybierz odpowiednie ustawienia w prawym górnym rogu strony, pod hasłem 'Share':<br> <br><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461390869.jpg" data-is-external-image="true"  alt=""></figure><br> <br>Jeśli nie chcesz, aby strona była widoczna w wynikach wyszukiwania przeglądarek, a jedynie dla osób posiadających do niej bezpośredni link, nie zaznaczaj opcji 'Search engine indexing'.</p>
-</li>
-<li>
-<p>Gratuluję, twoja strona jest live i każdy może ją zobaczyć! Problemem może się jednak okazać za długi i “brzydki” link. Spokojnie, możemy sobie z tym poradzić.</p>
-</li>
-</ol>
+<p>1. Załóż <a href="https://www.notion.so/?r=59fa9791e9a24baba2e1d5b9a88bd778">darmowe konto w Notion</a>. Jeśli masz już konto, świetnie, jeśli nie, to podstawy aplikacji Notion poznasz w moim poście o tym <a href="https://nomadbynature.xyz/jak-zaczac-z-aplikacja-notion-poradnik-dla-poczatkujacych/">jak zacząć korzystać z tej aplikacji</a>.</p>
+<figure class="align-center">2. Stwórz nową stronę klikając na znak "+ New Page" w lewym dolnym rogu aplikacji.<br> <br><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461293882.jpg" data-is-external-image="true"  alt=""></figure><br> <br>Następnie nadaj swojej stronie tytuł i wybierz opcję 'Empty with Icon':<br> <br><figure class="align-center"><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461350648.jpg" data-is-external-image="true"  alt=""></figure><br> </p>
+<p> </p>
+<figure class="align-center">3. Wypełnij stronę treściami, które chcesz pokazać (tekst, fotografie, video).<br> <br><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461330635.jpg" data-is-external-image="true"  alt=""></figure><br> </p>
+<p> </p>
+<figure class="align-center">4. Kiedy strona jest gotowa i chcesz ją opublikować, tak aby była widoczna dla wszystkich w sieci, wybierz odpowiednie ustawienia w prawym górnym rogu strony, pod hasłem 'Share':<br> <br><img loading="lazy"  src="file:///Users/agnes/Documents/Gridea/post-images/1605461390869.jpg" data-is-external-image="true"  alt=""></figure><br> <br>Jeśli nie chcesz, aby strona była widoczna w wynikach wyszukiwania przeglądarek, a jedynie dla osób posiadających do niej bezpośredni link, nie zaznaczaj opcji 'Search engine indexing'.</p>
+<p> </p>
+<p>5. Gratuluję, twoja strona jest live i każdy może ją zobaczyć! Problemem może się jednak okazać za długi i “brzydki” link. Spokojnie, możemy sobie z tym poradzić.</p>
+<p> </p>
 <h2 id="strona-w-notion-pod-własnym-adresem-internetowym">Strona w Notion pod własnym adresem internetowym</h2>
 <p>Bez osobistej domeny, adres twojej nowej strony internetowej w Notion będzie wyglądał mniej więcej tak:<br>www.notion.so/moja-nowa-strona-there-a756207547f24cc411876sb447c039ea16559a</p>
 <p>A wolelibyśmy, aby wyglądał schludnie, np. tak:<br>www.jankowalski.com<br>www.nomadbynature.xyz</p>
