@@ -3608,3 +3608,19 @@ hr::before,
   margin-top: 0;
   padding-top: 0;
 }
+/*my editions*/
+#revue-embed{
+  background: #f5f6f7;
+  padding: 30px;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.revue-form-field {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.revue-form-actions {
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
