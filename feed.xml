@@ -3,12 +3,90 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2021-03-22T19:16:20-06:00</updated>
+    <updated>2021-04-07T18:46:43-05:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
     <id>https://nomadbynature.xyz</id>
 
+    <entry>
+        <title>Aplikacja Obsidian - podstawowe ustawienia i skróty dla wydalniejszej pracy</title>
+        <author>
+            <name>Agnieszka</name>
+        </author>
+        <link href="https://nomadbynature.xyz/aplikacja-obsidian-podstawowe-ustawienia-i-skroty-dla-wydalniejszej-pracy/"/>
+        <id>https://nomadbynature.xyz/aplikacja-obsidian-podstawowe-ustawienia-i-skroty-dla-wydalniejszej-pracy/</id>
+            <category term="Produktywność"/>
+            <category term="Narzędzia"/>
+
+        <updated>2021-04-07T18:46:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nomadbynature.xyz/media/posts/48/aplikacja_obsidian_jak_uzywac.jpg" alt="" />
+                    Nie muszę wam chyba mówić o ctrl+c, ctrl+v, te skróty znają wszyscy i wiemy jak usprawniają naszą pracę z komputerem,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nomadbynature.xyz/media/posts/48/aplikacja_obsidian_jak_uzywac.jpg" alt="" />
+                <p>Nie muszę wam chyba mówić o ctrl+c, ctrl+v, te skróty znają wszyscy i wiemy jak usprawniają naszą pracę z komputerem, wieloma dokumentami czy zakładkami na raz. Skróty klawiszowe (klawiaturowe) to prosty, ale skuteczny sposób na zwiększoną efektywność. Są nieocenione!</p>
+<p>A co jeśli poznamy jeszcze parę i dzięki temu wyniesiemy naszą pracę na wyższy poziom wtajemniczenia? Nasze zadania staną się jeszcze wygodniejsze i szybciej załatwimy potrzebne sprawy - o to przecież chodzi. <br><br>We wcześniejszym poście w miniserii o Obsidian.md dowiedzieliście się jak <a href="https://nomadbynature.xyz/aplikacja-obsidian-szybsze-tworzenie-notatek-z-markdown/">znajomość markdown pomoże wam w bardziej efektywnej pracy</a> z notatkami, przyszła kolej na skróty klawiaturowe oraz podstawowe ustawienia w programie Obsidian.</p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1f2nakf4m94">Jak zmienić ustawienia w Obsidian.md?</a></li>
+<li><a href="#mcetoc_1f2nakf4m95">Łatwiejsza praca w Obsidian - skróty klawiaturowe</a></li>
+<li><a href="#mcetoc_1f2nakf4m96">Podsumowanie</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1f2nakf4m94">Jak zmienić ustawienia w Obsidian.md?</h2>
+<p>Ustawienia w różnych programach to dla mnie często dziura bez dna... Co bardziej skomplikowane maj ich tyle, że łatwo się pogubić. Wydaje mi się, że przez to (i poczucie, że możemy coś niechcący zepsuć) często w ogóle nie podejmujemy się zmian w ustawieniach programu. Ale jeśli ma nam to pomóc to czemu nie?! Obsidian nam niestraszny.<br><br>Aby dostać się do ustawień programu kliknij na ikonkę zębatki w lewym dolnym rogu okna programu, tak jak na zdjęciu:</p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/48/ustawienia_obsidian.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/48/responsive/ustawienia_obsidian-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/48/responsive/ustawienia_obsidian-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/48/responsive/ustawienia_obsidian-md.jpg 768w"  alt="" width="800" height="639"></figure>
+<p>W okienku ustawień możemy przełączać widok między zakładkami, a w zakładkach zmieniać kolejne ustawienia. Poniżej podaję wam tylko parę podstawowych ustawień, które warto zmienić na sam początek, resztę dostosujecie samodzielnie w miarę poznawania programu:</p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/48/ustawienia_aplikacja_obsidian.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/48/responsive/ustawienia_aplikacja_obsidian-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/48/responsive/ustawienia_aplikacja_obsidian-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/48/responsive/ustawienia_aplikacja_obsidian-md.jpg 768w"  alt="" width="800" height="550"></figure><br><br>1. Zakładka Edytor:</p>
+<ul>
+<li>jeśli piszesz w języku angielskim koniecznie włącz sprawdzanie pisowni (na ten moment sprawdzanie pisowni dostępne jest tylko dla j.angielskiego)</li>
+<li>upewnij się czy automatyczne parowanie (zamykanie) nawiasów jest włączone</li>
+</ul>
+<p>2. Zakładka Pliki i linki:</p>
+<ul>
+<li>zdecyduj dokąd mają trafiać usuwane pliki (u mnie trafiaj do systemowego kosza)</li>
+<li>włącz opcję 'zawsze aktualizuj pliki', przydaje się , gdy mamy już dużo połączonych ze sobą notatek, a zmieniliśmy nazwę notatki - wtedy zostanie automatycznie zmieniona wszędzie gdzie pojawił się do niej link</li>
+</ul>
+<p>3. Zakładka Wygląd:</p>
+<ul>
+<li>zdecyduj pomiędzy trybem jasnym/ciemnym (light/dark), oczywiście według własnego uznania, ja pracuję głównie w trybie dark, ale to kwestia preferencji</li>
+</ul>
+<p>Wygląd Obsidian i zakładki o wtyczkach omówimy bardziej szczegółowo w kolejnym poście w miniserii, bo jest o czym mówić!</p>
+<p>Nie bójcie się eksperymentować z pozostałymi ustawieniami, raczej niczego nie popsujecie ;)</p>
+<h2 id="mcetoc_1f2nakf4m95">Łatwiejsza praca w Obsidian - skróty klawiaturowe</h2>
+<p>Aplikacja Obsidian stawia na sprawny workflow, bez zbędnych rozproszeń, dlatego oferuje kilka bardzo przydatnych skrótów klawiaturowych:<br><br>UWAGA! Skróty podawane są dla systemu MacOS, <strong>w przypadku Windows należy zastąpić cmd przyciskiem ctrl, a opt przyciskiem alt</strong>.</p>
+<ul>
+<li>otwieranie linku w trybie edycji - cmd + kliknij na link, to polecenie tyczy się zarówno linków wewnętrznych jak i zewnętrznych (otwieranych w przeglądarce)</li>
+<li>otwieranie linku wewnętrznego (połączenia typu [[]]) w nowym okienku - cmd + shift + kliknij na link</li>
+<li>błyskawiczna zmiana między trybem edycji i podglądu - cmd + e</li>
+<li>szybko przeskakuj między notatkami - cmd + o</li>
+<li>cofnięcie się do poprzednio wyświetlanej notatki (coś jak cofnięcie się w przeglądarce internetowej) - opt + cmd + strzałka w lewo</li>
+<li>przejście w przód (podobnie jak w przeglądarce internetowej) - opt + cmd + strzałka w prawo</li>
+<li>nowa notatka - cmd + n</li>
+<li>otwórz notatkę z listy notatek w nowym oknie (część ekranu) - cmd + kliknij na notatkę w kolumnie po lewej</li>
+</ul>
+<p>Oczywiście podstawowe skróty klawiaturowe znane wam z innych programów np. kopjuj, wklej czy cofnij (cmd + z) będą działać i w Obsidian. W tym miejscu chciałam dodać (za <a href="https://blog.ayjay.org/about/">Alan'em Jacobs'em</a>), małą ciekawostkę i powiedzieć, że już w Renesansie wielu autorów i skrybów stosowało metodę kopiuj-wklej, tyle że dosłownie! <br>Wycinali z manuskryptów interesujące ich fragmenty i wklejali do swoich prac. Nie wiem ile książek zostało zniszczonych w ten sposób, ale dobrze, że mamy nieszkodliwą wersję tej metody dzięki komputerom.</p>
+<h2 id="mcetoc_1f2nakf4m96">Podsumowanie</h2>
+<p>Z markdown, spersonalizowanymi ustawieniami i znajomością skrótów klawiszowych jesteście już prawdziwymi mistrzami robienia notatek w Obsidian, przynajmniej od strony technicznej. <strong>Gratuluję!</strong> To dobra baza do dalszego rozwijania umiejętności notowania w systemie Zettelkasten (lub innym).</p>
+<p>Ale czy to koniec? Jeszcze nie. W następnym i ostatnim poście miniserii zobaczycie jak zmienić wygląd Obsidian, aby pracowało się jeszcze przyjemniej. Różowe tło? - no problem ;)</p>
+<form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
+<div id="revue-embed">
+<h2 id="mcetoc_1f1dtotebh1">Zapisz się do newsletter'a</h2>
+<div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
+<div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
+<div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+</div>
+</form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aplikacja Obsidian - szybsze tworzenie notatek z markdown</title>
         <author>
@@ -19,17 +97,17 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2021-03-22T19:14:10-06:00</updated>
+        <updated>2021-04-07T18:46:26-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/47/pisanie-w-markdown_aplikacja_obsidian.jpg" alt="logo aplikacji obsidian i fioletowy tekst &#x27;poznaj obsidian&#x27; na tle laptopa" />
-                    Z poprzednich postów w mini serii na temat notowania i aplikacji Obsidian wiesz już dlaczego i jak tworzyć notatki, ale&hellip;
+                    Z poprzednich postów w miniserii na temat notowania i aplikacji Obsidian wiesz już dlaczego i jak tworzyć notatki, ale to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://nomadbynature.xyz/media/posts/47/pisanie-w-markdown_aplikacja_obsidian.jpg" alt="logo aplikacji obsidian i fioletowy tekst &#x27;poznaj obsidian&#x27; na tle laptopa" />
-                <p>Z poprzednich postów w mini serii na temat notowania i aplikacji Obsidian wiesz już dlaczego i jak tworzyć notatki, ale to nie wszystko. Aby w pełni, albo chociażby pełniej, wykorzystać możliwości programu Obsidian, a tym samym zwiększyć efektywność swojej pracy i notatkowych wysiłków, konieczna nam będzie znajomość podstawowych znaczników markdown. Zaczynamy!</p>
+                <p>Z poprzednich postów w miniserii na temat notowania i aplikacji Obsidian wiesz już dlaczego i jak tworzyć notatki, ale to nie wszystko. Aby w pełni, albo chociażby pełniej, wykorzystać możliwości programu Obsidian, a tym samym zwiększyć efektywność swojej pracy i notatkowych wysiłków, konieczna nam będzie znajomość podstawowych znaczników markdown. Zaczynamy!</p>
 <div class="post__toc">
 <h3>Spis treści</h3>
 <ul>
@@ -97,14 +175,14 @@
 <p> </p>
 <h2 id="mcetoc_1f1e7h5sp16d">Podsumowanie</h2>
 <p>Macie czasem to uczucie, że aplikacja i wasza umiejętność pisania na klawiaturze nie są wystarczająco szybkie, aby uchwycić wasze myśli? Gdy mamy natchnienie, pomysły i słowa przychodzą do nas w zawrotnym tempie! Dlatego ważne jest, aby korzystać z aplikacji i rozwiązań pozwalających na jak najszybsze i płynne uwiecznienie naszych przemyśleń. Sądzę, że minimalny interface aplikacji Obsidian i umiejętność pisania w markdown to duży krok w stronę bardziej efektywnego notowania.</p>
-<p>W następnym poście z serii o notowaniu i aplikacji Obsidian dowiecie się jak zmienić podstawowe ustawienia aplikacji, aby lepiej wam się pracowało. Subskrybujcie, aby go nie przeoczyć.</p>
+<p>W następnym poście z serii o notowaniu i aplikacji Obsidian dowiecie się <a href="https://nomadbynature.xyz/aplikacja-obsidian-podstawowe-ustawienia-i-skroty-dla-wydalniejszej-pracy/">jak zmienić podstawowe ustawienia aplikacji</a>, aby lepiej wam się pracowało. Subskrybujcie, aby go nie przeoczyć.</p>
 <form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
 <div id="revue-embed">
 <h2 id="mcetoc_1f1dtotebh1">Zapisz się do newsletter'a</h2>
 <div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
 <div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
 <div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
-<div class="revue-form-footer">Poprzez subskrybcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
 </div>
 </form>
             ]]>
@@ -120,7 +198,7 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2021-03-22T19:15:43-06:00</updated>
+        <updated>2021-04-07T18:45:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/46/jak_uzywac_aplikacji_obsidian_robienie_notatek.jpg" alt="logo aplikacji obsidian i napis &#x27;poznaj obsidian&#x27; na tle laptopa" />
@@ -201,7 +279,7 @@
 <div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
 <div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
 <div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
-<div class="revue-form-footer">Poprzez subskrybcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
 </div>
 </form>
             ]]>
@@ -217,17 +295,17 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2021-03-22T19:16:20-06:00</updated>
+        <updated>2021-04-07T18:45:17-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/43/aplikacja_obsidian_notatki.jpg" alt="okładka postu z logo aplikacji Obsidian i napisem &#x27;poznaj Obsidian&#x27; oraz laptopem w tle" />
-                    Dzisiejszy artykuł rozpoczyna mini serię na temat robienia notatek i aplikacji Obsidian. Zanim jednak wskoczymy w ferwor funkcji, możliwości i&hellip;
+                    Dzisiejszy artykuł rozpoczyna miniserię na temat robienia notatek i aplikacji Obsidian. Zanim jednak wskoczymy w ferwor funkcji, możliwości i technicznych&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://nomadbynature.xyz/media/posts/43/aplikacja_obsidian_notatki.jpg" alt="okładka postu z logo aplikacji Obsidian i napisem &#x27;poznaj Obsidian&#x27; oraz laptopem w tle" />
-                <p>Dzisiejszy artykuł rozpoczyna mini serię na temat robienia notatek i aplikacji <a href="https://obsidian.md/">Obsidian</a>.<br>Zanim jednak wskoczymy w ferwor funkcji, możliwości i technicznych rozwiązań Obsidian'a, zastanówmy się dlaczego w ogóle robić notatki? <br><br>Choć myślę, że będziecie równie podekscytowani aplikacją Obsidian (jest naprawdę super!) jak ja, to jeśli nie odpowiecie sobie na pytanie 'dlaczego?'/'w jakim celu?' to nic z waszego notowania nie wyjdzie. Przynajmniej nie na dłuższą metę. A przecież temu chcemy zapobiec! Choć fajna apka może pomóc, nawyk notowania sam się nie wyrobi.</p>
+                <p>Dzisiejszy artykuł rozpoczyna miniserię na temat robienia notatek i aplikacji <a href="https://obsidian.md/">Obsidian</a>.<br>Zanim jednak wskoczymy w ferwor funkcji, możliwości i technicznych rozwiązań Obsidian'a, zastanówmy się dlaczego w ogóle robić notatki? <br><br>Choć myślę, że będziecie równie podekscytowani aplikacją Obsidian (jest naprawdę super!) jak ja, to jeśli nie odpowiecie sobie na pytanie 'dlaczego?'/'w jakim celu?' to nic z waszego notowania nie wyjdzie. Przynajmniej nie na dłuższą metę. A przecież temu chcemy zapobiec! Choć fajna apka może pomóc, nawyk notowania sam się nie wyrobi.</p>
 <div class="post__toc">
 <h3>Spis treści</h3>
 <ul>
@@ -267,7 +345,7 @@
 <div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
 <div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
 <div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
-<div class="revue-form-footer">Poprzez subskrybcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
 </div>
 </form>
             ]]>
@@ -625,7 +703,7 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2021-03-08T16:59:59-06:00</updated>
+        <updated>2021-04-07T18:41:17-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/39/image.jpg" alt="" />
@@ -720,7 +798,7 @@
 <div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
 <div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
 <div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
-<div class="revue-form-footer">Poprzez subskrybcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
 </div>
 </form>
             ]]>
@@ -1014,66 +1092,6 @@
 <p><span style="font-weight: 400;">Na zaskakująco nowej stacji autobusowej <strong>w Rio Sucio kupujemy następnie bilet do Salento</strong>. Tylko, że połączenie to jest nowe i nie zawsze funkcjonuje! W takiej sytuacji, należy najpierw dojechać do <strong>Pereiry</strong>, potem wskoczyć do <strong>busa w stronę Armenii</strong>  (jeśli spóźniliśmy się na ostatnie bezpośrednie połączenie do Salento) i wysiąść przy rozwidleniu w stronę Salento (uprzedźcie kierowcę dokąd chcecie dotrzeć). Następnie możemy albo złapać stopa, albo poczekać na przystanku na często kursujące na tej trasie (co pół godziny) busy do Salento. Potem już tylko pieszo z terminalu autobusowego do hotelu ;)</span></p>
 <h3 id="mcetoc_1ep9lovod3o">Dokąd dalej?</h3>
 <p>Można wrócić do Medellin, albo dostać się do Bogoty, można też posiedzieć dłużej w Zona Cafetera i zwiedzić inne miejscowości w regionie jak Armenia czy Filandia. My po tygodniowym pobycie w Salento udaliśmy się na odpoczynek w bambusowej chatce w <a title="https://www.instagram.com/fincaelcolibrifilandia/">Finca El Colibri</a>, a następnie do Manizales, gdzie czekała nas niezła przygoda na 4000 m n.p.m.!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Psychologia pieniędzy - Morgan Housel - naszymi finansami rządzą emocje</title>
-        <author>
-            <name>Agnieszka</name>
-        </author>
-        <link href="https://nomadbynature.xyz/psychologia-pieniedzy-morgan-housel-naszymi-finansami-rzadza-emocje/"/>
-        <id>https://nomadbynature.xyz/psychologia-pieniedzy-morgan-housel-naszymi-finansami-rzadza-emocje/</id>
-            <category term="Biblioteczka Nomady"/>
-
-        <updated>2020-12-17T09:51:39-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nomadbynature.xyz/media/posts/36/thought-catalog-gbQ3EsFSdG8-unsplash_opt-1.jpg" alt="" />
-                    Kiedy podejmujemy decyzje finansowe odsuwamy od siebie emocje. Mówimy, to czas na racjonalność, czas na arkusze, obliczenia, matematykę, chłodne myślenie…&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nomadbynature.xyz/media/posts/36/thought-catalog-gbQ3EsFSdG8-unsplash_opt-1.jpg" alt="" />
-                <p>Kiedy podejmujemy decyzje finansowe odsuwamy od siebie emocje. Mówimy, to czas na racjonalność, czas na arkusze, obliczenia, matematykę, chłodne myślenie…<br>Ale czy jest to dobre i pełne podejście do tematu finansów, w szczególności tych osobistych? I czy takie podejście jest w ogóle możliwe?</p>
-<p>Nie jestem w żadnym razie ekspertem od finansów, ale w celu poprawienia i zadbania o własne chętnie czytam i zapoznaję się z podstawami działania rynków finansowych, ekonomii itp. Książka <a href="https://go.buybox.click/linkclick_4726_137?&amp;url=https%3A%2F%2Fallegro.pl%2Foferta%2Fthe-psychology-of-money-timeless-lessons-on-weal-9661244874"><strong>“The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness”</strong></a> Morgan’a Housel’a jest pod tym względem inna. Nie opowiada o tym jak “się dorobić”, nie podaje jak działają mechanizmy rynkowe, nie tłumaczy jak przewidzieć co wydarzy się na rynku (wszyscy wiedzą, że to niemożliwe, ale wszyscy i tak próbują).</p>
-<p>Mówi o finansach od innej, uważam, że ponadczasowej strony, bo od strony ludzkiej psychologii i zachowań. Psychologia nie zmienia się tak szybko jak zmieniają się ekonomia i historia, dziedziny z których często korzystamy podejmując decyzje finansowe.</p>
-<div class="post__toc">
-<h3>Spis treści</h3>
-<ul>
-<li><a href="#dla-kogo-jest-ta-książka">Dla kogo jest ta książka?</a></li>
-<li><a href="#bogactwo-vs-zamożność-being-rich-vs-being-wealthy">Bogactwo vs. Zamożność (Being Rich vs. Being Wealthy)</a></li>
-<li><a href="#o-książce">O książce</a></li>
-<li><a href="#podsumowanie">Podsumowanie</a></li>
-</ul>
-</div>
-<h2 id="dla-kogo-jest-ta-książka">Dla kogo jest ta książka?</h2>
-<p>Dla osób szukających innego spojrzenia na problem finansów, dla osób zainteresowanych inwestowaniem, zatrudnieniem konsultanta do spraw finansów, dla tych, którzy oszczędzają i dla tych, którzy tego nie robią. Jednym słowem publikacja przyda się każdemu, bo jak mówi sam autor i wielu przed nim: “there are two topics that will affect your life whether you are interested in them or not: money and health”.</p>
-<p><strong>Tłumaczenie</strong>: są dwie rzeczy, które mają wpływ na twoje życie, nawet jeśli się nimi nie interesujesz: pieniądze i zdrowie"</p>
-<h2><figure class="post__image align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/36/psychologia-pieniedzy-okladka.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/36/responsive/psychologia-pieniedzy-okladka-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/36/responsive/psychologia-pieniedzy-okladka-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/36/responsive/psychologia-pieniedzy-okladka-md.jpg 768w"  alt="" width="324" height="499"></figure></h2>
-<h2 id="bogactwo-vs-zamożność-being-rich-vs-being-wealthy">Bogactwo vs. Zamożność (Being Rich vs. Being Wealthy)</h2>
-<p>Chcę już na początku zaznaczyć różnicę między pojęciami, które podkreślane są przez M.Housel'a i przewijają się przez całą książkę.<br>Autor mówi, że różnica między bogactwem a zamożnością to coś więcej niż tylko semantyka, niezrozumienie może prowadzić do wielu błędów w decyzjach o finansach osobistych.</p>
-<ul>
-<li>Bogactwo jest widoczne, to droga torebka, najnowsze Porsche, drogie gadżety.</li>
-<li>Zamożność to pieniądze, które nie zostały jeszcze zamienione na rzeczy, które możesz zobaczyć (gadżety, luksusowe produkty), dlatego zamożności nie widać, przynajmniej nie na pierwszy rzut oka.</li>
-<li>Zamożność to opcje na przyszłość.</li>
-<li>Można być jednocześnie bogatym i zamożnym.</li>
-</ul>
-<p>Co z tego wynika? Sądzę, że musimy się zastanowić nad naszymi priorytetami, nad tym czego chcemy, bycia zamożnym czy bogatym, czy zamożnym i bogatym. <strong>I co ważniejsze, do czego prowadzą nas nasze zachowania i nawyki finansowe (może do nikąd?!)?</strong> Autor słusznie zauważa, że ludzie mówiąc, że chcieliby być milionerami, mają na myśli, że chcieliby móc wydać milion. Tyle, że wydanie miliona to odwrotność bycia milionerem. Proste, ale daje do myślenia.</p>
-<h2 id="o-książce">O książce</h2>
-<p>Czego jeszcze uczy nas książka "The Psychology of Money" (Psychologia pieniędzy)?<br> <br>Bardzo spodobało mi się spostrzeżenie autora, że wiedza o finansach jest nam przekazywana w podobny sposób jak fizyka czy matematyka, ze wzorami, regułami. Jednak ekonomia i finanse mimo, że w dużym stopniu mają do czynienia z liczbami, nie mogą być traktowane jak nauki ścisłe! Gdyby inwestowanie polegało jedynie na rozwiązaniu paru zadań przy użyciu gotowych wzorów matematycznych, pewnie wszyscy bylibyśmy milionerami. W prawdziwym świecie finansów osobistych jest bardziej tak, że każdy ma swoje własne zadanie do rozwiązania, a do tego musi do niego znaleźć własny wzór. Na szczęście jest kilka pomocnych reguł, które poprowadzą nas do pomyślnego rozwiązania.</p>
-<p>Jedną z podstawowych zasad jest <strong>oszczędzanie</strong>. I nie chodzi wcale o oszczędzanie na konkretny cel, na nowe buty, na wypadek choroby, czy na zakup mieszkania. Liczy sią, aby oszczędzać tak po prostu, bez celu, bo na pewno przyniesie nam to korzyści.<br>Mowa też tu po części o <strong>odsetkach składanych (compound interest)</strong>. Mimo, że nie są one intuicyjne, to z czasem potrafią zdziałać cuda!</p>
-<p>Autor nie podpowiada nam w jakie akcje inwestować, jakie fundusze kupić, bo jak podkreśla w wielu miejscach, to w co, jak i ile będziesz inwestować <strong>zależy przede wszystkim od twoich celów inwestycyjnych</strong>, od twojego stylu życia i zarobków.<br>Z tego powodu ważne jest też <strong>niesugerowanie się finansowymi poczynaniami innych</strong>, bo najpewniej mają oni inne cele i grają w inną "grę" niż my. W szczególności szukanie podpowiedzi, wzorowanie się na historii i działaniach osób takich ja Warren Buffett czy Bill Gates nie ma sensu z punktu widzenia przeciętnego zjadacza chleba. Mimo to wiele osób szuka inspiracji do inwestowania w sukcesach takich właśnie ludzi.<br>Taka sama zasada (niesugerowania się), tyczy się nie tylko inwestowania, ale również wydawania pieniędzy. <strong>Nie dajmy się wciągnąć w "keeping up with the Joneses"</strong>, niewiele na tym zyskamy. Pamiętajcie, zamożności nie widać 😉</p>
-<p>Oprócz tego, musimy zdawać sobie sprawę z <strong>roli niewiadomych (szczęścia i pecha)</strong> w naszych finansach. Choć chcielibyśmy mieć nad swoimi pieniędzmi pełną kontrolę, prawda jest taka, że <strong>100% naszych rezultatów nie wynika bezpośrednio z naszych działań</strong>. Przed pechem i złymi decyzjami możemy się zabezpieczyć przez <strong>zwiększenie swoich szans przetrwania</strong>, dywersyfikację, eliminację pojedynczego punktu porażki. Najgorszym rezultatem, którego należy unikać jak ognia, jest stracenie wszystkich szans na dalszą "grę".<br>Jeśli chodzi o szczęście, to nie możemy liczyć na to, że zawsze będzie nam dane. Jeśli powodzenie twojego planu w wysokim stopniu zależy od pomyślności poszczególnych elementów, nie jesteś wystarczająco zabezpieczony przed porażką.</p>
-<p>Czytając książkę nasunęła mi się myśl, że z dobrym inwestowaniem jest jak ze zdrową dietą. Jeśli za bardzo się ograniczymy, nie damy sobie miejsca na drobne przyjemności i nie nastawimy się na <strong>umiarkowane rezultaty rozłożone w czasie</strong>, to nic dobrego z tej diety nie wyjdzie.<br>Ostatecznie nie możemy być ani zbyt konserwatywni, ani zbyt emocjonalni mając do czynienia z pieniędzmi. Zbyt konserwatywne podejście może sprawić, że nie damy rady utrzymać rygorystycznych nawyków; a zbyt emocjonalne, że staniemy się kłębkiem nerwów. <strong>Ważne jest więc znalezienie złotego środka, tak aby osiągnąć swoje cele, a jednocześnie spać spokojnie w nocy.</strong></p>
-<h2 id="podsumowanie">Podsumowanie</h2>
-<p>O ile nie wyniesiecie z tej książki wiedzy na temat instrumentów finansowych, to na pewno poprawicie wasz stosunek do pieniądza. Najlepszą cechą książki "The Psychology of Money" M. Housel'a, jest przystępność przekazywanych w niej informacji. Nie musisz mieć wykształcenia, a tym bardziej wykształcenia ekonomicznego (lub innego związanego z finansami), aby zastosować zasady w niej podane. Drobne przypomnienie, czy też upomnienie o naszym stosunku do pieniędzy przyda się nam wszystkim i może poprowadzi nas do zmiany złych nawyków. A w konsekwencji do zamożności, wolności finansowej i <strong>najważniejszej dywidendy jaką dają nam pieniądze - pełnej kontroli nad własnym czasem</strong>. Polecam lekturę!</p>
-<p> </p>
-<p>
-<script type="text/javascript" src="https://buybox.click/js/bb-widget.min.js" async=""></script>
-</p>
-<div id="buybox-jmps" class="bb-widget" data-bb-id="9069" data-bb-oid="133047935"> </div>
             ]]>
         </content>
     </entry>
