@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2021-04-30T18:12:57-05:00</updated>
+    <updated>2021-04-30T18:22:21-05:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Podróże"/>
             <category term="Meksyk"/>
 
-        <updated>2021-04-30T18:12:57-05:00</updated>
+        <updated>2021-04-30T18:22:21-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/52/lagos_de_montebello_chiapas_meksyk7.jpg" alt="niebieskie jezioro i sosny" />
@@ -107,12 +107,15 @@
 <p>Jak wspomniałam w <a href="https://nomadbynature.xyz/atrakcje-chiapas-lagos-de-colon/">poście o Lagos de Colon</a>, dobrą bazą wypadową do 'wodnych' atrakcji Chiapas jest miasto Comitan de Dominguez (w skrócie Comitan). Aby dostać się do Comitan wystarczy złapać colectivo (minivana) jadące w tamtym kierunku. Colectivo złapiemy w okolicach stacji OCC w San Cristobal. Następnie będąc już w Comitan musimy przesiąść się na kolejne colectivo jadące bezpośrednio do Parku Lagos de Montebello (Tziscao).<br><br>Wiele agencji turystycznych w San Cristobal oferuje <strong>jednodniowe wycieczki</strong> do Lagos de Montebello łączone z wizytą w El Chiflon. Koszt wycieczki to zazwyczaj ok. 350 MXN na osobę. Jeśli macie niewiele czasu taka opcja ma jak najbardziej sens (choć spędzicie sporą część dnia w aucie). Ale jeśli dysponujecie kilkoma dniami i chcecie lepiej poczuć klimat i przyrodę Montebello, lepiej wybrać się w te rejony samodzielnie i na dłużej niż jeden dzień. </p>
 <h2 id="mcetoc_1f4idrjqq34f">Dokąd wybrać się dalej?</h2>
 <p>Kiedy z San Cristobal dojechało się już do Lagos de Montebello, nie warto od razu wracać, lepiej zaplanować kolejne atrakcje! My wybraliśmy się do Las Nubes. Las Nubes to kolejna, jak możecie odgadnąć, związana z wodą atrakcja stanu Chiapas. Do tego oddalona nieco od utartych szlaków i zdecydowanie godna uwagi. </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.42383em + 0.17798 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Zapisz się do newsletter'a</span></p>
+<form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
+<div id="revue-embed">
+<div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
+<div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
+<div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+</div>
+</form>
             ]]>
         </content>
     </entry>
