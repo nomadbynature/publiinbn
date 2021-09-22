@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2021-09-22T14:28:27+02:00</updated>
+    <updated>2021-09-22T14:47:42+02:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://nomadbynature.xyz/zmien-wyglad-aplikacji-obsidian-z-motywami/</id>
             <category term="Narzędzia"/>
 
-        <updated>2021-09-22T14:28:27+02:00</updated>
+        <updated>2021-09-22T14:47:42+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/57/jak-uzywac-aplikacji-obsidian.png" alt="" />
@@ -47,7 +47,7 @@
 <p>W Obsidian z łatwością możemy przełączać się pomiędzy trybem jasnym i ciemnym. <br>Wystarczy, że wejdziemy w <strong>ustawienia</strong>, następnie w <strong>zakładkę wygląd</strong> i w prawym górnym rogu <strong>wybierzemy interesujący nas tryb</strong>. Tak jak na zrzucie ekranu poniżej:</p>
 <figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/57//aplikacja_obsidian_tryb_ciemny.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/57//responsive/aplikacja_obsidian_tryb_ciemny-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/57//responsive/aplikacja_obsidian_tryb_ciemny-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/57//responsive/aplikacja_obsidian_tryb_ciemny-md.jpg 768w"  alt="aplikacja_obsidian_robienie_notatek" width="800" height="437"></figure>
 <h2 id="mcetoc_1fg6mpvtu6i">Motywy</h2>
-<p>Możliwe, że (na zrzucie ekranu powyżej), zauważyliście, że mój Obsidian wygląda inaczej niż wasz. Ma inną czcionkę i/lub kolorystykę. To dlatego, że akurat używam motywu o nazwie Wasp (osa) - z czarnymi i żółtymi elementami.<br><br>Po pierwszym uruchomieniu Obsidian domyślnie załadowany jest podstawowy motyw, ale możemy to zmienić.<br><br>Dzięki motywom możemy spersonalizować wygląd i styl naszej przestrzeni do pracy.<br>Motywy są często tworzone przez indywidualnych użytkowników i entuzjastów programu Obsidian. Mamy do wyboru wiele motywów o różnej kolorystyce. Warto przetestować kilka, aż zdecydujemy się na ten z którym pracuje się nam najwygodniej.<br><br>A jeśli nam się znudzi, nic nie szkodzi, <strong>w każdej chwili możemy zmienić motyw bez uszczerbku dla naszych notatek</strong>.</p>
+<p>Możliwe, że (na zrzucie ekranu powyżej), zauważyliście, że mój Obsidian wygląda inaczej niż wasz. Ma inną czcionkę i/lub kolorystykę. To dlatego, że akurat używam motywu o nazwie Wasp (osa) - z czarnymi i żółtymi elementami.<br><br>Po pierwszym uruchomieniu Obsidian domyślnie załadowany jest podstawowy motyw, ale możemy to zmienić.<br><br>Dzięki motywom możemy spersonalizować wygląd i styl naszej przestrzeni do pracy.<br>Motywy są często tworzone przez indywidualnych użytkowników i entuzjastów programu Obsidian. Mamy do wyboru wiele motywów o różnej kolorystyce. Warto przetestować kilka, aż zdecydujemy się na ten, z którym pracuje się nam najwygodniej.<br><br>A jeśli nam się znudzi, nic nie szkodzi, <strong>w każdej chwili możemy zmienić motyw bez uszczerbku dla naszych notatek</strong>.</p>
 <p class="msg msg--highlight  msg--success"><strong>Drobna uwaga:</strong> Choć nie lubię żółto-kremowego tła, to ostatnio zauważyłam, że przy dłuższej pracy z komputerem, jest ono łagodniejsze dla oczu niż tło białe. Podstawowy motyw Obsidian (w trybie jasnym), i np. motyw Golden Topaz mają właśnie takie żółtawe tło. Wypróbujcie sami czy wam to odpowiada!</p>
 <h3 id="mcetoc_1fg6mpvtu6j">Jak zmienić motyw w aplikacji Obsidian?</h3>
 <p>Aby zmienić motyw wystarczy wejść w <strong>ustawienia programu</strong>, następnie z<strong>akładkę wygląd</strong>, a potem zacząć <strong>przeglądać dostępne motywy</strong>. Tak jak na zdjęciach poniżej:</p>
@@ -66,7 +66,15 @@
 <li><a href="https://nomadbynature.xyz/aplikacja-obsidian-podstawowe-ustawienia-i-skroty-dla-wydalniejszej-pracy/">Aplikacja Obsidian - podstawowe ustawienia i skróty dla wydajniejszej pracy</a></li>
 <li>A jeśli interesuje was system robienia notatek Zettelkasten (do wykorzystania w Obsidian), prześledźcie <a href="https://nomadbynature.xyz/jak-zaczac-swoj-zettelkasten/">Jak zacząć swój Zettelkasten?</a></li>
 </ol>
-<p> </p>
+<form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
+<div id="revue-embed">
+<h2 id="mcetoc_1f1dtotebh1">Zapisz się do newsletter'a</h2>
+<div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
+<div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
+<div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+</div>
+</form>
             ]]>
         </content>
     </entry>
