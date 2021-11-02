@@ -3,12 +3,113 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2021-10-27T21:22:30+02:00</updated>
+    <updated>2021-11-02T16:55:03+01:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
     <id>https://nomadbynature.xyz</id>
 
+    <entry>
+        <title>Darmowa mapa myśli w programie Obsidian</title>
+        <author>
+            <name>Agnieszka</name>
+        </author>
+        <link href="https://nomadbynature.xyz/darmowa-mapa-mysli-w-programie-obsidian/"/>
+        <id>https://nomadbynature.xyz/darmowa-mapa-mysli-w-programie-obsidian/</id>
+            <category term="Narzędzia"/>
+
+        <updated>2021-11-02T16:55:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nomadbynature.xyz/media/posts/59/jess-bailey-q10VITrVYUM-unsplash.jpg" alt="fragment-biurka-z-klawiatura-notesem-i-dlugopisami" />
+                    Mapy myśli są przydatne w przyswajaniu sobie nowych zagadnień i porządkowaniu tych, które już znamy. Podobnie jest z aplikacją Obsidian.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nomadbynature.xyz/media/posts/59/jess-bailey-q10VITrVYUM-unsplash.jpg" alt="fragment-biurka-z-klawiatura-notesem-i-dlugopisami" />
+                <p>Mapy myśli są przydatne w przyswajaniu sobie nowych zagadnień i porządkowaniu tych, które już znamy. Podobnie jest z aplikacją Obsidian.</p>
+<p>Dobrze jest więc użyć tych dwóch narzędzi w tandemie.</p>
+<div class="post__toc">
+<h3>Spis treści</h3>
+<ul>
+<li><a href="#mcetoc_1fjg7ev8a2t">Jak zainstalować wtyczkę do tworzenia map myśli?</a></li>
+<li><a href="#mcetoc_1fjg7ev8a2u">Jak używać wtyczki do mapowania myśli w Obsiadian?</a>
+<ul>
+<li><a href="#mcetoc_1fjghkkdu39">Kilka wskazówek do tworzenia map myśli</a></li>
+<li><a href="#mcetoc_1fjg7ev8a31">Do czego wykorzystać mapy myśli?</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1fjgk06i46o">Inne programy do robienia map myśli</a></li>
+</ul>
+</div>
+<p>Jeśli chcecie najpierw zorientować się <a href="https://nomadbynature.xyz/aplikacja-obsidian-jak-zaczac-uzywac/">co to jest aplikacja Obsidian.md</a><a href="https://nomadbynature.xyz/dlaczego-robic-notatki-o-notowaniu-i-aplikacji-obsidian/"></a>, to zapraszam do mojej miniserii na jej temat. A jeśli już wiecie co to takiego, zapraszam do dalszej lektury. </p>
+<p>W pewnym sensie Obsidian ma wbudowaną funkcję mapy myśli, bo za taką posłużyć może widok grafu. Jednak graf pokazuje tylko (aż!), ogólną strukturę notatek wewnątrz schowka (vault) i połączenia między nimi. Dlatego <strong>najlepiej do tworzenia mapy myśli w aplikacji Obsidian posłuży wtyczka</strong>.</p>
+<h2 id="mcetoc_1fjg7ev8a2t">Jak zainstalować wtyczkę do tworzenia map myśli?</h2>
+<p>Wtyczki w Obsidian instalujemy bardzo prosto. Klikamy na ustawienia (zębatkę) w dolnym, lewym rogu okna aplikacji. Dalej wchodzimy w zakładkę 'Wtyczki stworzone przez społeczność', wyłączamy tryb bezpieczny (jeśli jest włączony) i zaczynamy przeglądanie wtyczek. Poszczególne kroki widoczne są na zrzutach ekranu poniżej:</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/59/gallery/obsidain_wtyczki.png" data-size="800x447"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/59/gallery/obsidain_wtyczki-thumbnail.png" alt="zrzut-z-aplikacji-obsidian-instalacja-wtyczek" width="720" height="402"></a></figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/59/gallery/obsidian_instalacja_wtyczki.png" data-size="800x393"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/59/gallery/obsidian_instalacja_wtyczki-thumbnail.png" alt="zrzut-z-aplikacji-obsidian" width="720" height="354"></a></figure>
+</div></div>
+<p>W okienku wyszukiwania wpiszmy Mind Map - to nazwa wtyczki do map myśli w Obsidian. Zainstalujmy wtyczkę. </p>
+<p>Po instalacji musimy jeszcze <strong>ustawić skrót klawiaturowy</strong>, którym włączać będziemy podgląd notatki w formie mapy myśli. Aby to zrobić, należy wejść w ustawienia programu (zębatka), następnie zakładkę 'Klawisze skrótów', odszukać tam wtyczkę Mind Map i ustawić wybrany przez nas skrót klawiszowy.</p>
+<p>U mnie jest to ⌘ + M, ale możecie wybrać dowolnie.</p>
+<h2 id="mcetoc_1fjg7ev8a2u">Jak używać wtyczki do mapowania myśli w Obsiadian?</h2>
+<p id="mcetoc_1fjg7ev8a2v">Strukturę mapy tworzymy za pomocą struktury nagłówków wewnątrz pliku/notatki. Czyli nagłówek typu h1 będzie pierwszym głównym hasłem naszej mapy, h2 będą mu podrzędne, itd.</p>
+<p>Nagłówki dodajemy używając znaku #, tak jak wspominałam w poście <a href="https://nomadbynature.xyz/aplikacja-obsidian-szybsze-tworzenie-notatek-z-markdown/">Szybsze tworzenie notatek z markdown.</a></p>
+<p>Tworzenie mapy będzie wyglądało tak:</p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/59/mind-map-obsidian-2.gif" alt="mapa-mysli-program-obsidian" width="800" height="696"></figure>
+<p>Aby wyświetlić podgląd naszej mapy myśli należy skorzystać ze skrótu klawiszowego, który wcześniej ustawiliśmy. Pomiędzy nagłówkami spokojnie możemy dodać tekst (nie będzie on pokazany na mapie), więc wtyczka Mind Map świetnie przyda się np. przy pisaniu pracy magisterskiej. </p>
+<h3 id="mcetoc_1fjghkkdu39">Kilka wskazówek odnośnie tworzenia map myśli</h3>
+<p>Kiedy po raz pierwszy zetknęliście się z pojęciem 'mapa myśli'?</p>
+<p>W moim przypadku było to na studiach, przy okazji wykładów na temat fizjologii drzew. Wykładowca zadał nam sporządzenie takiej mapy na zaliczenie. Od razu bardzo mi się ten sposób organizacji myśli spodobał.</p>
+<p>Od tamtego momentu często używam mniej lub bardziej formalnych form map myśli, (właściwie częściej używam concept map niż mind map, ale to już szczegół, ważne żeby były przydatne). <strong>Oto kilka wskazówek, jak zrobić mapę myśli:</strong></p>
+<ol>
+<li>Komputer daje wiele wygody, ale jeśli mapę tworzysz w celu lepszego zapamiętania i przemyślenia tematu, <strong>spróbuj narysować ją ręcznie</strong> z użyciem kolorowych kredek czy mazaków. Jest coś w połączeniu ręka-mózg, że pozwala nam lepiej zapamiętywać pisane odręcznie słowa. A niestety, jak wiemy od naukowców z <a href="https://www.sciencedaily.com/releases/2011/01/110119095458.htm">Uniwersytetu w Stavanger</a> pisanie za pomocą klawiatury nie daje nam tego samego pozytywnego efektu.</li>
+<li>Tworzenie mapy myśli <strong>zaczynamy od głównego hasła</strong>, a od niego radialnie, jak promienie czy gałęzie odchodzą podrzędne hasła i pomysły, od których z kolei odchodzą kolejne podrzędne im myśli. Inaczej wygląda to w przypadku concept map (mapy koncepcyjnej), gdzie struktura jest bardziej dowolna. A połączenia między elementami mogą biec w różnych kierunkach.</li>
+<li>Przy tworzeniu mapy staraj się nie podglądać innych notatek, czy tekstu nad którym pracujesz. Użyj procesu tworzenia jako <strong>okazji do powtórki materiału</strong>.</li>
+<li>Twórz mapę <strong>samodzielnie</strong>, kopiując pomysły innych niewiele się nauczysz i nie uaktywnisz własnej kreatywności i pamięci.</li>
+<li>Nie bój się, że twoja mapa będzie wyglądała inaczej, niż mapy innych, o to chodzi! Mapa ma służyć przede wszystkim tobie.</li>
+<li>Jeśli po wpisaniu głównego hasła <strong>nie wiesz co dalej, spróbuj zadać pytania</strong>: co? kto? jak? kiedy? gdzie? dlaczego? - to może pomóc ci w uzupełnieniu kolejnych poziomów mapy.</li>
+</ol>
+<h3 id="mcetoc_1fjg7ev8a31">Do czego wykorzystać mapy myśli?</h3>
+<p>Mapy myśli można wykorzystać na przykład:</p>
+<ul>
+<li>jako metodę notowania na wykładach</li>
+<li>przy powtarzaniu materiału na egzamin</li>
+<li>jeśli chcesz objaśnić komuś jakiś proces lub projekt</li>
+<li>przy planowaniu podróży, planowaniu nowego projektu w pracy (np. wybór nowego pracownika, zorganizowanie office party)</li>
+<li>jako ciekawą (i kolorową) alternatywę przy przedstawianiu innym swoich pomysłów</li>
+<li>przy prezentacjach - tutaj mapę myśli możesz użyć dwojako
+<ul>
+<li>dla siebie jako pomocy w wystąpieniu (zamiast tekstu wystąpienia)</li>
+<li>lub jako visual aid dla publiczności</li>
+</ul>
+</li>
+<li>twórcom mapy myśli przydadzą się przy pisaniu, szczególnie dłuższych form tekstowych, czy to książki czy posta na blogu, bo ciężko jest czasem się nie zapętlić w rozdziałach i podrozdziałach</li>
+</ul>
+<h2 id="mcetoc_1fjgk06i46o">Inne programy do robienia map myśli</h2>
+<p>Ponieważ korzystam z aplikacji Obsidian prawie codziennie wtyczka Mind Map jest dla mnie świetnym rozwiązaniem.</p>
+<p>Choć jej funkcje są bardzo podstawowe, mogę ją spokojnie polecić. Oczywiście wraz z całą aplikacją Obsidian, która jest naprawdę świetna a do tego kompletnie darmowa. </p>
+<p>Istnieją jednak alternatywy, niektóre naprawdę rozbudowane. Poniżej podaję parę z nich (większości jednak samodzielnie nie testowałam):</p>
+<p><strong>Aplikacje do map myśli na iPad'a:</strong> GitMind, Mindly, MindNode, SimpleMind, iThoughts, XMind, Mindomo, MindMeister, MindMapper.</p>
+<p><strong>Aplikacje do map myśli na MacOS:</strong> GitMind, Coggle, Mindnode, FreeMind, Xmind, Zenkit, MindMeister, MindManager, SimpleMind, Mydea</p>
+<p><strong>Aplikacje do map myśli na Windows: </strong>Diagrams.net, GitMind, MindManager, Coggle, MindMup, Mindomo, XMind, MindMaster, MindMeister, Freeplane</p>
+<p><strong>Aplikacje do map myśli w przeglądarce (online):</strong> GitMind, Bubbl.us, Coggle, MindMup, Diagrams.net, Mindomo, SmartDraw</p>
+<p>Powodzenia w mapowaniu. Jeśli przydał ci się ten post, proszę zastanów się nad dołączeniem do mojego newsletter'a:</p>
+<p> </p>
+<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.42383em + 0.17798 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Zapisz się do newsletter'a</span></p>
+<form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
+<div id="revue-embed">
+<div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
+<div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
+<div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+</div>
+</form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fiszki z języka chińskiego - szybki system z Pleco</title>
         <author>
@@ -868,126 +969,6 @@
 <p><strong>Źródła:</strong></p>
 <p>Poveda, G. (2004), The hydro‐climatology of Colombia: A synthesis from inter‐decadal to diurnal timescales (in Spanish), Rev. Acad. Colomb. Cienc., 28(107), 201–222.</p>
 <p>Sugden, Andrew M. (1982) The vegetation of the Serrania de Macuira, Guajira, Colombia: A contrast of arid lowlands and an isolated cloud forest</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wycieczka do Palenque, wodospadów Agua Azul i Misol-Ha</title>
-        <author>
-            <name>Agnieszka</name>
-        </author>
-        <link href="https://nomadbynature.xyz/wycieczka-do-palenque-wodospadow-agua-azul-i-misol-ha-atrakcje-meksyku/"/>
-        <id>https://nomadbynature.xyz/wycieczka-do-palenque-wodospadow-agua-azul-i-misol-ha-atrakcje-meksyku/</id>
-            <category term="Podróże"/>
-            <category term="Meksyk"/>
-
-        <updated>2021-04-13T02:39:27+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nomadbynature.xyz/media/posts/49/agua_azul_chiapas.jpeg" alt="" />
-                    Palenque, Palenque...ta nazwa pojawia się często na ustach podróżujących po Meksyku. Wiedziałam jedynie, że zobaczyć można tam ruiny dawnego miasta&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nomadbynature.xyz/media/posts/49/agua_azul_chiapas.jpeg" alt="" />
-                <p>Palenque, Palenque...ta nazwa pojawia się często na ustach podróżujących po Meksyku. Wiedziałam jedynie, że zobaczyć można tam ruiny dawnego miasta Majów i nie bardzo chciałam jechać, bo szczerze mówiąc na ruiny już się napatrzyłam...<br><br>Ostatecznie trafiłam jednak do Palenque i ani trochę nie żałuję, to jedne z najpiękniejszych ruin jakie widziałam! Dodatkowo, przyroda meksykańskiego stanu Chiapas, w którym położone jest to miasto obfituje w przepiękne krajobrazy i wodospady. A to Nomadzi z Natury lubią najbardziej!<br><br>W porównaniu do półwyspu Jukatan, na którym nie ma ani jednej rzeki (oprócz tych podziemnych), Chiapas to istna kraina wody - rzek, kaskad i wodospadów. Co zobaczymy więc w Palenque i okolicach? Jakie atrakcje na nas czekają?</p>
-<div class="post__toc">
-<h3>Spis treści</h3>
-<ul>
-<li><a href="#mcetoc_1f33j8kk16p">Miasto Palenque</a></li>
-<li><a href="#mcetoc_1f33j8kk26q">Ruiny Palenque</a>
-<ul>
-<li><a href="#mcetoc_1f342uame1kr">Jak dostać się do strefy archeologicznej Palenque?</a></li>
-<li><a href="#mcetoc_1f342uame1ks">Zwiedzanie z przewodnikiem czy bez?</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1f33j8kk26r">Wodospad Misol-Ha</a></li>
-<li><a href="#mcetoc_1f33j8kk26s">Kaskady Agua Azul</a></li>
-<li><a href="#mcetoc_1f342uame1kt">Jak dojechać do Misol-Ha i Agua Azul?</a></li>
-<li><a href="#mcetoc_1f342uame1ku">Dojazd do Palenque</a>
-<ul>
-<li><a href="#mcetoc_1f342uame1kv">Dojazd do Palenque z San Cristobal</a></li>
-<li><a href="#mcetoc_1f342uame1l0">Dojazd do Palenque z Jukatanu</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<h2 id="mcetoc_1f33j8kk16p">Miasto Palenque</h2>
-<p>Miasto Palenque, podobnie jak <a href="https://nomadbynature.xyz/zwiedzanie-valladolid-na-jukatanie-pieszo-i-rowerem/">Valladolid na Jukatanie</a>, należy do sieci Pueblos Magicos, czyli magicznych miasteczek Meksyku. Miasteczek o szczególnych wartościach kulturowych, dobrze zachowanej architekturze kolonialnej czy wyjątkowych pod innymi względami.</p>
-<p>Najważniejsze w Palenque są tamtejsze ruiny, a samo, dość <strong>nowoczesne miasto jest raczej tylko bazą wypadową dla pobliskich atrakcji</strong>. Można tutaj przenocować, zjeść w lokalnej restauracji czy zorganizować sobie wycieczkę. </p>
-<p>W mieście jest również stacja popularnego w Meksyku przewoźnika - ADO, z której odjeżdżają autokary do dalej położonych miast (np. do San Cristobal, Campeche...).</p>
-<p class="msg msg--success">Jeśli nocujecie w mieście (a nie w dżungli, bliżej ruin), najlepiej znaleźć nocleg w pobliżu stacji ADO. Minibusy (colectivos) do ruin można złapać właśnie przy drodze głównej bezpośrednio przy terminalu ADO. Dodatkowo, nie musicie daleko nosić bagaży, jeśli dojeżdżacie/odjeżdżacie z tej stacji.</p>
-<h2 id="mcetoc_1f33j8kk26q">Ruiny Palenque</h2>
-<p>Na wpół schowane w dżungli leżą ruiny dawnego miasta Majów - Palenque. To właśnie najbardziej podobało mi się w tych piramidach - że częściowo obrośnięte są roślinnością, pokryte korzeniami. Nadaje im to trochę więcej tajemniczości, a jeśli w pobliżu nie ma zbyt wielu zwiedzających, można poczuć się jak prawdziwy odkrywca. Ma się wrażenie, że w każdej chwili jaguar wyskoczy zza piramidy.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/49/gallery/palenque_obrosniete_ruiny.jpg" data-size="800x450"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/49/gallery/palenque_obrosniete_ruiny-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/49/gallery/palenque_ruiny.jpg" data-size="800x450"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/49/gallery/palenque_ruiny-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/49/gallery/ruiny_majow_chiapas-2.jpg" data-size="800x450"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/49/gallery/ruiny_majow_chiapas-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/49/gallery/ruiny_palenque_meksyk.jpg" data-size="800x450"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/49/gallery/ruiny_palenque_meksyk-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-</div></div>
-<p>Wpisane na Listę Światowego Dziedzictwa Kulturowego UNESCO ruiny Palenque to jedne z największych ruin Majów na terenie Meksyku. A niektórzy archeolodzy twierdzą, że najważniejsze. To dlatego, że liczne wykute w kamieniu inskrypcje tam odnalezione (szczególnie symbole w <strong>Świątynii Inskrypcji</strong>) pozwoliły, jak żadne inne znaleziska, lepiej zrozumieć dawną kulturę Majów i odszyfrować ich pismo. <br>Jeśli chcecie poznać więcej szczegółów na temat odszyfrowywania skryptu Majów, zachęcam was do obejrzenia niezwykle ciekawego dokumentu <a href="https://www.youtube.com/watch?v=oKVnd4pNfog">"Cracking the Maya Code"</a> (w języku angielskim). </p>
-<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/49/swiatynia_inskrypcji_palenque.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/49/responsive/swiatynia_inskrypcji_palenque-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/49/responsive/swiatynia_inskrypcji_palenque-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/49/responsive/swiatynia_inskrypcji_palenque-md.jpg 768w"  alt="" width="800" height="449"></figure><br><br>Miasto Palenque zwane dawniej Lakamha (co oznacza: "Wielka Woda") rozwijało się w latach 226 p.n.e. - 799 n.e. Dziś w Parku Narodowym Palenque w cenie biletu można zwiedzać muzeum (niestety było zamknięte podczas mojej wizyty w 2021r.) oraz strefę archeologiczną z piramidami i innymi zabytkami, np:</p>
-<p>-   Świątynia Hrabiego<br>-   Świątynia Inskrypcji<br>-   ruiny pałacu<br>-   boisko do gry w pelotę<br>-   fragmenty kamiennego akweduktu - jak na "Wielką Wodę" przystało</p>
-<p>Można również przejść się krótkim szlakiem przez dżunglę (wejście na szlak znajduje się przy parkingu do strefy archeologicznej). <strong>Lasy otaczające Palenque są domem dla wielu rzadkich gatunków zwierząt</strong>, np. jaguarów, tapirów, papug, a nawet wyjców (gatunek małp). Nie udało mi się zobaczyć w zasadzie żadnego zwierzaka (nie wliczając komarów), ale słyszałam wycie wyjców. Jest to naprawdę donośny dźwięk, który może nieść się po lesie na odległość nawet ~4.5km. Cieszę się jadnak, że nie spotkałam najbardziej niebezpiecznego węża Ameryki Środkowej (Bothrops asper), który również występuje w tych rejonach.</p>
-<p>W samym mieście Palenque, codziennie odwiedzały nas w hostelu duże gryzonie, zwane <strong>aguti</strong>:</p>
-<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/49/IMG_20210314_135101.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/49/responsive/IMG_20210314_135101-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/49/responsive/IMG_20210314_135101-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/49/responsive/IMG_20210314_135101-md.jpg 768w"  alt="Aguti meksykański" width="800" height="450"></figure><br><br>Oprócz ruin, ciekawych gatunków roślin i zwierząt dżungla kryje wiele kaskad i rzek. Dlatego warto wybrać się na pobliskie szlaki lub urządzić sobie wycieczkę do dalej położonych wodospadów.  </p>
-<h3 id="mcetoc_1f342uame1kr">Jak dostać się do strefy archeologicznej Palenque?</h3>
-<p>Strefa Archeologiczna położona jest ok. 20 minut jazdy od miasta Palenque, aby dostać się do wejścia:</p>
-<ul>
-<li>złap colectivo (minibusa) z napisem 'Ruinas' przy stacji ADO, kursują średnio co 20 min; na miejsce dojechać można również taksówką</li>
-<li>kup bilety wstępu na teren Parku Narodowego</li>
-<li>dojedź lub przespaceruj się (10min) do kasy biletowej strefy archeologicznej, aby kupić kolejny bilet, tutaj możesz również zwiedzić muzeum</li>
-<li>dojedź lub dojdź (kolejne 20min) do wejścia do strefy archeologicznej</li>
-</ul>
-<p>Tak, są 2 osobne bilety, jeden do Parku Narodowego i jeden do muzeum i strefy archeologicznej. <strong>Łączny koszt biletów to ok. 150 peso meksykańskich.</strong></p>
-<p>Podczas pandemii wprowadzone zostały również dodatkowe obostrzenia i limit osób wpuszczanych na teren parku. Przed wejściem należy umyć ręce i przejść kontrolę temperatury, następnie dostaje się bilecik, z którym idzie się do kasy parku i kupuje już właściwe bilety wstępu.</p>
-<h3 id="mcetoc_1f342uame1ks">Zwiedzanie z przewodnikiem czy bez?</h3>
-<p>To pytanie często pojawia się jeśli odwiedzamy nowe miejsce. Do takich miejsc jak Palenque - ważnych kulturowo i historycznie, warto pewnie wybrać się z przewodnikiem, który wyjaśni i pokaże najważniejsze sprawy.</p>
-<p>Jeśli jednak decydujecie się (tak jak ja) zwiedzać samodzielnie, to przed przyjazdem do ruin, wyszukajcie trochę informacji w Internecie. Zwiedzanie będzie wtedy o wiele ciekawsze, bo będziemy mieć pojęcie na co patrzymy. W Palenque przy każdym z budynków są również tablice informacyjne po angielsku, a jeśli to nie wystarczy to przewodnika (w języku angielskim lub hiszpańskim) możemy zatrudnić przy wejściu do strefy archeologicznej. </p>
-<p>Na zwiedzanie przeznaczyłabym jakieś 2-3h.</p>
-<h2 id="mcetoc_1f33j8kk26r">Wodospad Misol-Ha</h2>
-<p>Wierzcie mi, lepiej odwiedzić Misol-Ha przed wizytą w Agua Azul... Choć Misol-Ha jest malowniczym wodospadem nie równa się z przepięknymi kaskadami Błękitnej Wody (Agua Azul). </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/49/gallery/wodospad_miso_ha.jpg" data-size="800x450"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/49/gallery/wodospad_miso_ha-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/49/gallery/misol_ha_chiapas.jpg" data-size="800x450"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/49/gallery/misol_ha_chiapas-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-</div></div>
-<p>Jeśli nie macie za dużo czasu w Palenque i okolicy, ale mimo wszystko chcecie wybrać się nad wodę Misol-Ha będzie dobrym wyborem. Przy wodospadzie znajdziemy potrzebną infrastrukturę, jest parking, jest restauracja, są toalety. <br>Oczywiście w niecce do której wpada wodospad można się kąpać, znajdzie się też trochę miejsca na piknik. Można w ten sposób spędzić miłe pół dnia/cały dzień nad wodą i w otoczeniu przyrody (jeśli możecie unikajcie weekendów).</p>
-<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/49/wodospad_misol_ha_predator.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/49/responsive/wodospad_misol_ha_predator-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/49/responsive/wodospad_misol_ha_predator-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/49/responsive/wodospad_misol_ha_predator-md.jpg 768w"  alt="" width="800" height="1000"></figure>
-<p class="msg msg--highlight  msg--success">Ciekawostką jest, że wodospady Misol-Ha, Agua Azul oraz dżungla w okolicach Palenque posłużyły jako plan do kręcenia filmu <a href="https://www.movie-locations.com/movies/p/Predator.php">Predator (1987r.)</a> z Arnoldem Schwarzenegger'em. Po dziś dzień na stoiskach z pamiątkami można kupić figurki predatora, które muszę przyznać w dziwny sposób pasują do otoczenia.</p>
-<h2 id="mcetoc_1f33j8kk26s">Kaskady Agua Azul</h2>
-<p>Piękno przyrody nie przestaje mnie zachwycać! I choć generalnie uważam, że oglądanie wodospadów potrafi być najbardziej przecenianą atrakcją na wycieczkach i wyjazdach, to Agua Azul bije inne atrakcje na głowę i jest tu co podziwiać.<br><br>Jedyne czego żałowałam to to, że nie zaplanowaliśmy tutaj więcej czasu! Wycieczka, do której dołączyliśmy wraz z mężem okazała się zdecydowanie za krótka. Jeśli wrócimy jeszcze w te strony, to nie omieszkamy zatrzymać się w Agua Azul na noc, albo kilka. Mogę sobie jedynie wyobrazić jak pięknie musi być tam w promieniach porannego słońca, i kiedy większość turystów nie dojechała jeszcze na miejsce!</p>
-<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/49/agua_azul_meksyk.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/49/responsive/agua_azul_meksyk-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/49/responsive/agua_azul_meksyk-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/49/responsive/agua_azul_meksyk-md.jpg 768w"  alt="" width="800" height="450"></figure>
-<p>Błękitny kolor wody w rzece Xanil spowodowany jest przez wysokie stężenie różnych minerałów, np. węglanu sodu i wodorotlenku magnezu. Brzmi to bardzo naukowo, ale efekt jest przepiękny i można się nim cieszyć niezależnie od znajomości chemii.</p>
-<p class="msg msg--success">Kaskady wyglądają najpiękniej w porze suchej (od listopada do maja), kiedy woda jest naprawdę błękitna, bo nie pada. Po ulewnym deszczu niestety zamiast błękitnych, mamy kaskady brązowe...</p>
-<p>Wzdłuż serii kaskad rozlokowane są przebieralnie, stoiska z pamiątkami, restauracje, które nie dodają miejscu uroku, ale można się w nich posilić lub kupić coco loco, czyli szalonego kokosa. <strong>Coco loco</strong> to orzeźwiający drink podawany w świeżym kokosie, w jego skład wchodzi oczywiście woda kokosowa, sok z limonki i alkohol do wyboru (np. tequila).</p>
-<p>Nagranie z wypadu do Agua Azul i Misol-Ha już na <a href="https://www.youtube.com/channel/UCTgQy3yTF5itBn_rnl-2bHQ">kanale Nomadów z Natury</a>:</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/PRJ6cbqAIPk?t=265s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Oczywiście do Agua Azul nie zapomnijcie zabrać ze sobą strojów kąpielowych, najlepiej przespacerować się do górnego biegu rzeki i tam wskoczyć do przyjemnie chłodnej wody.</p>
-<h2 id="mcetoc_1f342uame1kt">Jak dojechać do Misol-Ha i Agua Azul?</h2>
-<p>Do Misol-Ha dojedziemy colectivo z miasta Palenque, własnym samochodem lub w ramach wycieczki zorganizowanej. Do kaskad Agua Azul jest już trochę dalej, ale również można złapać to samo <strong>colectivo jadące w stronę Ocosingo</strong>. Minibusa złapiemy przy skrzyżowaniu ulic Benito Juarez i Pte Sur 5a. Colectivo poruszają się po głównej drodze, więc fragment od drogi do wodospadów Agua Azul (ok. 3km) będziemy musieli przejść już samodzielnie lub zapłacić za taksówkę.</p>
-<p>Pół-dniowa wycieczka zorganizowana wykupiona w mieście Palenque do wodospadów <strong>Misol-Ha + Agua Azul kosztowała 350 peso</strong> meksykańskich (ok.60zł). Uważam, że jest to dobra opcja na odwiedzenie tych dwóch wodospadów, szczególnie jeśli ma się ograniczony czas. Jeśli ma się więcej czasu myślę, że warto zostać w Agua Azul na noc.</p>
-<p>Wodospady możemy zwiedzać również w ramach jednodniowej wycieczki przyjeżdżając <strong>od strony San Cristobal de las Casas</strong>. Sama nie testowałam takiego rozwiązania, ale wydaje mi się dość męczące. Sporą część dnia spędzimy w samochodzie...</p>
-<h2 id="mcetoc_1f342uame1ku">Dojazd do Palenque</h2>
-<h3 id="mcetoc_1f342uame1kv">Dojazd do Palenque z San Cristobal</h3>
-<p>Aby dojechać do Palenque z San Cristobal mamy 2 główne możliwości:</p>
-<ul>
-<li>krótsza trasa przez Ocosingo - mimo, że trasa jest krótsza zajmuje dość dużo czasu (ok.6-7h), bo prowadzi przez trudniejszy, pełen zakrętów teren, a dodatkowo na drodze jest mnóstwo tzw. topes, czyli progów zwalniających. Pojawiają się również doniesienia, że trasa nie jest bezpieczna, lokalsi zatrzymują samochody i czasem rabują pasażerów, przez część trasy minibusy są eskortowane przez meksykańską policję</li>
-<li>dłuższa trasa przez Tuxla i Villahermosa (autokar ADO) - jest to o wiele dłuższa trasa (ok. 9.5h), ale jedzie się głównie autostradami, autokary są wygodne</li>
-</ul>
-<p>Wybór trasy pozostawiam wam, ale wydaje mi się, że nie taki diabeł straszny jak go malują.</p>
-<h3 id="mcetoc_1f342uame1l0">Dojazd do Palenque z Jukatanu</h3>
-<p>Do Palenque dotrzemy bezpośrednio z miast Campeche lub Merida autokarami ADO. Jeśli zatrzymaliście się np. w Tulum, to najpierw dotrzeć musicie do jednego z tych miast, co jest również możliwe przez tego samego przewoźnika.</p>
-<p><strong>Interesują cię podróże i wszystko co związane z cyfrowym nomadyzmem?</strong> Zapisz się do Newsletter'a, aby nie przegapić nowości na blogu.</p>
-<form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
-<div id="revue-embed">
-<h2 id="mcetoc_1f1dtotebh1">Zapisz się do newsletter'a</h2>
-<div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
-<div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
-<div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
-<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
-</div>
-</form>
             ]]>
         </content>
     </entry>
