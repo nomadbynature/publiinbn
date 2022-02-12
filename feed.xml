@@ -3,12 +3,76 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2022-02-11T19:23:10+03:00</updated>
+    <updated>2022-02-12T13:35:05+03:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
     <id>https://nomadbynature.xyz</id>
 
+    <entry>
+        <title>Jak synchronizować notatki Obsidian?</title>
+        <author>
+            <name>Agnieszka</name>
+        </author>
+        <link href="https://nomadbynature.xyz/jak-synchronizowac-notatki-obsidian/"/>
+        <id>https://nomadbynature.xyz/jak-synchronizowac-notatki-obsidian/</id>
+            <category term="Narzędzia"/>
+
+        <updated>2022-02-12T13:35:05+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nomadbynature.xyz/media/posts/71/jak-uzywac-aplikacji-obsidian.png" alt="" />
+                    Czy aplikacja Obsidian daje nam opcję synchronizacji między różnymi urządzeniami, tak aby nasze cenne notatki były dla nas dostępne zawsze&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nomadbynature.xyz/media/posts/71/jak-uzywac-aplikacji-obsidian.png" alt="" />
+                <p>Czy aplikacja Obsidian daje nam opcję synchronizacji między różnymi urządzeniami, tak aby nasze cenne notatki były dla nas dostępne zawsze i wszędzie?</p>
+<p>Narzędzia jak Google Docs, Evernote, Notion czy DropBox przyzwyczaiły nas, że mamy dostęp do naszych plików na różnych urządzeniach i w każdej sytuacji (przynajmniej póki dostępny jest Internet). Ma to pewnie swoje plusy i minusy, ale dziś nie o tym...</p>
+<p>A o tym jak synchronizować między urządzeniami notatki tworzone w Obsidian.</p>
+<h2>Jak synchronizować notatki w Obsidian?</h2>
+<p>Jest kilka sposobów na synchronizację notatek, które tworzymy w Obsidian. Pamiętajmy, że schowek w Obsidian to przecież zwyczajny folder. Możemy więc takim folderem trochę manipulować:</p>
+<ol>
+<li>możemy skorzystać z <a href="https://obsidian.md/pricing">oficjalnej usługi synchronizacji od Obsidian.md</a> (Sync), i mieć dostęp do naszych notatek na telefonie, komputerze i w pracy i w domu... koszt to <strong>8 USD/miesiąc</strong></li>
+<li>możemy również stworzyć folder na dysku Google lub DropBox, a następnie otworzyć ten folder jako nowy schowek (vault) w Obsidian - nie korzystałam z takiej opcji, słyszałam, że działa to dość wolno, ale może ktoś z was chciałby wypróbować?</li>
+<li>trzecia możliwość to synchronizacja notatek przez GitHub i w dzisiejszym poście pokażę wam jak taką synchronizację ustawić</li>
+</ol>
+<h2>Synchronizacja Obsidian z GitHub krok po kroku</h2>
+<p>1. Wejdź na stronę <a href="https://github.com/">github.com</a>, zaloguj się lub utwórz nowe konto (darmowe).</p>
+<p>2. Następnie stwórz 'New Repository' - będzie to folder, w którym przechowywane będą twoje notatki z Obsidian<br>Przy tworzeniu repozytorium nie zapomnij zaznaczyć opcji 'Private', w innym wypadku inni będą mieli dostęp do twoich notatek.</p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/71/new-repo-github.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/71/responsive/new-repo-github-xs.png 300w ,https://nomadbynature.xyz/media/posts/71/responsive/new-repo-github-sm.png 480w ,https://nomadbynature.xyz/media/posts/71/responsive/new-repo-github-md.png 768w"  alt="" width="600" height="606"></figure>
+<p><br>Jeśli, utworzenie konta czy repozytorium sprawiają ci problem skorzystaj z prostego <a href="https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html">poradnika</a> od Rity z Flynerd.</p>
+<p>3. Na swoim komputerze zainstaluj i uruchom klienta Git'a lub podobny program (ja korzystam z <a href="https://desktop.github.com/">Github Desktop</a>).</p>
+<p>4. Następnie w Github Desktop kliknij: add--&gt; clone repository</p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/71/add-clone.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/71/responsive/add-clone-xs.png 300w ,https://nomadbynature.xyz/media/posts/71/responsive/add-clone-sm.png 480w ,https://nomadbynature.xyz/media/posts/71/responsive/add-clone-md.png 768w"  alt="" width="600" height="284"></figure>
+<p>5. Wybierz utworzone wcześniej repozytorium z listy, oraz wybierz dla niego odpowiednią lokalizację na swoim dysku, a następnie kliknij 'clone'.</p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/71/clone-repo.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/71/responsive/clone-repo-xs.png 300w ,https://nomadbynature.xyz/media/posts/71/responsive/clone-repo-sm.png 480w ,https://nomadbynature.xyz/media/posts/71/responsive/clone-repo-md.png 768w"  alt="" width="600" height="592"></figure>
+<p>6. Otwórz Obsidian na swoim komputerze, a następnie otwórz sklonowane repozytorium jako swój nowy schowek.</p>
+<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/71/new-vault.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/71/responsive/new-vault-xs.png 300w ,https://nomadbynature.xyz/media/posts/71/responsive/new-vault-sm.png 480w ,https://nomadbynature.xyz/media/posts/71/responsive/new-vault-md.png 768w"  alt="" width="600" height="624"></figure>
+<p>7. Utwórz nową notatkę na próbę</p>
+<p>8. Wróć do klienta GitHub i dodaj pierwszy commit</p>
+<p>9. Następnie wejdź na swoje konto GitHub i sprawdź czy notatka pojawiła się w repozytorium i czy synchronizacja działa.</p>
+<p>10. Notatka już tam jest? Sukces! Możesz teraz zainstalować klienta GitHub'a i aplikację Obsidian na innych urządzeniach, na których chcesz mieć dostęp do swoich notatek. Na telefonie możesz zainstalować w tym celu np. aplikację GitJournal.</p>
+<p>Możesz również zobaczyć swoje notatki w przeglądarce logując się do swojego konta GitHub i otwierając odpowiednie repozytorium.</p>
+<hr>
+<p>Może zauważyliście, że taka synchronizacja nie jest automatyczna, i wymagane jest manualne wypychanie commit po wprowadzeniu zmian w notatkach, lub dodaniu nowych notatek.</p>
+<p>Jest na to jednak rada! Na ratunek przychodzi niezastąpiona społeczność Obsidian'a! Aby automatycznie wypychnąć zmiany do GitHub'a wystarczy skorzystać z <strong>wtyczki 'Obsidian Git'</strong>. Jak dodać wtyczkę w Obsidain, pokazałam przy okazji tego posta: <a href="https://nomadbynature.xyz/darmowa-mapa-mysli-w-programie-obsidian/">Darmowa mapa myśli w aplikacji Obsidian</a>. </p>
+<p class="msg msg--warning">Ryzyko: Ponieważ istnieje ryzyko konfliktujących ze sobą commit (z różnych urządzeń), <strong>trzymałabym się zasady, aby edytować notatki tylko na jednym urządzeniu, a na pozostałych urządzeniach tylko je przeglądać.</strong> Dodatkowo lepiej ustawić opcję auto-commit (dzięki wtyczce Obsidian Git), bo pamięć bywa zawodna, a nie chcemy utracić zmian wprowadzonych na jednym urządzeniu po tym jak zaczęliśmy już edycję na kolejnym...</p>
+<p>Repozytorium na GitHub można stworzyć nie tylko w celu synchronizacji, ale również jako zabezpieczenie przed utratą notatek. W razie awarii naszego komputera, notatki będą bezpieczne na GitHub.</p>
+<p>Jeśli chcecie otrzymywać powiadomienia o nowych treściach, zapiszcie się do newsletter'a.</p>
+<p> </p>
+<form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
+<div id="revue-embed">
+<div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
+<div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
+<div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
+<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
+</div>
+</form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Zaprojektuj swoje nawyki z metodą B.J. Fogg&#x27;a</title>
         <author>
@@ -20,7 +84,7 @@
             <category term="Narzędzia"/>
             <category term="Biblioteczka Nomady"/>
 
-        <updated>2022-02-11T19:23:10+03:00</updated>
+        <updated>2022-02-11T19:36:50+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/70/jak-zaprojektowac-mikronawyki.png" alt="" />
@@ -131,10 +195,10 @@
 <p>Jesteśmy gotowi do wprowadzenia mikronawyku. Wiemy dokładnie jaki i gdzie pasuje on do naszej codziennej rutyny.</p>
 <p>Oczywiście nie możemy zapomnieć o świętowaniu. Za każdym razem, kiedy uda nam się wykonać nowy nawyk celebrujmy. Jak? To już zależy od nas. Ktoś może podskoczyć z radości, ktoś powie do siebie w duchu 'jestem super'. Znajdź swój sposób na autentyczne świętowanie. </p>
 <p><strong>A co jeśli nie udało nam się wykonać nawyku?</strong></p>
-<p>Nic nie szkodzi! Jak napisałam na początku projektowanie zachowań to umiejętność, więc nie będziemy doskonali od samego początku.</p>
+<p>Nic nie szkodzi! Jak napisałam na początku, projektowanie zachowań to umiejętność, więc nie będziemy doskonali od samego startu.</p>
 <p>Jeśli nie udało ci się wprowadzić nowego nawyku w życie, zastanów się jak możesz temu zaradzić. Może zeskaluj nawyk do jeszcze mniejszych rozmiarów? Może podnieś swoje kwalifikacje, aby mieć większe umiejętności do wykonania nawyku? A może pozbądź się przeszkód, które uniemożliwiają wykonanie nawyku lub poeksperymentuj z innym sygnałem? </p>
 <p>Fogg mówi, że projektowanie zachowań to proces, i to proces spersonalizowany. Także nie spiesz się, nie zgaduj, tylko zastanów się <strong>jak ten proces możesz usprawnić</strong>.</p>
-<p>Jak widzicie, ja wybrałam parę nawyków związanych z nauką j. chińskiego, która ostatnio coś mi wolno idzie...Jestem bardzo ciekawa jak poszło wam z projektowaniem zachowań i jakie nawyki wybraliście. Podzielcie się waszymi doświadczeniami pisząc na nomadbynaturexyz[@]protonmaiil.com lub wysyłając do mnie wiadomość na IG.</p>
+<p>Jak widzicie, ja wybrałam parę nawyków związanych z nauką j. chińskiego, która ostatnio coś mi wolno idzie... Jestem bardzo ciekawa jak poszło wam z projektowaniem zachowań i jakie nawyki wybraliście. Podzielcie się waszymi doświadczeniami pisząc na nomadbynaturexyz[@]protonmaiil.com lub wysyłając do mnie wiadomość na IG.</p>
 <p>Doskonałe materiały (w j. angielskim), które pomogą wam w projektowaniu znajdziecie u samego źródła - na oficjalnej stronie autora B.J. Fogg'a i jego <a href="https://tinyhabits.com/">książki 'Tiny Habits'</a>. A szczegółowe wyjaśnienie całego procesu (i więcej), w samej książce "Mikronawyki. Niewielkie zmiany, które wiele zmieniają". </p>
 <p>
 <script src="https://buybox.click/js/widget.min.js"></script>
@@ -1141,98 +1205,6 @@
 <div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
 <div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
 <div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
-</div>
-</form>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fiszki z języka chińskiego - szybki system z Pleco</title>
-        <author>
-            <name>Agnieszka</name>
-        </author>
-        <link href="https://nomadbynature.xyz/fiszki-z-jezyka-chinskiego-szybki-system-z-pleco/"/>
-        <id>https://nomadbynature.xyz/fiszki-z-jezyka-chinskiego-szybki-system-z-pleco/</id>
-            <category term="Narzędzia"/>
-            <category term="Chiny"/>
-
-        <updated>2021-10-27T22:22:30+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nomadbynature.xyz/media/posts/58/jak-sprawnie-robic-fiszki-z-chinskiego.jpg" alt="szuflada-z-papierem-zapisanym-chinskimi-znakami" />
-                    Specyfika języka chińskiego potrafi wywołać u uczących się tego języka niemałą frustrację. Ostatnio kiedy podczas lekcji online notowałam w zeszycie&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nomadbynature.xyz/media/posts/58/jak-sprawnie-robic-fiszki-z-chinskiego.jpg" alt="szuflada-z-papierem-zapisanym-chinskimi-znakami" />
-                <p>Specyfika języka chińskiego potrafi wywołać u uczących się tego języka niemałą frustrację.</p>
-<p>Ostatnio kiedy podczas lekcji online notowałam w zeszycie kolejne nieznane mi znaki, zastanawiałam się kiedy będę miała czas, aby je wszystkie wprowadzić do mojego systemu fiszek... </p>
-<p>Jeśli chodziłoby o jedno słówko, to biorę telefon do ręki, odpalam Pleco i dodaję fiszkę. Proste! A co jeśli mam takich słówek 10, 20, 50? Co jeśli nie pojawiają się na ekranie w formie tekstu, ale jako zdjęcie (zeskanowany dokument PDF, napisy pod filmem)?! Jak mogę szybko poznać wymowę widocznych na ekranie nowych dla mnie znaków a jednocześnie sprawnie dodać je do listy fiszek? <strong>Z naciskiem na sprawnie.</strong></p>
-<p>Myślę, że znalazłam rozwiązanie tego problemu, dlatego w tym poście dzielę się z wami moim mini-systemem. </p>
-<div class="post__toc">
-<h3>Spis treści</h3>
-<ul>
-<li><a href="#mcetoc_1fj1j7vu1l">System szybkiego dodawania fiszek Pleco</a></li>
-<li><a href="#mcetoc_1fj1j7vu1m">Jak szybko tworzyć fiszki z chińskiego w Pleco - krok po kroku.</a>
-<ul>
-<li><a href="#mcetoc_1fj1j7vu1n">Krok 1 - zainstaluj program OwlOCR</a></li>
-<li><a href="#mcetoc_1fj1j7vu1o">Krok 2 - poznaj skróty klawiszowe</a></li>
-<li><a href="#mcetoc_1fj1j7vu1p">Krok 3 - zainstaluj Clipt na komputerze i telefonie</a></li>
-<li><a href="#mcetoc_1fj1j7vu1q">Krok 4 - fiszki w aplikacji Pleco</a></li>
-</ul>
-</li>
-<li><a href="#mcetoc_1fj1j7vu1r">Podsumowanie</a></li>
-</ul>
-</div>
-<h2 id="mcetoc_1fj1j7vu1l">System szybkiego dodawania fiszek Pleco</h2>
-<p>Nie wszystkim z was przyda się każdy elementy systemu, proszę dostosujcie poszczególne elementy do waszych potrzeb i systemu operacyjnego czy narzędzi, z których korzystacie.</p>
-<p>Ja sama przy nauce chińskiego korzystam zarówno z komputera, jak i ze smartphone'a. Na komputerze zazwyczaj oglądam seriale czy filmy po chińsku, czytam różne materiały, czasem uczestniczę w zajęciach online. W tych sytuacjach wyłapuję nieznane słówka, do których chcę mieć szybki dostęp na telefonie. <strong>Oto mój proces:</strong></p>
-<ol>
-<li>zaznaczenie i skopiowanie tekstu widocznego na ekranie komputera za pomocą aplikacji OwlOCR</li>
-<li>wklejenie go bezpośrednio do słownika Pleco na telefonie za pośrednictwem Clipt</li>
-<li>dodanie słówek do odpowiedniej listy fiszek wewnątrz aplikacji Pleco</li>
-</ol>
-<p>I już, to proste jak raz, dwa, trzy!</p>
-<h2 id="mcetoc_1fj1j7vu1m">Jak szybko tworzyć fiszki z chińskiego w Pleco - krok po kroku.</h2>
-<p><span style="text-decoration: underline;">Co będzie ci potrzebne:</span></p>
-<ul>
-<li>komputer z zainstalowaną przeglądarką Chrome (lub inną przeglądarką zbudowaną na bazie Chromium, np. Vivaldi)</li>
-<li>konto Google</li>
-<li>smartphone/tablet</li>
-</ul>
-<h3 id="mcetoc_1fj1j7vu1n">Krok 1 - zainstaluj program OwlOCR</h3>
-<p>Z oficjalnej strony lub Mac App Store pobierz a następnie zainstaluj aplikację <a href="https://owlocr.com/" target="_blank" rel="noopener noreferrer">OwlOCR.</a> Po uruchomieniu aplikacji ustaw rozpoznawany język na chiński (uproszczony bądź tradycyjny), tak jak na zdjęciu poniżej.</p>
-<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/58/OwlOCR-rozpoznawanie-chinskich-znakow.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/58/responsive/OwlOCR-rozpoznawanie-chinskich-znakow-xs.png 300w ,https://nomadbynature.xyz/media/posts/58/responsive/OwlOCR-rozpoznawanie-chinskich-znakow-sm.png 480w ,https://nomadbynature.xyz/media/posts/58/responsive/OwlOCR-rozpoznawanie-chinskich-znakow-md.png 768w"  alt="aplikacja-OCR-rozpoznajaca-chinskie-znaki" width="1376" height="1396"></figure>
-<p><strong>Dzięki OwlOCR możesz zaznaczyć i skopiować chińskie znaki widoczne na ekranie, nawet jeśli nie są one w formie tekstu.</strong> Skrót OCR oznacza Optical Character Recognition, znaki będą automatycznie rozpoznane przez program, a ty nie musisz wiedzieć jak je przeczytać czy napisać, aby dodać je w miejsce docelowe, np. do listy fiszek. </p>
-<p><strong>Aplikacja OwlOCR działa w obrębie całego systemu operacyjnego Mac</strong>. Istnieją również inne tego typu programy, ale najczęściej działają one jedynie w obrębie przeglądarki internetowej, lub nie mają funkcji OCR, a jedynie rozpoznają te znaki, które są w formie tekstowej. Taką funkcję mają różne wtyczki typu pop-up, np. Perapera Chinese Popup Dictionary.</p>
-<p><span style="text-decoration: underline;">Jeśli zależy wam jedynie na szybkim tłumaczeniu chińskiego słowa w przeglądarce zainstalujcie podobną wtyczkę.</span></p>
-<h3 id="mcetoc_1fj1j7vu1o">Krok 2 - poznaj skróty klawiszowe</h3>
-<p>Poznaj skróty, a właściwie jeden skrót klawiaturowy do sprawnej obsługi OwlOCR, czyli <strong>⌘+D</strong>. To wystarczy, aby w locie 'łapać' kolejne znaki, czy to z PDF, czy z akurat oglądanego filmu z napisami.</p>
-<figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/58/OCR-chinskie-znaki.gif" alt="rozpoznawanie-chinskich-znakow-z-owlOCR" width="800" height="384"></figure>
-<p>Po zaznaczeniu przez ciebie fragmentu tekstu zostanie on <strong>automatycznie skopiowany do schowka</strong> (nie musisz już naciskać ⌘+C). Następnie możesz wkleić go do notatnika, przeglądarki, tłumacza, itp. w obrębie komputera lub za pomocą Clipt 'przerzucić' go od razu na swój telefon, co prowadzi mnie do:</p>
-<h3 id="mcetoc_1fj1j7vu1p">Krok 3 - zainstaluj Clipt na komputerze i telefonie</h3>
-<p>Clipt to schowek, dzięki któremu możesz robić <strong>kopiuj - wklej, ale pomiędzy różnymi urządzeniami</strong>. Aby wykorzystać jego możliwości konieczne jest (stety lub niestety), posiadanie konta Google. Jeśli masz już takie konto, w swojej przeglądarce Chrome, lub innej opartej na Chromium, dodaj wtyczkę o nazwie <a href="https://www.onelab.studio/work/clipt">Clipt</a>. Dodatkowo zainstaluj aplikację Clipt na co najmniej jeszcze jednym urządzeniu, które posiadasz (smartphone lub tablet). Na obu urządzeniach <strong>zaloguj się w Clipt używając tego samego konta Google.</strong></p>
-<p class="msg msg--warning">Jeśli chcesz używać Clipt jako schowka między różnymi urządzeniami aplikacja musi być jednocześnie aktywna na obu. Oznacza to: przeglądarka z aktywną wtyczką otwarta na komputerze i aktywna (w tle) aplikacja Clipt na telefonie/tablecie. Oczywiście do połączenia potrzebny jest również<strong> dostęp do Internetu na obu urządzeniach</strong>. </p>
-<p class="msg msg--success">Gdy masz już aktywny Clipt, skopiowane za pomocą OwlOCR słówka, zdania i zwroty możesz wklejać bezpośrednio do aplikacji Pleco.</p>
-<h3 id="mcetoc_1fj1j7vu1q">Krok 4 - fiszki w aplikacji Pleco</h3>
-<p>Po wklejeniu słówek z komputera bezpośrednio do aplikacji Pleco na telefonie wystarczy jedynie nacisnąć znak "+", aby dodać dane słowo do listy fiszek. Potem jeszcze fajnie byłoby się tych nowych słówek nauczyć, ale to już temat na inny czas ;)</p>
-<h2 id="mcetoc_1fj1j7vu1r">Podsumowanie</h2>
-<p>Elementy mojego mini-systemu można wykorzystać nawet jeśli używacie innych programów, nie musi być to koniecznie Pleco. Równie dobrze, może być to mocno rozbudowana aplikacja Anki lub popularny i wyspecjalizowany Skritter. Ja sama przerzuciłam się jednak ze Skritter'a na korzystanie z fiszek w Pleco z dwóch powodów:</p>
-<ul>
-<li>po pierwsze Pleco ma lepsze zdania przykładowe (które moim zdaniem są niezbędne w nauce chińskich słówek),</li>
-<li>po drugie fiszki w Pleco są darmowe, a dodatkowe funkcje jak np. spaced repetition, wymagają jedynie jednorazowej opłaty, podczas gdy Skritter działa w modelu subskrypcji</li>
-</ul>
-<p>Choć mój system tworzenia fiszek stworzyłam dość niedawno to już zaoszczędził mi czas i umilił naukę nieznanych chińskich znaków. Jeśli przydał się i wam, proszę podzielcie się tym postem z przyjaciółmi uczącymi się języka chińskiego.</p>
-<p><span style="color: var(--headings-color); font-family: var(--font-base); font-size: calc(1.42383em + 0.17798 * ((100vw - 49rem) / 51)); font-weight: var(--font-weight-bold); letter-spacing: -0.03rem;">Zapisz się do newsletter'a</span></p>
-<form id="revue-form" action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" name="revue-form" target="_blank">
-<div id="revue-embed">
-<div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
-<div class="revue-form-group"><input id="member_first_name" class="revue-form-field" name="member[first_name]" type="text" placeholder="Twoje imię"></div>
-<div class="revue-form-actions"><input id="member_submit" name="member[subscribe]" type="submit" value="Subskrybuję"></div>
-<div class="revue-form-footer">Poprzez subskrypcję zgadzasz się na <a target="_blank" href="https://www.getrevue.co/terms" rel="noopener">Warunki</a> i <a target="_blank" href="https://www.getrevue.co/privacy" rel="noopener">Politykę Prywatności</a> Revue.</div>
-<div> </div>
-<div>Dowiedz się <a href="https://nomadbynature.xyz/jak-pisac-po-chinsku-na-komputerze-lub-telefonie/">jak zainstalować chińską klawiaturę</a> na telefonie lub komputerze.</div>
 </div>
 </form>
             ]]>
