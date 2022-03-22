@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2022-03-22T19:51:01+03:00</updated>
+    <updated>2022-03-22T20:05:42+03:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2022-03-22T19:51:01+03:00</updated>
+        <updated>2022-03-22T20:05:42+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/73/aplikacja-logseq-notatki.jpg" alt="" />
@@ -73,7 +73,7 @@
 <p>Innymi słowy, jeśli musimy coś zanotować będzie to łatwe i jeśli chcemy odszukać potrzebną nam informację, również będzie to łatwe. </p>
 <p><strong>Jak ma się do tego Logseq i jak mają się do tego bardziej tradycyjne metody notowania?</strong></p>
 <ul>
-<li>Papierowy zeszyt
+<li><strong>Papierowy zeszyt</strong>
 <ul>
 <li>Pod warunkiem, że mamy coś do pisania, wprowadzanie notatek do zeszytu jest bardzo proste, zwyczajnie zapisujemy to co chcemy.</li>
 <li>Ale co z 'wyprowadzaniem' notatki z takiego papierowego medium? Z tym jest już gorzej...jeśli mamy tylko parę notatek, ok, potrzebną odszukamy szybko, ale co jeśli zapisaliśmy cały zeszyt? Jak odnaleźć i skorzystać z informacji, która jest nam potrzebna? Aby odnaleźć notatkę w takim systemie musimy albo polegać na pamięci, albo zmarnować dużo czasu, aby ją odszukać. Mało to efektywne.</li>
@@ -82,7 +82,7 @@
 </ul>
 <figure class="post__image align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/73/undraw_Specs_re_546x.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/73/responsive/undraw_Specs_re_546x-xs.png 300w ,https://nomadbynature.xyz/media/posts/73/responsive/undraw_Specs_re_546x-sm.png 480w ,https://nomadbynature.xyz/media/posts/73/responsive/undraw_Specs_re_546x-md.png 768w"  alt="" width="300" height="167"></figure>
 <ul>
-<li>Notatki w Google Docs lub w Microsoft Word (foldery + pliki)
+<li><strong>Notatki w Google Docs lub w Microsoft Word (foldery + pliki)</strong>
 <ul>
 <li>W takim systemie problem pojawia się jeszcze wcześniej, niż przy papierowym zeszycie, bo na etapie wprowadzania notatki do systemu. Gdzie mamy ją umieścić? W nowym pliku? W już istniejącym? W którym folderze lub podfolderze? A jeśli notatka pasuje do kilku kategorii/folderów? - tracimy dużo mentalnej energii na organizowanie i reorganizowanie notatek...</li>
 <li>A co z wyszukiwaniem potrzebnych notatek? Dokumenty Google lub Word mają przewagę nad papierowym zeszytem, możemy użyć opcji wyszukiwania. Niestety najprawdopodobniej narzędzie do wyszukiwania np. słów kluczowych będzie działać tylko w obrębie pojedynczego pliku, nie w obrębie wszystkich plików - także znów musimy zmarnować czas i pamiętać, gdzie umieściliśmy daną informację.</li>
@@ -91,7 +91,7 @@
 </ul>
 <figure class="post__image align-center"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/73/undraw_Folder_re_apfp.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/73/responsive/undraw_Folder_re_apfp-xs.png 300w ,https://nomadbynature.xyz/media/posts/73/responsive/undraw_Folder_re_apfp-sm.png 480w ,https://nomadbynature.xyz/media/posts/73/responsive/undraw_Folder_re_apfp-md.png 768w"  alt="" width="300" height="211"></figure>
 <ul>
-<li>Evernote - popularna aplikacja do notowania
+<li><strong>Evernote - popularna aplikacja do notowania</strong>
 <ul>
 <li>Niestety popularne Evernote działa na zasadzie podobnego hierarchicznego modelu jaki mamy w przypadku folderów i plików (tyle, że w Evernote nazywane są one odpowiednio zeszytami i notatkami), także wprowadzanie informacji, znów będzie od nas wymagało decyzji - 'gdzie mam umieścić daną informację?'</li>
 <li>Jednak zaletą Evernote jest to, że można z łatwością przeszukiwać treść wszystkich notatek - co oznacza, że z łatwością odnajdziemy tą, której potrzebujemy.</li>
@@ -175,7 +175,7 @@
 <p>Najpierw, <a href="https://github.com/logseq/logseq/releases">ściągnij plik instalacyjny</a> odpowiedni dla twojego systemu operacyjnego z oficjalnego repozytorium na GitHub.</p>
 <p>Następnie otwórz plik i kieruj się instrukcjami widocznymi na twoim ekranie (sposób instalacji, będzie różnił się w zależności od systemu). Obecnie wspierane są systemy MacOS, Windows i Linux.</p>
 <p class="msg msg--warning">Uwaga! Tak, jak wspomniałam, <strong>Logseq często wypuszcza aktualizacje</strong>. <br>Aby program działał poprawnie, należy korzystać z najnowszej wersji. Dostępność nowszej wersji sprawdzisz w <strong>Settings --&gt; zakładka General ---&gt; 'Check for updates'</strong>. Jeśli konieczna jest aktualizacja do nowszej wersji, przeprowadź ją.</p>
-<h3 id="mcetoc_1fuobesgt2k">Pierwsze uruchomienie programu</h3>
+<h3 id="mcetoc_1fuobesgt2k"><br>Pierwsze uruchomienie programu</h3>
 <p>Po instalacji, uruchom program. </p>
 <p>Na ekranie pojawi się okno Logseq, z wiadomością:</p>
 <figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/73/logseq-dla-poczatkujacych.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/73/responsive/logseq-dla-poczatkujacych-xs.png 300w ,https://nomadbynature.xyz/media/posts/73/responsive/logseq-dla-poczatkujacych-sm.png 480w ,https://nomadbynature.xyz/media/posts/73/responsive/logseq-dla-poczatkujacych-md.png 768w"  alt="" width="800" height="87"></figure>
@@ -184,7 +184,7 @@
 <p>Aby, otworzyć folder, naciśnij 'open', tak jak na zrzucie ekranu poniżej:</p>
 <figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/73/logseq-otworz-nowy-graf.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/73/responsive/logseq-otworz-nowy-graf-xs.png 300w ,https://nomadbynature.xyz/media/posts/73/responsive/logseq-otworz-nowy-graf-sm.png 480w ,https://nomadbynature.xyz/media/posts/73/responsive/logseq-otworz-nowy-graf-md.png 768w"  alt="" width="800" height="452"></figure>
 <p class="msg msg--warning">Uwaga! Nie zdarzyła mi się utrata notatek w Logseq, ale aplikacja jest cały czas w wersji beta. Jej twórcy zalecają przechowywać kopię notatek, np. na GitHub.</p>
-<h3 id="mcetoc_1fuobesgt2l">Dodawanie notatek - dziennik</h3>
+<h3 id="mcetoc_1fuobesgt2l"><br>Dodawanie notatek - dziennik</h3>
 <p>Po wyborze miejsca przechowywania notatek, możemy zabrać się wreszcie za coś ciekawego - czyli notowanie i rozwijanie naszych genialnych pomysłów :)</p>
 <p>Okno Logseq wygląda tak (kolorystyka zmieni się wraz z używanym motywem i trybem):</p>
 <figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/73/logseq-interface-notatki.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/73/responsive/logseq-interface-notatki-xs.png 300w ,https://nomadbynature.xyz/media/posts/73/responsive/logseq-interface-notatki-sm.png 480w ,https://nomadbynature.xyz/media/posts/73/responsive/logseq-interface-notatki-md.png 768w"  alt="" width="800" height="500"></figure>
@@ -219,7 +219,7 @@
 <p>Ale Logseq idzie o krok dalej.</p>
 <p>Poniżej wyświetlić możemy również tzw. <strong>unlinked references</strong> - czyli miejsca, w których pojawiło się słowo Logseq, ale samodzielnie go nie zalinkowałam.<strong> </strong>W ten sposób program podpowiada nam, podsuwając potencjalnie ciekawe, a zapomniane notatki na interesujący nas temat!</p>
 <figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/73/niezalinkowane-referencje-logseq-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/73/responsive/niezalinkowane-referencje-logseq-2-xs.png 300w ,https://nomadbynature.xyz/media/posts/73/responsive/niezalinkowane-referencje-logseq-2-sm.png 480w ,https://nomadbynature.xyz/media/posts/73/responsive/niezalinkowane-referencje-logseq-2-md.png 768w"  alt="" width="800" height="530"></figure>
-<h4 id="mcetoc_1fuobesgt2o">Tagi</h4>
+<h4 id="mcetoc_1fuobesgt2o"><br>Tagi</h4>
 <p>Tagi w Logseq pełnią w zasadzie tą samą funkcję co [[]] - tworzą stronę. <strong>Strony to takie węzły informacyjne wewnątrz Logseq.</strong></p>
 <p>Tagi # pozwalają na oznaczenie tylko pojedynczego słowa (albo słów napisanych bez spacji). Np. #logseq #aplikacjalogseq lub [[aplikacja Logseq]].</p>
 <p>To w jakie sposób będziesz używać tagów, w dużym stopniu będzie zależeć od ciebie. Ja proponuję używać ich oszczędnie i w sposób przemyślany. Zaawansowana funkcja wyszukiwania 'search' w Logseq sprawia, że nie ma sensu tagować wszystkiego słowami kluczowymi, czy kategoriami. </p>
@@ -228,8 +228,7 @@
 <h4 id="mcetoc_1fup20cp850">Menadżer zadań</h4>
 <p>W Logseq możesz tworzyć i zarządzać listą zadań 'do zrobienia'. W tym celu w obrębie bloku wpisujemy już nam znany<strong> </strong>/ i komendę todo ---&gt; <strong>/TODO</strong>. Z przodu bloku pojawi się checkbox, jeśli go zaznaczymy, znaczy, że wykonaliśmy zadanie.</p>
 <p>Do naszych zadań możemy dodawać również priorytet, lub datę wykonania, ale o tym opowiem już innym razem.</p>
-<p>Jeśli chcecie otrzymywać powiadomienia o nowych treściach, zapiszcie się do newsletter'a.</p>
-<p> </p>
+<p>Jeśli chcecie otrzymywać powiadomienia o nowych treściach, zapiszcie się do newsletter'a.<br><br></p>
 <form action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" target="_blank">
 <div id="revue-embed">
 <div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
