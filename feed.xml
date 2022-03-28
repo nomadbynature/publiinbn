@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2022-03-22T20:05:42+03:00</updated>
+    <updated>2022-03-28T13:43:40+03:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2022-03-22T20:05:42+03:00</updated>
+        <updated>2022-03-28T12:49:13+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/73/aplikacja-logseq-notatki.jpg" alt="" />
@@ -30,7 +30,7 @@
             <![CDATA[
                     <img src="https://nomadbynature.xyz/media/posts/73/aplikacja-logseq-notatki.jpg" alt="" />
                 <p>Ostatnio w 'notatkowej sferze' krążą dwie aplikacje, które moim zdaniem odstają od reszty, ale w jak najbardziej pozytywnym znaczeniu - <strong>Obsidian</strong> i <strong>Logseq</strong>.</p>
-<p>O ile <a href="https://nomadbynature.xyz/aplikacja-obsidian-jak-zaczac-uzywac/">o Obsidian</a> pisałam już wcześniej i jest to produkt bardziej dojrzały. Dziś chcę przedstawić wam <strong>aplikację Logseq.</strong></p>
+<p>O ile <a href="https://nomadbynature.xyz/aplikacja-obsidian-jak-zaczac-uzywac/">o Obsidian</a> pisałam już wcześniej i jest to produkt bardziej dojrzały. Dziś chcę przedstawić wam darmową <strong>aplikację Logseq.</strong></p>
 <p>Po przeczytaniu posta będziecie wiedzieć do czego służy, dlaczego mielibyście z niej korzystać oraz <strong>poznacie jej podstawowe cechy i możliwości.</strong></p>
 <p>To będzie dość długi post, mam sporo do powiedzenia na temat Logseq. Dla waszej wygody, poniżej umieszczam spis treści:</p>
 <div class="post__toc">
@@ -153,7 +153,7 @@
 <p>Deweloperzy i społeczność skupiona wokół aplikacji, co rusz dodają nowe funkcje i optymalizują już istniejące. Poniżej podaję podstawowe cechy Logseq, które nie powinny się raczej zmienić (ale nie trzymajcie mnie za słowo):</p>
 <ul>
 <li>Logseq stawia na <strong>długowieczność twoich notatek</strong> - działa na plikach zapisanych w plain text (póki co w formatach <strong><a href="https://nomadbynature.xyz/aplikacja-obsidian-szybsze-tworzenie-notatek-z-markdown/">markdown</a></strong> i <strong>org mode</strong>), co oznacza, że twoje notatki nie są przywiązane do zastrzeżonego oprogramowania (jak ma to miejsce np. w przypadku Evernote lub <a href="https://nomadbynature.xyz/jak-zaczac-z-aplikacja-notion-poradnik-dla-poczatkujacych/">Notion</a>).</li>
-<li>oprogramowanie front-end jest otwarte (<strong>open source</strong>)</li>
+<li>oprogramowanie front-end jest otwarte (<strong>open source</strong>) i darmowe</li>
 <li>oprogramowanie dostępne dla MacOS, Linux, Windows, Android i iOS (prace nad możliwością synchronizacji notatek trwają)</li>
 <li>notatki są przechowywane na twoim dysku (czyli na dysku, nad którym <strong>masz kontrolę</strong>)</li>
 <li><strong>linki dwukierunkowe</strong>, tzw. dwuuszne, tagowanie - opcje w dużym stopniu odpowiedzialne za 'wypływanie' notatek na powierzchnię (notes resurfacing)</li>
@@ -250,7 +250,7 @@
             <category term="Turcja"/>
             <category term="Podróże"/>
 
-        <updated>2022-03-20T12:53:13+03:00</updated>
+        <updated>2022-03-28T13:43:40+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/74/turcja-kas.jpg" alt="zatoka-w-kas-z-drona-turcja" />
@@ -273,6 +273,7 @@
 <li><a href="#mcetoc_1fsvo02m716">Piątkowy rynek z lokalnymi produktami</a></li>
 <li><a href="#mcetoc_1fsvo02m717">Antyczny Teatr</a></li>
 <li><a href="#mcetoc_1fsvtoek1m">Półwysep Cukurbag (Çukurbağ)</a></li>
+<li><a href="#mcetoc_1fv7ul14g3">Nagranie z pobytu w Kas</a></li>
 </ul>
 </li>
 <li><a href="#mcetoc_1fu9hj47e7i">Plaże w Kas i okolicy</a>
@@ -313,11 +314,26 @@
 <p>W godzinach porannych na scenie teatru spotyka się grupa praktykująca jogę. Każdy może dołączyć do zajęć. Dochód z dobrowolnych datków przeznaczony jest czasem na potrzeby lokalnej organizacji zajmującej się bezpańskimi zwierzakami.</p>
 <figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/74/antiphellos-turcja-teatr.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/74/responsive/antiphellos-turcja-teatr-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/74/responsive/antiphellos-turcja-teatr-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/74/responsive/antiphellos-turcja-teatr-md.jpg 768w"  alt="antyczny-teatr-w-kas-turcja-z-widokiem-na-morze" width="800" height="450"></figure>
 <p>Do teatru warto wybrać się także wieczorem. To jeden z najlepszych punktów na podziwianie zachodu słońca.</p>
+<h3>Śpiący Gigant (Yatam Adam)</h3>
+<p>Nad miasteczkiem Kas czuwa Śpiący Gigant.</p>
+<p>Jest to ogromna formacja skalna przypominająca śpiącego człowieka (coś jak nasz polski Giewont). Legenda głosi (choć zdaje się, że jest parę wersji tej legendy), że Śpiący Gigant to zakochany rybak, który przez trzęsienie ziemi został oddzielony od swojej ukochanej. Jego ukochaną symbolizuje leżąca na przeciwko Giganta wyspa Meis (grecki: Kastellorizo).</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/74/gallery/spiacy-gigant-kas-turcja.jpg" data-size="600x900"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/74/gallery/spiacy-gigant-kas-turcja-thumbnail.jpg" alt="gory-w-ksztalcie-spiacego-czlowieka-budynki-miasta-kas-na-zboczu-rosliny" width="600" height="900"></a>
+<figcaption>Śpiący Gigant w Kas</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://nomadbynature.xyz/media/posts/74/gallery/wyspa-meis-kas.jpg" data-size="600x900"><img loading="lazy" src="https://nomadbynature.xyz/media/posts/74/gallery/wyspa-meis-kas-thumbnail.jpg" alt="wyspa-w-oddali-zachmurzone-niebo" width="600" height="900"></a>
+<figcaption>Ukochana - wyspa Meis</figcaption>
+</figure>
+</div></div>
+<p>Kiedyś kochankowie obudzą się i znów będą razem, póki co są symbolem nieustającej miłości.</p>
 <h3 id="mcetoc_1fsvtoek1m">Półwysep Cukurbag (Çukurbağ)</h3>
 <p>Tereny półwyspu Cukurbag to idealne miejsce na krótki, lub jeśli zdecydujecie się obejść cały półwysep, dłuższy spacer.</p>
 <p>Wokół całego półwyspu prowadzi asfaltowa droga, także idzie się łatwo. Oprócz pięknych widoków na Kas, góry Taurus i plaż z turkusową wodą, nie ma tu żadnych innych atrakcji.</p>
 <figure class="post__image"><img loading="lazy"  src="https://nomadbynature.xyz/media/posts/74/plaza-kas-polwysep.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://nomadbynature.xyz/media/posts/74/responsive/plaza-kas-polwysep-xs.jpg 300w ,https://nomadbynature.xyz/media/posts/74/responsive/plaza-kas-polwysep-sm.jpg 480w ,https://nomadbynature.xyz/media/posts/74/responsive/plaza-kas-polwysep-md.jpg 768w"  alt="brzeg-polwyspu-blekitna-woda-zatoki" width="800" height="450"></figure>
 <p>Duża część półwyspu została zagarnięta pod deweloperkę. Co rusz powstają nowe hotele, apartamenty i wille pod wynajem. Szkoda gdyby za parę lat okazało się, że wszystkie tereny zostały zagospodarowane, a z dzikich zarośli i ukwieconych łąk nie pozostało ani śladu...</p>
+<h3 id="mcetoc_1fv7ul14g3">Nagranie z pobytu w Kas</h3>
+<p>Jeśli wolicie format video, atrakcje Kas pokazuję w tym nagraniu:</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Csny2aP4qKY" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h2 id="mcetoc_1fu9hj47e7i">Plaże w Kas i okolicy</h2>
 <p>Plaże w Kas i okolicy są w większości kamieniste. Dlatego polecam zaopatrzeć się w <strong>buty do pływania</strong>, inaczej wejście i wyjście z wody może być utrudnione. Stąpanie po nierównych kamieniach jest mało przyjemne. Za to przyjemne są widoki.</p>
 <p>Morska woda na riwierze jest czysta i we wszystkich odcieniach niebieskiego! Aż chce się wskoczyć i popływać. Jeśli chodzi o temperaturę, to <strong>woda jest najcieplejsza jesienią</strong>, po upalnym lecie. Ale da się pływać w zasadzie cały rok.</p>
