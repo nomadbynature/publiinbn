@@ -3,7 +3,7 @@
     <title>Nomad by nature</title>
     <link href="https://nomadbynature.xyz/feed.xml" rel="self" />
     <link href="https://nomadbynature.xyz" />
-    <updated>2022-04-02T08:55:24+03:00</updated>
+    <updated>2022-04-29T10:03:35+03:00</updated>
     <author>
         <name>Agnieszka</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Produktywność"/>
             <category term="Narzędzia"/>
 
-        <updated>2022-03-28T12:49:13+03:00</updated>
+        <updated>2022-04-29T10:03:35+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nomadbynature.xyz/media/posts/73/aplikacja-logseq-notatki.jpg" alt="" />
@@ -57,6 +57,7 @@
 </li>
 </ul>
 </li>
+<li><a href="#mcetoc_1g1q23b9jh">Video o Logseq</a></li>
 </ul>
 </div>
 <h2 id="mcetoc_1fsltkc1ls">Czym jest i do czego służy Logseq?</h2>
@@ -228,7 +229,11 @@
 <h4 id="mcetoc_1fup20cp850">Menadżer zadań</h4>
 <p>W Logseq możesz tworzyć i zarządzać listą zadań 'do zrobienia'. W tym celu w obrębie bloku wpisujemy już nam znany<strong> </strong>/ i komendę todo ---&gt; <strong>/TODO</strong>. Z przodu bloku pojawi się checkbox, jeśli go zaznaczymy, znaczy, że wykonaliśmy zadanie.</p>
 <p>Do naszych zadań możemy dodawać również priorytet, lub datę wykonania, ale o tym opowiem już innym razem.</p>
-<p>Jeśli chcecie otrzymywać powiadomienia o nowych treściach, zapiszcie się do newsletter'a.<br><br></p>
+<p>Jeśli chcecie otrzymywać powiadomienia o nowych treściach, zapiszcie się do newsletter'a.</p>
+<h2 id="mcetoc_1g1q23b9jh">Video o Logseq</h2>
+<p>O Logseq opowiadam również w formie video, zajrzyjcie na kanał 'Połącz myśli':</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/fwclCbB6xgg?list=PLgSrZjHmS9hvAQY3tMikJ-g1KIFnSa216" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<p> </p>
 <form action="https://www.getrevue.co/profile/nomadbynature/add_subscriber" method="post" target="_blank">
 <div id="revue-embed">
 <div class="revue-form-group"><input id="member_email" class="revue-form-field" name="member[email]" type="email" placeholder="Twój adres e-mail"></div>
